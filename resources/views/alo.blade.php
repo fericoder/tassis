@@ -310,7 +310,8 @@ div.product ul.tabs li a:before {
                                   data-vbility="t,t,f,f"
                                   data-frame_1="st:380;sR:380;"
                                   data-frame_999="o:0;st:w;sR:8320;"
-                                  >به صورت شبانه روزی<br>آماده خدمت رسانی
+                                  >
+                                  بصورت شبانه روزی
                               </rs-layer>
                               <rs-layer
                                   id="slider-2-slide-1-layer-13"
@@ -347,10 +348,10 @@ div.product ul.tabs li a:before {
                             </div>
                             <div class="featured-content"><!--  featured-content -->
                                 <div class="featured-title"><!--  featured-title -->
-                                    <h5>Trusted Services</h5>
+                                    <h5>تست</h5>
                                 </div>
                                 <div class="featured-desc"><!--  featured-desc -->
-                                    <p>We Are Trusted Our Customers</p>
+                                    <p>تست</p>
                                 </div>
                             </div>
                         </div><!--  featured-icon-box END -->
@@ -365,10 +366,10 @@ div.product ul.tabs li a:before {
                             </div>
                             <div class="featured-content"><!--  featured-content -->
                                 <div class="featured-title"><!--  featured-title -->
-                                    <h5>24/7 Support</h5>
+                                    <h5>24/7</h5>
                                 </div>
                                 <div class="featured-desc"><!--  featured-desc -->
-                                    <p>000 7845 114- 123 4567 890</p>
+                                    <p>2470</p>
                                 </div>
                             </div>
                         </div><!--  featured-icon-box END -->
@@ -383,10 +384,10 @@ div.product ul.tabs li a:before {
                             </div>
                             <div class="featured-content"><!--  featured-content -->
                                 <div class="featured-title"><!--  featured-title -->
-                                    <h5>Expert &amp; Professional</h5>
+                                    <h5>تست</h5>
                                 </div>
                                 <div class="featured-desc"><!--  featured-desc -->
-                                    <p>We Are Trusted Our Customers</p>
+                                    <p>تست</p>
                                 </div>
                             </div>
                         </div><!--  featured-icon-box END -->
@@ -915,147 +916,6 @@ div.product ul.tabs li a:before {
                    </div><!-- row end -->
                </div>
            </section>
-
-
-           <!-- blog-section end -->
-           <section class="ttm-row blog-section clearfix">
-               <div class="container">
-                   <div class="row">
-                       <div class="col-md-12">
-                           <!-- section title -->
-                           <div class="section-title text-center with-desc clearfix">
-                               <div class="title-header">
-
-                                   <h2 class="title"> مقالات <span>تسیس</span></h2>
-                               </div>
-                           </div><!-- section title end -->
-                       </div>
-                   </div>
-                   <!-- row -->
-                   <div class="row">
-                       <!-- blog-slide -->
-                       <div class="blog-slide owl-carousel owl-theme owl-loaded " data-item="3" data-nav="false" data-dots="false" data-auto="false">
-                           <!-- featured-imagebox-blog -->
-                           <div class="featured-imagebox featured-imagebox-blog">
-                               <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/blog/mk.jpg" alt="" style="height:225px;">
-                                   <div class="ttm-blog-overlay-iconbox">
-                                       <a href=""><i class="ti ti-plus"></i></a>
-                                   </div>
-                                   <div class="ttm-box-view-overlay"></div>
-                               </div>
-                               <div class="featured-content"><!-- featured-content -->
-                                   <div class="ttm-box-post-date"><!-- ttm-box-post-date -->
-                                       <span class="ttm-entry-date">
-                                           <time class="entry-date" datetime="2019-01-16T07:07:55+00:00"><span class="tasis-byekan">17</span><span class="entry-month entry-year">دی</span></time>
-                                       </span>
-                                   </div>
-                                   <div class="featured-title"><!-- featured-title -->
-                                       <h5><a href="">محل قرار گیری موتورخانه ها </a></h5>
-                                   </div>
-                                   <div class="post-meta"><!-- post-meta -->
-                                       <span class="ttm-meta-line tasis-byekan"><i class="fa fa-comments"></i> 2 گفت و گو</span>
-                                       <span class="ttm-meta-line"style="padding-right: 5px;"><i class="fa fa-user ml-1"></i>رضایی</span>
-
-                                   </div>
-                                   <div class="featured-desc" style="text-align:justify;"><!-- featured-description -->
-                                       <p>این اتاق معمولا به دستگاه های مکانیکی و کنترل کننده های الکتریکی ، اختصاص داده می شود. معمولا محل قرار گیری موتورخانه ها در زیر زمین خانه است و در محل ها و ساختمان های بزرگ تر معمولا...</p>
-                                   </div>
-                                   <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-20" href="#"><i class="ti ti-angle-double-left"></i>بیشتر بخوانید </a>
-                               </div>
-                           </div><!-- featured-imagebox-blog end -->
-                           <!-- featured-imagebox-blog -->
-                           <div class="featured-imagebox featured-imagebox-blog">
-                               <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/blog/azja.jpg" alt="" style="height:225px;">
-                                   <div class="ttm-blog-overlay-iconbox">
-                                       <a href=""><i class="ti ti-plus"></i></a>
-                                   </div>
-                                   <div class="ttm-box-view-overlay"></div>
-                               </div>
-                               <div class="featured-content"><!-- featured-content -->
-                                   <div class="ttm-box-post-date"><!-- ttm-box-post-date -->
-                                       <span class="ttm-entry-date">
-                                           <time class="entry-date" datetime="2019-01-16T07:07:55+00:00"><span class="tasis-byekan">12</span><span class="entry-month entry-year">بهمن</span></time>
-                                       </span>
-                                   </div>
-                                   <div class="featured-title"><!-- featured-title -->
-                                       <h5><a href="">اجزای موجود در موتورخانه </a></h5>
-                                   </div>
-                                   <div class="post-meta"><!-- post-meta -->
-                                     <span class="ttm-meta-line tasis-byekan"><i class="fa fa-comments"></i> 2 گفت و گو</span>
-                                     <span class="ttm-meta-line"style="padding-right: 5px;"><i class="fa fa-user ml-1"></i>رضایی</span>
-
-                                   </div>
-                                   <div class="featured-desc" style="text-align:justify;"><!-- featured-description -->
-                                       <p>معمولا هدف تجهیزاتی که در موتورخانه هستند ، تهویه مطبوع و گرمایش ساختمان است. در سیستم های تهویه مطبوع و گرمایش ، روش های متتعددی به کار گرفته می شود و بنا بر هر کدام...</p>
-                                   </div>
-                                   <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-20" href="#"><i class="ti ti-angle-double-left"></i>بیشتر بخوانید </a>
-                               </div>
-                           </div><!-- featured-imagebox-blog end -->
-                           <!-- featured-imagebox-blog -->
-                           <div class="featured-imagebox featured-imagebox-blog">
-                               <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/blog/t.jpg" alt="" style="height:225px;">
-                                   <div class="ttm-blog-overlay-iconbox">
-                                       <a href=""><i class="ti ti-plus"></i></a>
-                                   </div>
-                                   <div class="ttm-box-view-overlay"></div>
-                               </div>
-                               <div class="featured-content"><!-- featured-content -->
-                                   <div class="ttm-box-post-date"><!-- ttm-box-post-date -->
-                                       <span class="ttm-entry-date">
-                                           <time class="entry-date" datetime="2019-01-16T07:07:55+00:00"><span class="tasis-byekan">4</span><span class="entry-month entry-year">اسفند</span></time>
-                                       </span>
-                                   </div>
-                                   <div class="featured-title"><!-- featured-title -->
-                                       <h5><a href="">برخی تجهیزات موتور خانه ها </a></h5>
-                                   </div>
-                                   <div class="post-meta"><!-- post-meta -->
-                                     <span class="ttm-meta-line tasis-byekan"><i class="fa fa-comments"></i> 2 گفت و گو</span>
-                                     <span class="ttm-meta-line"style="padding-right: 5px;"><i class="fa fa-user ml-1"></i>رضایی</span>
-
-                                   </div>
-                                   <div class="featured-desc" style="text-align:justify;"><!-- featured-description -->
-                                       <p>در موتور خانه ها اجزای زیادی از قبیل وسائل تولید حرارت مثل دیگ ها، چیلرها، مشعل، لوله ها انتقال و غیره وجود دارند که در اینجا به معرفی برخی از آن ها می پردازیم...</p>
-                                   </div>
-                                     <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-20" href="#"><i class="ti ti-angle-double-left"></i>بیشتر بخوانید </a>
-                               </div>
-                           </div><!-- featured-imagebox-blog end -->
-                           <!-- featured-imagebox-blog -->
-                           <div class="featured-imagebox featured-imagebox-blog">
-                               <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/blog/dig.png" alt="" style="height:225px;">
-                                   <div class="ttm-blog-overlay-iconbox">
-                                       <a href=""><i class="ti ti-plus"></i></a>
-                                   </div>
-                                   <div class="ttm-box-view-overlay"></div>
-                               </div>
-                               <div class="featured-content"><!-- featured-content -->
-                                   <div class="ttm-box-post-date"><!-- ttm-box-post-date -->
-                                       <span class="ttm-entry-date">
-                                           <time class="entry-date" datetime="2019-01-16T07:07:55+00:00"><span class="tasis-byekan">26</span><span class="entry-month entry-year">فروردین</span></time>
-                                       </span>
-                                   </div>
-                                   <div class="featured-title"><!-- featured-title -->
-                                       <h5><a href="">دیگ ها در موتور خانه </a></h5>
-                                   </div>
-                                   <div class="post-meta"><!-- post-meta -->
-                                     <span class="ttm-meta-line tasis-byekan"><i class="fa fa-comments"></i> 2 گفت و گو</span>
-                                     <span class="ttm-meta-line"style="padding-right: 5px;"><i class="fa fa-user ml-1"></i>رضایی</span>
-
-                                   </div>
-                                   <div class="featured-desc" style="text-align:justify;"><!-- featured-description -->
-                                       <p>از معمول ترین مولد های گرمایی،دیگ های حرارت مرکزی می باشند . در دیگ ها انرژی حرارتی از سوخت (که توسط مشعل تولید حرارت می نماید ) گرفته شده و به آن داده می شود . بسته به نوع مصرف...</p>
-                                   </div>
-                                   <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-20" href="#"><i class="ti ti-angle-double-left"></i>بیشتر بخوانید </a>
-                               </div>
-                           </div><!-- featured-imagebox-blog end -->
-                       </div>
-                   </div><!-- row end -->
-               </div>
-           </section>
-           <!-- process-section end -->
 
        </div><!--site-main end-->
 

@@ -253,16 +253,10 @@
                             <!-- section-title -->
                             <div class="section-title style2 clearfix">
                                 <div class="title-header">
-                                    <h5>درباره تیم تسیس</h5>
-                                    <h2 class="title"> گفت‌و‌گو با <span>تیم رهبری</span></h2>
+                                    <h5>اعضای تسیس</h5>
+                                    <h2 class="title">آشنایی با اعضای تسیس</h2>
                                 </div>
-                                <div class="title-desc"> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  </div>
                             </div><!-- section-title end -->
-                        </div>
-                        <div class="col-lg-3 col-xl-2 col-md-3">
-                            <div class="text-md-right">
-                                <a class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-btn-color-darkgrey mb-40" href="#" title=""> بیشتر بخوانید </a>
-                            </div>
                         </div>
                     </div>
                     <!-- row end -->
@@ -287,7 +281,7 @@
                                         <div class="featured-title"><!-- featured-title -->
                                             <h5><a href="">رضا رضایی</a></h5>
                                         </div>
-                                        <p class="category">نرم افزار</p><!-- category -->
+                                        <p class="category">مدیر عامل</p><!-- category -->
                                     </div>
                                 </div>
                             </div><!-- featured-imagebox-team end-->
@@ -309,7 +303,7 @@
                                         <div class="featured-title"><!-- featured-title -->
                                             <h5><a href="">رضا رضایی</a></h5>
                                         </div>
-                                        <p class="category">طراح وبسایت</p><!-- category -->
+                                        <p class="category">مدیر عامل</p><!-- category -->
                                     </div>
                                 </div>
                             </div><!-- featured-imagebox-team end-->
@@ -331,7 +325,7 @@
                                         <div class="featured-title"><!-- featured-title -->
                                             <h5><a href="">رضا رضایی</a></h5>
                                         </div>
-                                        <p class="category">نرم افزار</p><!-- category -->
+                                        <p class="category">مدیر عامل</p><!-- category -->
                                     </div>
                                 </div>
                             </div><!-- featured-imagebox-team end-->
@@ -353,7 +347,7 @@
                                         <div class="featured-title"><!-- featured-title -->
                                             <h5><a href="">رضا رضایی</a></h5>
                                         </div>
-                                        <p class="category">طراح وبسایت</p><!-- category -->
+                                        <p class="category">مدیر عامل</p><!-- category -->
                                     </div>
                                 </div>
                             </div><!-- featured-imagebox-team end-->

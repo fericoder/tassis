@@ -33,20 +33,40 @@
             <section class="ttm-row grid-section clearfix">
                 <div class="container">
                     <!-- row -->
+
+
+                    <div class="row">
+
+
+                            <div class="col-lg-3 col-md-6 col-sm-6">
+                                <div class="product"><!-- product -->
+                                    <div class="product-thumbnail"><!-- product-thumbnail -->
+                                        <img class="img-fluid w-100" src="images/team-member/client-05.jpeg" alt="">
+                                        <div class="ttm-shop-icon"><!-- ttm-shop-icon -->
+                                            <div class="product-btn add-to-cart-btn"><a href="#">جهت مشاهده کلیک نمایید</a></div>
+                                        </div>
+                                    </div><!-- product-thumbnail end -->
+                                    <div class="product-content text-center"><!-- product-content -->
+                                        <div class="product-title"><!-- product-title -->
+                                            <h2><a href="">شرکت</a></h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+
+
+
                     <div class="row">
                         <div class="col-md-3 col-lg-3 col-sm-3">
                             <!-- featured-imagebox-team -->
                             <div class="featured-imagebox featured-imagebox-team style1 mb-30">
                                 <div class="featured-thumbnail"><!-- featured-thumbnail -->
                                     <img class="img-fluid" src="images/team-member/client-05.jpeg" alt="image">
-                                    <div class="ttm-social-links-wrapper">
-                                        <ul class="social-icons list-inline"><!-- social-icons -->
-                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                            <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                            <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                            <li class="social-googleplus"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                        </ul>
-                                    </div>
+
                                 </div>
                                 <div class="featured-content box-shadow">
                                     <div class="featured-title"><!-- featured-title -->
@@ -61,14 +81,7 @@
                             <div class="featured-imagebox featured-imagebox-team style1 mb-30">
                                 <div class="featured-thumbnail"><!-- featured-thumbnail -->
                                     <img class="img-fluid" src="images/team-member/client-04.jpeg" alt="image" style="height:221px;">
-                                    <div class="ttm-social-links-wrapper">
-                                        <ul class="social-icons list-inline"><!-- social-icons -->
-                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                            <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                            <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                            <li class="social-googleplus"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                        </ul>
-                                    </div>
+
                                 </div>
                                 <div class="featured-content box-shadow">
                                     <div class="featured-title"><!-- featured-title -->
@@ -83,14 +96,7 @@
                             <div class="featured-imagebox featured-imagebox-team style1 mb-30">
                                 <div class="featured-thumbnail"><!-- featured-thumbnail -->
                                     <img class="img-fluid" src="images/team-member/client-03.jpeg" alt="image">
-                                    <div class="ttm-social-links-wrapper">
-                                        <ul class="social-icons list-inline"><!-- social-icons -->
-                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                            <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                            <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                            <li class="social-googleplus"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                        </ul>
-                                    </div>
+
                                 </div>
                                 <div class="featured-content box-shadow">
                                     <div class="featured-title"><!-- featured-title -->
@@ -105,14 +111,7 @@
                             <div class="featured-imagebox featured-imagebox-team style1 mb-30">
                                 <div class="featured-thumbnail"><!-- featured-thumbnail -->
                                     <img class="img-fluid" src="images/team-member/client-02.jpeg" alt="image" style="height:200px;">
-                                    <div class="ttm-social-links-wrapper">
-                                        <ul class="social-icons list-inline"><!-- social-icons -->
-                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                            <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                            <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                            <li class="social-googleplus"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                        </ul>
-                                    </div>
+
                                 </div>
                                 <div class="featured-content box-shadow">
                                     <div class="featured-title"><!-- featured-title -->
@@ -127,14 +126,7 @@
                             <div class="featured-imagebox featured-imagebox-team style1 mb-30">
                                 <div class="featured-thumbnail"><!-- featured-thumbnail -->
                                     <img class="img-fluid" src="images/team-member/client-01.jpeg" alt="image" style="height:200px;">
-                                    <div class="ttm-social-links-wrapper">
-                                        <ul class="social-icons list-inline"><!-- social-icons -->
-                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                            <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                            <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                            <li class="social-googleplus"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                        </ul>
-                                    </div>
+
                                 </div>
                                 <div class="featured-content box-shadow">
                                     <div class="featured-title"><!-- featured-title -->
@@ -149,14 +141,7 @@
                             <div class="featured-imagebox featured-imagebox-team style1 mb-30">
                                 <div class="featured-thumbnail"><!-- featured-thumbnail -->
                                     <img class="img-fluid" src="images/team-member/client-05.jpeg" alt="image">
-                                    <div class="ttm-social-links-wrapper">
-                                        <ul class="social-icons list-inline"><!-- social-icons -->
-                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                            <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                            <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                            <li class="social-googleplus"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                        </ul>
-                                    </div>
+
                                 </div>
                                 <div class="featured-content box-shadow">
                                     <div class="featured-title"><!-- featured-title -->
@@ -171,14 +156,7 @@
                             <div class="featured-imagebox featured-imagebox-team style1 mb-30">
                                 <div class="featured-thumbnail"><!-- featured-thumbnail -->
                                     <img class="img-fluid" src="images/team-member/client-05.jpeg" alt="image">
-                                    <div class="ttm-social-links-wrapper">
-                                        <ul class="social-icons list-inline"><!-- social-icons -->
-                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                            <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                            <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                            <li class="social-googleplus"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                        </ul>
-                                    </div>
+
                                 </div>
                                 <div class="featured-content box-shadow">
                                     <div class="featured-title"><!-- featured-title -->
@@ -193,14 +171,7 @@
                             <div class="featured-imagebox featured-imagebox-team style1 mb-30">
                                 <div class="featured-thumbnail"><!-- featured-thumbnail -->
                                     <img class="img-fluid" src="images/team-member/client-05.jpeg" alt="image">
-                                    <div class="ttm-social-links-wrapper">
-                                        <ul class="social-icons list-inline"><!-- social-icons -->
-                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                            <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                            <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                            <li class="social-googleplus"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                        </ul>
-                                    </div>
+
                                 </div>
                                 <div class="featured-content box-shadow">
                                     <div class="featured-title"><!-- featured-title -->

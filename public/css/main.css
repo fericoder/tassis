@@ -1209,7 +1209,7 @@ div.product ul.tabs li a{
 
 /** SiteBrand(logo) **/
 .site-branding{
-    float: left;
+    float: right;
     height: 100px;
     line-height: 100px;
     position: relative;

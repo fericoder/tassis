@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fa">
 
 
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="keywords" content="HTML5 Template" />
-<meta name="description" content="Altech – IT Sollutions and Services HTML Template" />
-<meta name="author" content="https://www.themetechmount.com/" />
+<meta name="description" content="شرکت سهامی تاسیسات ساختمان ایران - تسیس" />
+<meta name="author" content="Farzaneh AliShirazi" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<title>تسیس</title>
+<title>شرکت سهامی تاسیسات ساختمان ایران</title>
 <style media="screen">
 body.rtl .tp-mask-wrap {
  direction: rtl !important;
@@ -22,7 +22,7 @@ body.rtl .tp-mask-wrap {
 }
 </style>
 <!-- favicon icon -->
-<link rel="shortcut icon" href="images/logo.jpg" />
+<link rel="shortcut icon" href="images/logo.png" />
 
 <!-- bootstrap -->
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
@@ -84,12 +84,11 @@ body.rtl .tp-mask-wrap {
                        <div class="container">
                            <div class="ttm-topbar-content">
                                <ul class="top-contact text-left">
-                                   <li><i class="fa fa-map-marker ml-1"></i>تهران، سعادت آباد</li>
-                                   <li><i class="fa fa-envelope-o ml-1"></i><a href="mailto:info@tesis.com.com">info@tesis.com</a></li>
+                                   <li><i class="fa fa-envelope-o ml-1"></i><a href="mailto:info@tesis.ir">Info@Tassis.Ir</a></li>
                                </ul>
                                <div class="topbar-right text-right">
                                    <ul class="top-contact">
-                                       <li><i class="fa fa-clock-o"></i> ساعات پاسخگویی: 8 صبح الی 6 عصر</li>
+                                       <li class="tasis-byekan"><i class="fa fa-phone"></i> 2470 </li>
                                    </ul>
                                    <div class="ttm-social-links-wrapper list-inline">
                                        <ul class="social-icons">
@@ -104,7 +103,7 @@ body.rtl .tp-mask-wrap {
                                        </ul>
                                    </div>
                                    <div class="header-btn">
-                                       <a class="ttm-btn ttm-btn-size-md  ttm-btn-bgcolor-skincolor" href="#">ورود به الو تسیس</a>
+                                       <a style="background-color: #c61313;" class="ttm-btn ttm-btn-size-md  ttm-btn-bgcolor-skincolor" href="/alo">ورود به الو تسیس</a>
                                    </div>
                                </div>
                            </div>
@@ -112,11 +111,11 @@ body.rtl .tp-mask-wrap {
                    </div><!-- ttm-topbar-wrapper end -->
                    <div id="site-header-menu" class="site-header-menu">
                        <div class="site-header-menu-inner ttm-stickable-header">
-                           <div class="container">
+                           <div  class="container">
                                <!-- site-branding -->
                                <div class="site-branding">
-                                   <a class="home-link" href="index.html" title="Altech" rel="home">
-                                       <img id="logo-img" class="img-center lazyload" data-src="images/logo1.jpg" alt="logo">
+                                   <a class="home-link" href="/" title="Tassis" rel="home">
+                                       <img id="logo-img" class="img-center lazyload" data-src="images/logo.png" alt="logo">
                                    </a>
                                </div><!-- site-branding end -->
                                <!--site-navigation -->
@@ -125,23 +124,7 @@ body.rtl .tp-mask-wrap {
                                        <!-- header-icons -->
                                        <div class="ttm-header-icons ">
 
-                                           <div class="ttm-header-icon ttm-header-search-link">
-                                               <a href="#"><i class="ti ti-search"></i></a>
-                                               <div class="ttm-search-overlay">
-                                                   <form method="get" class="ttm-site-searchform" action="#">
-                                                       <div class="w-search-form-h">
-                                                           <div class="w-search-form-row">
-                                                               <div class="w-search-input">
-                                                                   <input style="text-align:right;" type="search" class="field searchform-s" name="s" placeholder="کلمه موردنظر را جستجو کنید">
-                                                                   <button type="submit">
-                                                                       <i class="ti ti-search"></i>
-                                                                   </button>
-                                                               </div>
-                                                           </div>
-                                                       </div>
-                                                   </form>
-                                               </div>
-                                           </div>
+
                                        </div><!-- header-icons end -->
                                    </div>
                                    <div class="ttm-menu-toggle">
@@ -154,26 +137,14 @@ body.rtl .tp-mask-wrap {
                                    </div>
                                    <nav id="menu" class="menu">
                                        <ul class="dropdown">
-                                          <li class="active"><a href="#">صفحه اصلی</a>
-
-                                           <li><a href="#">خدمات تسیس</a>
-
-                                           </li>
-                                           <li><a href="#">درباره تسیس</a>
-
-                                           </li>
-                                           <li><a href="#">تماس باما</a>
-
-                                           </li>
+                                          <li class="active"><a href="/">صفحه اصلی</a>
+                                           <li><a href="#">خدمات تسیس</a></li>
+                                           <li><a href="/about">درباره تسیس</a> </li>
+                                           <li><a href="#">تماس باما</a></li>
                                            <li><a href="#">همکاری باما</a>
-
-                                           </li>
-                                           <li><a href="#">رزومه</a>
-
-                                           </li>
-                                           <li><a href="#">همکاران</a>
-
-                                           </li>
+                                           </li><li><a href="#">رزومه</a></li>
+                                           <li><a href="/partners">همکاران</a></li>
+                                           <li><a style="color: red" href="/alo">الو تسیس</a></li>
 
                                        </ul>
                                    </nav>
@@ -196,7 +167,7 @@ body.rtl .tp-mask-wrap {
                    <div class="row align-items-md-center">
                        <div class="col-lg-4 col-md-4 col-sm-12 order-md-2">
                            <div class="footer-logo text-sm-center">
-                               <img data-src="images/logo.jpg" class="lazyload" alt="footer-logo">
+                               <img data-src="images/logo.png" class="lazyload" alt="footer-logo">
                            </div>
                        </div>
                        <div class="col-lg-4 col-md-4 col-sm-6 order-md-1">
@@ -231,7 +202,7 @@ body.rtl .tp-mask-wrap {
                            <div class="widget widget_text  clearfix">
                                <h3 class="widget-title">درباره تسیس</h3>
                                <div class="textwidget widget-text">
-                                   عوامل اصلی رشد سریع و قابل توجه شرکت را می توان در مواردی همچون پشتوانه فنی مدیران، تکیه بر نیروی انسانی مجرب و قابل اعتماد و آموزش مداوم آنها، حفظ حقوق مشتریان و کارفرمایان و پایبندی به رعایت اصول فنی و کیفی در کلیه مراحل تمامی پروژه های انجام شده و در دست انجام خلاصه نمود.
+شرکت تسیس در قالب یک شرکت سهامی خاص با هدف حضوری متفاوت و ارزش آفرین در صنعت گسترده و پویای پروژه های عمرانی و ساخت و ساز شهری کشور و با سرمایه ای از تخصص و تجربه پا به عرصه وجود نهاده است
                                </div>
                                <div class="quicklink-box">
                                    <!--  featured-icon-box -->
@@ -243,7 +214,7 @@ body.rtl .tp-mask-wrap {
                                        </div>
                                        <div class="featured-content"><!--  featured-content -->
                                            <div class="featured-desc"><!--  featured-desc -->
-                                               <p>با پشتیبانی ما صحبت کنید</p>
+                                               <p>تماس بگیرید!</p>
                                            </div>
                                            <div class="featured-title"><!--  featured-title -->
                                                <h5 class="tasis-byekan">2470</h5>
@@ -275,17 +246,17 @@ body.rtl .tp-mask-wrap {
                                <ul class="widget-post ttm-recent-post-list">
                                    <li>
                                        <a href=""><img data-src="images/tasis7.png" class="lazyload" alt="post-img"></a>
-                                       <a href="">سوالات متداول</a>
+                                       <a href="">لینک 1</a>
 
                                    </li>
                                    <li>
                                        <a href=""><img data-src="images/tasis7.png" class="lazyload" alt="post-img"></a>
-                                       <a href=""> مستندات فنی </a>
+                                       <a href=""> لینک 2 </a>
 
                                    </li>
                                    <li>
                                        <a href=""><img data-src="images/tasis7.png" class="lazyload" alt="post-img"></a>
-                                       <a href="">سورس کدها</a>
+                                       <a href="">لینک 3</a>
 
                                    </li>
 

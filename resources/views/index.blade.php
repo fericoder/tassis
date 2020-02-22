@@ -346,7 +346,7 @@ body.rtl .tp-mask-wrap {
                            <!-- section title -->
                            <div class="section-title with-desc clearfix">
                                <div class="title-header">
-                                   <h2 class="title">درباره <span>تسیس</span></h2>
+                                   <h2 class="title">درباره <span>شرکت سهامی تاسیسات ساختمان ایران</span></h2>
                                </div>
                                <div class="title-desc">
                                    <p>شرکت تسیس در قالب یک شرکت سهامی خاص با هدف حضوری متفاوت و ارزش آفرین در صنعت گسترده و پویای پروژه های عمرانی و ساخت و ساز شهری کشور و با سرمایه ای از تخصص و تجربه پا به عرصه وجود نهاده است.
@@ -386,7 +386,7 @@ body.rtl .tp-mask-wrap {
            <!-- aboutus-section end -->
 
            <!-- history-section -->
-           <section class="ttm-row history-section bg-img3 ttm-bgcolor-grey ttm-bg ttm-bgimage-yes clearfix">
+           <section style="display:none" class="ttm-row history-section bg-img3 ttm-bgcolor-grey ttm-bg ttm-bgimage-yes clearfix">
                <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
                <div class="container">
                    <div class="row"><!-- row -->
@@ -495,109 +495,6 @@ body.rtl .tp-mask-wrap {
            <!-- topzero-padding-section -->
 
            <!-- team-section -->
-           <section class="ttm-row team-section clearfix">
-               <div class="container">
-                   <div class="row"><!-- row -->
-                       <div class="col-lg-12 col-xl-12 col-md-12">
-                           <!-- section-title -->
-                           <div class="section-title style2 clearfix">
-                               <div class="title-header">
-
-                                   <h2 class="title">تکنسین های  <span>الو تسیس</span></h2>
-                               </div>
-                               <div class="title-desc">مسئولیت تکنسین برق انجام کلیه امور مربوط به سیم‌کشی و برق منازل، ادارات، مراکز صنعتی و ... است.</div>
-                           </div><!-- section-title end -->
-                       </div>
-
-                   </div>
-                   <!-- row end -->
-                   <!-- row -->
-                   <div class="row">
-                       <div class="team-slide owl-carousel" data-item="3" data-nav="false" data-dots="false" data-auto="false">
-                           <!-- featured-imagebox-team -->
-                           <div class="featured-imagebox featured-imagebox-team style1">
-                               <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/tasis6.png" alt="image">
-                                   <div class="ttm-social-links-wrapper">
-                                       <ul class="social-icons list-inline"><!-- social-icons -->
-                                           <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                           <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                           <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                           <li class="social-googleplus"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                       </ul>
-                                   </div>
-                               </div>
-                               <div class="featured-content box-shadow">
-                                   <div class="featured-title"><!-- featured-title -->
-                                       <h5><a href="">رضا رضایی</a></h5>
-                                   </div>
-                                   <p class="category">تکنسین لوله کشی</p><!-- category -->
-                               </div>
-                           </div><!-- featured-imagebox-team end-->
-                           <!-- featured-imagebox-team -->
-                           <div class="featured-imagebox featured-imagebox-team style1">
-                               <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/tasis6.png" alt="image">
-                                   <div class="ttm-social-links-wrapper">
-                                       <ul class="social-icons list-inline"><!-- social-icons -->
-                                           <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                           <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                           <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                           <li class="social-googleplus"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                       </ul>
-                                   </div>
-                               </div>
-                               <div class="featured-content box-shadow">
-                                   <div class="featured-title"><!-- featured-title -->
-                                       <h5><a href="">رضا رضایی</a></h5>
-                                   </div>
-                                   <p class="category">تکنسین لوله کشی</p><!-- category -->
-                               </div>
-                           </div><!-- featured-imagebox-team end-->
-                           <!-- featured-imagebox-team -->
-                           <div class="featured-imagebox featured-imagebox-team style1">
-                               <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/tasis6.png" alt="image">
-                                   <div class="ttm-social-links-wrapper">
-                                       <ul class="social-icons list-inline"><!-- social-icons -->
-                                           <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                           <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                           <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                           <li class="social-googleplus"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                       </ul>
-                                   </div>
-                               </div>
-                               <div class="featured-content box-shadow">
-                                   <div class="featured-title"><!-- featured-title -->
-                                       <h5><a href="">رضا رضایی</a></h5>
-                                   </div>
-                                   <p class="category">تکنسین لوله کشی</p><!-- category -->
-                               </div>
-                           </div><!-- featured-imagebox-team end-->
-                           <!-- featured-imagebox-team -->
-                           <div class="featured-imagebox featured-imagebox-team style1">
-                               <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/tasis6.png" alt="image">
-                                   <div class="ttm-social-links-wrapper">
-                                       <ul class="social-icons list-inline"><!-- social-icons -->
-                                           <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                           <li class="social-twitter"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                           <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                           <li class="social-googleplus"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                       </ul>
-                                   </div>
-                               </div>
-                               <div class="featured-content box-shadow">
-                                   <div class="featured-title"><!-- featured-title -->
-                                       <h5><a href="">رضا رضایی</a></h5>
-                                   </div>
-                                   <p class="category">تکنسین لوله کشی</p><!-- category -->
-                               </div>
-                           </div><!-- featured-imagebox-team end-->
-                       </div>
-                   </div><!-- row end-->
-               </div>
-           </section>
 
            <!-- our-partner-section -->
            <div class="ttm-row our-client-section  ttm-bgcolor-skincolor ttm-bg ttm-bgimage-yes bg-img13 clearfix">
@@ -652,76 +549,6 @@ body.rtl .tp-mask-wrap {
                         <!-- our-partner-section END-->
 
 
-           <section class="ttm-row process-section clearfix">
-               <div class="container">
-                   <div class="row">
-                       <div class="col-md-12">
-                           <!-- section title -->
-                           <div class="section-title text-center with-desc clearfix">
-                               <div class="title-header">
-                                   <h5>چطور کار میکند؟</h5>
-                                   <h2 class="title"> مراحل خدمت رسانی  <span> تسیس </span></h2>
-                               </div>
-                           </div><!-- section title end -->
-                       </div>
-                   </div>
-                   <!-- row -->
-                   <div class="row">
-                       <div class="col-lg-12">
-                           <div class="ttm-processbox-wrapper">
-                               <div class="ttm-processbox text-center">
-                                   <div class="ttm-box-image">
-                                       <img class="img-fluid lazyload" data-src="images/tasis12.jpg" alt="step-one" title="step-one">
-                                       <div class="process-num">
-                                           <span class="number">1</span>
-                                       </div>
-                                   </div>
-                                   <div class="featured-content">
-                                       <div class="featured-title"><h5>انتخاب سرویس</h5></div>
-                                       <div class="ttm-box-description">مشکل خود را بازگو کنید و یکی از سرویس هارا انتخاب نمایید.</div>
-                                   </div>
-                               </div>
-                               <div class="ttm-processbox text-center">
-                                   <div class="ttm-box-image">
-                                       <img class="img-fluid lazyload" data-src="images/tasis3.jpg" alt="step-two" title="step-two">
-                                       <div class="process-num">
-                                           <span class="number">2</span>
-                                       </div>
-                                   </div>
-                                   <div class="featured-content">
-                                       <div class="featured-title"><h5>درخواست خدمات</h5></div>
-                                       <div class="ttm-box-description">درخواست برای رفع مشکل توسط شما و پیگیری تیم تسیس.</div>
-                                   </div>
-                               </div>
-                               <div class="ttm-processbox text-center">
-                                   <div class="ttm-box-image">
-                                       <img class="img-fluid lazyload" data-src="images/tasisat.jpg" alt="step-three" title="step-three">
-                                       <div class="process-num">
-                                           <span class="number">3</span>
-                                       </div>
-                                   </div>
-                                   <div class="featured-content">
-                                       <div class="featured-title"><h5>اعزام تکنسین</h5></div>
-                                       <div class="ttm-box-description">یکی از تکنسین های ما برای خدمت رسانی به شما اعزام میشود.</div>
-                                   </div>
-                               </div>
-                               <div class="ttm-processbox text-center">
-                                   <div class="ttm-box-image">
-                                       <img class="img-fluid lazyload" data-src="images/tasis9.jpg" alt="step-four" title="step-four">
-                                       <div class="process-num">
-                                           <span class="number">4</span>
-                                       </div>
-                                   </div>
-                                   <div class="featured-content">
-                                       <div class="featured-title"><h5>رفع مشکل</h5></div>
-                                       <div class="ttm-box-description">مشکل شما توسط تکنسین مربوطه درحال رفع و رجوع میباشد.</div>
-                                   </div>
-                               </div>
-                           </div>
-                       </div>
-                   </div><!-- row end -->
-               </div>
-           </section>
 
 
            <!-- blog-section end -->
