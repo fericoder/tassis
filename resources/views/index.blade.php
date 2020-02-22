@@ -13,6 +13,7 @@ body.rtl .tp-mask-wrap {
 .tp-leftarrow{
   display: none!important;
 }
+
 </style>
 
        <!-- START homeclassicmain REVOLUTION SLIDER 6.0.1 -->
@@ -100,7 +101,7 @@ body.rtl .tp-mask-wrap {
                                   data-frame_0="y:50,50,31,19;"
                                   data-frame_1="st:720;sp:500;sR:720;"
                                   data-frame_999="o:0;st:w;sR:7780;"
-                                  >بیشتر بخوانید
+                                  >درباره تسیس
                               </a>
                               <rs-layer
                                   id="slider-2-slide-1-layer-6"
