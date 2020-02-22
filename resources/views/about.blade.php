@@ -147,7 +147,7 @@
                                 </div>
                             </div>
                             <!-- Responsive View image -->
-                            <img src="images/bg-image/tech.jpg" class="ttm-equal-height-image" alt="tech">
+                            <img src="images/bg-image/jashn3.jpg" class="ttm-equal-height-image" alt="jashn3">
                         </div>
                         <div class="col-lg-6">
                             <div class="ttm-bgcolor-skincolor ttm-bg ttm-col-bgcolor-yes z-11 position-relative ttm-right-span">
@@ -160,7 +160,7 @@
                                         <div class="section-title with-desc clearfix">
                                             <div class="title-header">
                                                 <h5>چرا تسیس؟</h5>
-                                                <h2 class="title">شرکت سهامی تأسیسات ساختمان ایران<span>تسیس</span></h2>
+                                                <h2 class="title"> شرکت سهامی تأسیسات ساختمان ایران <span>تسیس</span></h2>
                                             </div>
                                             <div class="title-desc">
                                                 <p>سابقه کاری مثبت مدیران شرکت از ابتدای حضور در عرصه ساخت و ساز در کنار تلاش گروهی پرسنل بخشهای مختلف فضای گسترده ای را برای حضور هونامیک سازه در پروژه های متعدد فراهم نموده است به نحوی که در این مدت افتخار حضور در پروژه های متعدد و با شرح خدمات متنوعی همچون طراحی و مشاوره، تامین کالا و تجهیزات، عملیات اجرایی و تعمیر و نگهداری به خود اختصاص داده است </p>
