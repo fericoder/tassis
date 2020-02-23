@@ -179,7 +179,7 @@ body.rtl .tp-mask-wrap {
               <!-- END REVOLUTION SLIDER -->
 
               <!-- service-section -->
-                  <section class="ttm-row service-section-style2 ttm-bgcolor-grey clearfix">
+                  <section id="services" class="ttm-row service-section-style2 ttm-bgcolor-grey clearfix">
                       <div class="container">
                           <div class="row"><!-- row -->
                               <div class="col-lg-12">
@@ -226,12 +226,13 @@ body.rtl .tp-mask-wrap {
                                                 <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
                                                     <i class="fa fa-flag-o"></i><!--  ttm-icon -->
                                                 </div>
-                                            </div>  <h5 class="mb-10 tasis-center">فناوری های نوین <br> انرژی پاک</h5>
+                                            </div>  <h5 class="mb-10 tasis-center">فناوری‌های نوین انرژی پاک</h5>
                                           </div>
                                           <div class="featured-desc"><!--  featured-desc -->
                                               <p class="mb-25">•	ممیزی مصرف انرژی
                                               <br>•	هوشمندسازی
                                             <br>•	خدمات هشدارهای امنیتی
+                                                  <br> <br>
                                           </p>
                                           </div>
                                       </div>
@@ -304,9 +305,16 @@ body.rtl .tp-mask-wrap {
                                    <h2 class="title">درباره <span> شرکت سهامی تاسیسات ساختمان ایران </span><span class="text-danger">تسیس</span>
                                </div></h2>
                                <div class="title-desc">
-                                   <p>شرکت تسیس در قالب یک شرکت سهامی خاص با هدف حضوری متفاوت و ارزش آفرین در صنعت گسترده و پویای پروژه های عمرانی و ساخت و ساز شهری کشور و با سرمایه ای از تخصص و تجربه پا به عرصه وجود نهاده است.
-عوامل اصلی رشد سریع و قابل توجه شرکت را می توان در مواردی همچون پشتوانه فنی مدیران، تکیه بر نیروی انسانی مجرب و قابل اعتماد و آموزش مداوم آنها، حفظ حقوق مشتریان و .کارفرمایان و پایبندی به رعایت اصول فنی و کیفی در کلیه مراحل تمامی پروژه های انجام شده و در دست انجام خلاصه نمود</p>
-                                   <P>سابقه کاری مثبت مدیران شرکت از ابتدای حضور در عرصه ساخت و ساز در کنار تلاش گروهی پرسنل بخشهای مختلف فضای گسترده ای را برای حضورشرکت تسیس در پروژه های متعدد فراهم نموده است به نحوی که در این مدت افتخار حضور در پروژه های متعدد و با شرح خدمات متنوعی همچون طراحی و مشاوره، تامین کالا و تجهیزات، عملیات اجرایی و تعمیر و نگهداری به خود اختصاص داده است که مهمترین آنها در بخش چهارم تحت عنوان سوابق کاریشرکت تسیس ارایه می گردد؛ ضمناً اهم پروژه های انجام شده توسط مدیران این شرکت، به صورت مجزا و تحت عنوان سوابق کاری مدیران تسیس .در بخش پنجم ارائه شده است</P>
+                                   <p style="direction: rtl; text-align: justify">
+                                       شرکت تاسیسات ساختمان ایران "تسیس"در سال 1347 تاسیس شده است واینک با قدمت  بیش از نیم قرن با سابقه ترین وبزرگترین شرکت تخصصی تاسیسات کشور می باشد.
+                                       عمده اهداف شرکت تسیس عبارت است از :<br>
+                                       ۱) طرح ریزی، آموزش، تهیه، نصب ونگهداری، بهسازی وبازسازی تاسیسات ساختمانی شامل تاسیسات مکانیکی والکتریکال وآسانسور وطرح های مربوط به به تاسیسات گاز وآب وفاضلاب وبرق وبهینه سازی مصرف انرژی وپایداری محیط زیست
+                                       ۲) اعطای نمایندگی حرفه ای  در سراسر کشور (Franchise)وشبکه گسترده وکنترل شده ویکپارچه کسب وکار
+                                       ۳) اورژانس  شبانه روزی وسیار تاسیسات(الو تسیس)
+                                       ۴) تحصیل نمایندگی از سازندگان وفروشندگان لواز مصرفی داخلی وخارجی در زمینه موضوع فعالیت
+                                       ۵) مدیریت آکادمی حرفه ای تاسیسات
+                                       شرکت تسیس در طی بیش از 50 سال سابقه درخشان خود بزرگترین قرار دادها وتوفقات را در زمینه موضوع فعالیت خود را با وزارتخانه ها وسازمانهای دولتی وارتش وبخش خصوصی وسازندگان شهرک های بزرگ داشته است، بطوریکه در دو ده اول عمر خود بیش از 90درصد آسانسور برج های مرتفع وبیش از 50درصد تاسیسات مکانیکی والکتریکی پروژهای عظیم را اجرا نموده است ونمونه های نیز در همین سایت معرفی شده است.
+                                   </p>
                                </div>
                            </div><!-- section title end -->
 
@@ -458,42 +466,73 @@ body.rtl .tp-mask-wrap {
                          <div class="row">
                              <div class="col-md-12">
                                  <!-- ttm-client -->
-                                 <div class="clients-slide owl-carousel owl-theme owl-loaded" data-item="5" data-nav="false" data-dots="false" data-auto="false">
+                                 <div class="clients-slide owl-carousel owl-theme owl-loaded" data-item="5" data-nav="false" data-dots="false" data-auto="true">
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت شاهد">
+                                                 <img class="img-fluid" src="images/team-member/shahed.png" alt="image" style="height:100px; width: 125px;">
+                                             </div>
+                                         </div>
+                                     </div>
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت فرآوری و توسعه ابنیه شاهد">
+                                                 <img class="img-fluid" src="images/team-member/abnieh.jpg" alt="image" style="height:100px; width: 125px;">
+                                             </div>
+                                         </div>
+                                     </div>
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت ارکان گستر یوتاب">
+                                                 <img class="img-fluid" src="images/team-member/utobco.jpg" alt="image" style="height:100px;">
+                                             </div>
+                                         </div>
+                                     </div>
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="شركت CCL IRAN">
+                                                 <img class="img-fluid" src="images/team-member/client-04.jpeg" alt="image" style="height:100px;">
+                                             </div>
+                                         </div>
+                                     </div>
+
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="مهندسين مشاور اركان پويش">
+                                                 <img class="img-fluid" src="images/team-member/client-05.jpeg" alt="image" style="height:100px;">
+                                             </div>
+                                         </div>
+                                     </div>
+
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت ساختماني کندوان تونل">
+                                                 <img class="img-fluid" src="images/team-member/client-02.jpeg" alt="image" style="height:100px;">
+                                             </div>
+                                         </div>
+                                     </div>
+
+
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت باتیس گروه">
+                                                 <img class="img-fluid" src="images/team-member/client-03.jpeg" alt="image" style="height:100px;">
+                                             </div>
+                                         </div>
+                                     </div>
+
+
                                      <div class="client-box ttm-box-view-boxed-logo">
                                          <div class="client">
                                              <div class="ttm-client-logo-tooltip" data-tooltip="هونامیک سازه">
-                                                 <img class="img-fluid" src="images/client/client-01.jpeg" alt="image" style="height:100px; width: 125px;">
+                                                 <img class="img-fluid" src="images/team-member/client-01.jpeg" alt="image" style="height:100px;">
                                              </div>
                                          </div>
                                      </div>
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="نوین عمران">
-                                                 <img class="img-fluid" src="images/client/client-02.jpeg" alt="image" style="height:100px; width: 125px;">
-                                             </div>
-                                         </div>
-                                     </div>
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="باتیس">
-                                                 <img class="img-fluid" src="images/client/client-03.jpeg" alt="image" style="height:100px;">
-                                             </div>
-                                         </div>
-                                     </div>
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="سی سی ال ایران">
-                                                 <img class="img-fluid" src="images/client/client-04.jpeg" alt="image" style="height:100px;">
-                                             </div>
-                                         </div>
-                                     </div>
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="ارکان پویش">
-                                                 <img class="img-fluid" src="images/client/client-05.jpeg" alt="image" style="height:100px;">
-                                             </div>
-                                         </div>
-                                     </div>
+
+
+
+
                                  </div><!-- ttm-client end -->
                              </div>
                          </div>

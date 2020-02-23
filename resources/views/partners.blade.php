@@ -38,81 +38,141 @@
                     <div class="row">
 
 
+                        <a target="_blank" href="http://www.shahed.co.ir/">
+                            <div class="col-lg-3 col-md-6 col-sm-6">
+                                <div class="product"><!-- product -->
+                                    <div class="product-thumbnail"><!-- product-thumbnail -->
+                                        <img class="img-fluid w-100" src="images/team-member/shahed.png" alt="" style="height:260px;">
+                                        <div class="ttm-shop-icon"><!-- ttm-shop-icon -->
+                                            <div style="color: white" class="product-btn add-to-cart-btn">جهت مشاهده کلیک نمایید</div>
+                                        </div>
+                                    </div><!-- product-thumbnail end -->
+                                    <div class="product-content text-center"><!-- product-content -->
+                                        <div class="product-title"><!-- product-title -->
+                                            <p><a href="">شرکت شاهد</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+
+                        <a target="_blank" href="http://www.shahed.co.ir/">
+                            <div class="col-lg-3 col-md-6 col-sm-6">
+                                <div class="product"><!-- product -->
+                                    <div class="product-thumbnail"><!-- product-thumbnail -->
+                                        <img class="img-fluid w-100" src="images/team-member/abnieh.jpg" alt="" style="height:260px;">
+                                        <div class="ttm-shop-icon"><!-- ttm-shop-icon -->
+                                            <div style="color: white" class="product-btn add-to-cart-btn">جهت مشاهده کلیک نمایید</div>
+                                        </div>
+                                    </div><!-- product-thumbnail end -->
+                                    <div class="product-content text-center"><!-- product-content -->
+                                        <div class="product-title"><!-- product-title -->
+                                            <p><a href="">شرکت فرآوری و توسعه ابنیه شاهد</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+
+                        <a target="_blank" href="http://utobco.com/">
+                            <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="product"><!-- product -->
+                                <div class="product-thumbnail"><!-- product-thumbnail -->
+                                    <img class="img-fluid w-100" src="images/team-member/utobco.jpg" alt="" style="height:260px;">
+                                    <div class="ttm-shop-icon"><!-- ttm-shop-icon -->
+                                        <div style="color: white" class="product-btn add-to-cart-btn">جهت مشاهده کلیک نمایید</div>
+                                    </div>
+                                </div><!-- product-thumbnail end -->
+                                <div class="product-content text-center"><!-- product-content -->
+                                    <div class="product-title"><!-- product-title -->
+                                        <p><a href="">شرکت ارکان گستر یوتاب</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                            </div>
+                        </a>
+
+
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="product"><!-- product -->
+                                <div class="product-thumbnail"><!-- product-thumbnail -->
+                                    <img class="img-fluid w-100" src="images/team-member/client-04.jpeg" alt="">
+                                    <div class="ttm-shop-icon"><!-- ttm-shop-icon -->
+                                        <div style="color: white" class="product-btn add-to-cart-btn">جهت مشاهده کلیک نمایید</div>
+                                    </div>
+                                </div><!-- product-thumbnail end -->
+                                <div class="product-content text-center"><!-- product-content -->
+                                    <div class="product-title"><!-- product-title -->
+                                        <p><a href="">شركت  CCL IRAN </a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
                             <div class="col-lg-3 col-md-6 col-sm-6">
                                 <div class="product"><!-- product -->
                                     <div class="product-thumbnail"><!-- product-thumbnail -->
                                         <img class="img-fluid w-100" src="images/team-member/client-05.jpeg" alt="" style="height:260px;">
                                         <div class="ttm-shop-icon"><!-- ttm-shop-icon -->
-                                            <div class="product-btn add-to-cart-btn"><a href="#">جهت مشاهده کلیک نمایید</a></div>
+                                            <div style="color: white" class="product-btn add-to-cart-btn">جهت مشاهده کلیک نمایید</div>
                                         </div>
                                     </div><!-- product-thumbnail end -->
                                     <div class="product-content text-center"><!-- product-content -->
                                         <div class="product-title"><!-- product-title -->
-                                            <h2><a href="">ارکان پویش</a></h2>
+                                            <p><a href="">مهندسين مشاور اركان پويش</a></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
+
+
+
 
                             <div class="col-lg-3 col-md-6 col-sm-6">
                                 <div class="product"><!-- product -->
                                     <div class="product-thumbnail"><!-- product-thumbnail -->
-                                        <img class="img-fluid w-100" src="images/team-member/client-04.jpeg" alt="">
+                                        <img style="    height: 260px;" class="img-fluid w-100" src="images/team-member/client-02.jpeg" alt="">
                                         <div class="ttm-shop-icon"><!-- ttm-shop-icon -->
-                                            <div class="product-btn add-to-cart-btn"><a href="#">جهت مشاهده کلیک نمایید</a></div>
+                                            <div style="color: white" class="product-btn add-to-cart-btn">جهت مشاهده کلیک نمایید</div>
                                         </div>
                                     </div><!-- product-thumbnail end -->
                                     <div class="product-content text-center"><!-- product-content -->
                                         <div class="product-title"><!-- product-title -->
-                                            <h2><a href="">سی سی ال ایران</a></h2>
+                                            <p><a href="">شرکت ساختماني کندوان تونل</a></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="product"><!-- product -->
+                                <div class="product-thumbnail"><!-- product-thumbnail -->
+                                    <img class="img-fluid w-100" src="images/team-member/client-03.jpeg" alt="" style="height:260px;">
+                                    <div class="ttm-shop-icon"><!-- ttm-shop-icon -->
+                                        <div style="color: white" class="product-btn add-to-cart-btn">جهت مشاهده کلیک نمایید</div>
+                                    </div>
+                                </div><!-- product-thumbnail end -->
+                                <div class="product-content text-center"><!-- product-content -->
+                                    <div class="product-title"><!-- product-title -->
+                                        <p><a href="">شرکت باتیس گروه</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                             <div class="col-lg-3 col-md-6 col-sm-6">
                                 <div class="product"><!-- product -->
                                     <div class="product-thumbnail"><!-- product-thumbnail -->
-                                        <img class="img-fluid w-100" src="images/team-member/client-03.jpeg" alt="" style="height:260px;">
+                                        <img class="img-fluid w-100" src="images/team-member/client-01.jpeg" alt="" style="height:260px;">
                                         <div class="ttm-shop-icon"><!-- ttm-shop-icon -->
-                                            <div class="product-btn add-to-cart-btn"><a href="#">جهت مشاهده کلیک نمایید</a></div>
+                                            <div style="color: white" class="product-btn add-to-cart-btn">جهت مشاهده کلیک نمایید</div>
                                         </div>
                                     </div><!-- product-thumbnail end -->
                                     <div class="product-content text-center"><!-- product-content -->
                                         <div class="product-title"><!-- product-title -->
-                                            <h2><a href="">باتیس</a></h2>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="product"><!-- product -->
-                                    <div class="product-thumbnail"><!-- product-thumbnail -->
-                                        <img class="img-fluid w-100" src="images/team-member/client-02.jpeg" alt="">
-                                        <div class="ttm-shop-icon"><!-- ttm-shop-icon -->
-                                            <div class="product-btn add-to-cart-btn"><a href="#">جهت مشاهده کلیک نمایید</a></div>
-                                        </div>
-                                    </div><!-- product-thumbnail end -->
-                                    <div class="product-content text-center"><!-- product-content -->
-                                        <div class="product-title"><!-- product-title -->
-                                            <h2><a href="">نوین عمران</a></h2>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="product"><!-- product -->
-                                    <div class="product-thumbnail"><!-- product-thumbnail -->
-                                        <img class="img-fluid w-100" src="images/team-member/client-01.jpeg" alt="" style="height:179px;">
-                                        <div class="ttm-shop-icon"><!-- ttm-shop-icon -->
-                                            <div class="product-btn add-to-cart-btn"><a href="#">جهت مشاهده کلیک نمایید</a></div>
-                                        </div>
-                                    </div><!-- product-thumbnail end -->
-                                    <div class="product-content text-center"><!-- product-content -->
-                                        <div class="product-title"><!-- product-title -->
-                                            <h2><a href="">هونامیک سازه</a></h2>
+                                            <p><a href="">هونامیک سازه</a></p>
                                         </div>
                                     </div>
                                 </div>

@@ -228,7 +228,11 @@
 .ttm-equal-height-image{ display: none; }
 
 .col-bg-img-one.ttm-col-bgimage-yes .ttm-col-wrapper-bg-layer{
+<<<<<<< HEAD
     background-image: url(../images/bg-image/tech.jpg) !important;
+=======
+    background-image: url(../images/bg-image/orionthemes-placeholder-image.png) !important;
+>>>>>>> 53efba880aae4f7e577127d99e93a37c9df70c04
     background-position: center center!important;
     background-repeat: no-repeat !important;
     background-size: cover !important;

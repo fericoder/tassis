@@ -88,8 +88,8 @@
 	}
 	.ttm-header-style-01 #site-header-menu #site-navigation .menu ul.dropdown > li:hover > a:before,
 	.ttm-header-style-01 #site-header-menu #site-navigation .menu ul.dropdown > li.active > a:before{
-		transform-origin: left center;
-	    -webkit-transform-origin: left center;
+		transform-origin: right center;
+	    -webkit-transform-origin: right center;
 	    -webkit-transform: scale(1,1);
 	    -khtml-transform: scale(1,1);
 	    -moz-transform: scale(1,1);
@@ -109,18 +109,18 @@
     	transition: all .3s linear;
 	}
 	#site-header-menu #site-navigation .menu > ul ul li:hover > a{
-	    padding-left: 25px;
+	    padding-right: 25px;
 	}
 	#site-header-menu #site-navigation .menu > ul > li ul a:before{
 	    font-size: 24px;
 	    line-height: 9px;
 	    content: "";
-	    margin-right: 5px;
+	    margin-left: 5px;
 	    position: absolute;
 	    width: 6px;
 	    height: 2px;
 	    opacity: 0;
-	    left: 0px;
+	    right: 0px;
 	    -webkit-transition: .5s all;
 	    -o-transition: .5s all;
 	    -moz-transition: .5s all;
@@ -213,7 +213,7 @@
 	    display: block;
 	    opacity: 0;
 	    line-height: 14px;
-	    left: 0;
+	    right: 0;
 	    top: auto;
     	-webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
     	box-shadow: 0 6px 12px rgba(0,0,0,.175);
@@ -495,7 +495,7 @@
 	#site-header-menu #site-navigation .menu ul ul, #site-header-menu #site-navigation .menu ul ul ul {
 	    display: inherit;
 	    position: relative;
-	    left: auto;
+	    right: auto;
 	    top: auto;
 	    border: none;
 	}

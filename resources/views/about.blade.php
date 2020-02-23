@@ -41,25 +41,7 @@
                                 <div class="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
                                     <img class="img-fluid" src="images/tasis.jpg" title="single-img-nine" alt="single-img-nine">
                                 </div><!-- ttm_single_image-wrapper end -->
-                                <div class="ttm-highlight-fid-style-2">
-                                    <!--ttm-fid-->
-                                    <div class="ttm-fid inside without-icon">
-                                        <div class="ttm-fid-contents">
-                                            <h4 class="ttm-fid-inner">
-                                                <span  class="tasis-byekan" data-appear-animation = "animateDigits"
-                                                data-from             = "0"
-                                                data-to               = "135"
-                                                data-interval         = "5"
-                                                data-before           = ""
-                                                data-before-style     = "sup"
-                                                data-after            = "+"
-                                                data-after-style      = "sub"
-                                            >135</span><span class="ml-5">+</span>
-                                            </h4>
-                                            <h3 class="ttm-fid-title">پروژه های موفقیت آمیز </h3>
-                                        </div>
-                                    </div><!-- ttm-fid end-->
-                                </div>
+
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -71,13 +53,16 @@
                                         <h2 class="title"> شرکت سهامی تأسیسات <br> ساختمان ایران <span> تسیس </span></h2>
                                     </div>
                                     <div class="title-desc">
-                                        <p>عمده اهداف شرکت تسیس عبارت است از :
---طرح ریزی ،آموزش ،تهیه ،نصب ونگهداری،بهسازی وبازسازی تاسیسات ساختمانی شامل تاسیسات مکانیکی والکتریکال وآسانسور وطرح های مربوط به به تاسیسات گاز وآب وفاضلاب وبرق وبهینه سازی مصرف انرژی وپایداری محیط زیست
---اعطای نمایندگی حرفه ای  در سراسر کشور (Franchise)وشبکه گسترده وکنترل شده ویکپارچه کسب وکار
---اورژانس  شبانه روزی وسیار تاسیسات(الو تسیس)
-تحصیل نمایندگی از سازندگان وفروشندگان لواز مصرفی داخلی وخارجی در زمینه موضوع فعالیت
---مدیریت آکادمی حرفه ای تاسیسات
-شرکت تسیس در طی بیش از 50 سال سابقه درخشان خود بزرگترین قرار دادها وتوفقات را در زمینه موضوع فعالیت خود را با وزارتخانه ها وسازمانهای دولتی وارتش وبخش خصوصی وسازندگان شهرک های بزرگ داشته است ،بطوریکه در دو ده اول عمر خود بیش از 90درصد آسانسور برج های مرتفع وبیش از 50درصد تاسیسات مکانیکی والکتریکی پروژهای عظیم را اجرا نموده است ونمونه های نیز در همین سایت معرفی شده است</p>
+                                        <p style="direction: rtl; text-align: justify">
+                                            شرکت تاسیسات ساختمان ایران "تسیس"در سال 1347 تاسیس شده است واینک با قدمت  بیش از نیم قرن با سابقه ترین وبزرگترین شرکت تخصصی تاسیسات کشور می باشد.
+                                            عمده اهداف شرکت تسیس عبارت است از :<br>
+                                            ۱) طرح ریزی، آموزش، تهیه، نصب ونگهداری، بهسازی وبازسازی تاسیسات ساختمانی شامل تاسیسات مکانیکی والکتریکال وآسانسور وطرح های مربوط به به تاسیسات گاز وآب وفاضلاب وبرق وبهینه سازی مصرف انرژی وپایداری محیط زیست
+                                            ۲) اعطای نمایندگی حرفه ای  در سراسر کشور (Franchise)وشبکه گسترده وکنترل شده ویکپارچه کسب وکار
+                                            ۳) اورژانس  شبانه روزی وسیار تاسیسات(الو تسیس)
+                                            ۴) تحصیل نمایندگی از سازندگان وفروشندگان لواز مصرفی داخلی وخارجی در زمینه موضوع فعالیت
+                                            ۵) مدیریت آکادمی حرفه ای تاسیسات
+                                            شرکت تسیس در طی بیش از 50 سال سابقه درخشان خود بزرگترین قرار دادها وتوفقات را در زمینه موضوع فعالیت خود را با وزارتخانه ها وسازمانهای دولتی وارتش وبخش خصوصی وسازندگان شهرک های بزرگ داشته است، بطوریکه در دو ده اول عمر خود بیش از 90درصد آسانسور برج های مرتفع وبیش از 50درصد تاسیسات مکانیکی والکتریکی پروژهای عظیم را اجرا نموده است ونمونه های نیز در همین سایت معرفی شده است.
+                                        </p>
                                     </div>
                                 </div><!-- section title end -->
                                 <!-- row -->
@@ -147,7 +132,7 @@
                                 </div>
                             </div>
                             <!-- Responsive View image -->
-                            <img src="images/bg-image/jashn3.jpg" class="ttm-equal-height-image" alt="jashn3">
+                            <img src="images/bg-image/orionthemes-placeholder-image.png" class="ttm-equal-height-image" alt="jashn3">
                         </div>
                         <div class="col-lg-6">
                             <div class="ttm-bgcolor-skincolor ttm-bg ttm-col-bgcolor-yes z-11 position-relative ttm-right-span">
@@ -266,7 +251,7 @@
                             <!-- featured-imagebox-team -->
                             <div class="featured-imagebox featured-imagebox-team style2">
                                 <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                    <img class="img-fluid" src="images/team-member/ali.jpg" alt="image">
+                                    <img class="img-fluid" src="images/team-member/avatar.png" alt="image">
                                     <div class="ttm-social-links-wrapper">
                                         <ul class="social-icons list-inline"><!-- social-icons -->
                                             <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -288,7 +273,7 @@
                             <!-- featured-imagebox-team -->
                             <div class="featured-imagebox featured-imagebox-team style2">
                                 <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                    <img class="img-fluid" src="images/team-member/ali.jpg" alt="image">
+                                    <img class="img-fluid" src="images/team-member/avatar.png" alt="image">
                                     <div class="ttm-social-links-wrapper">
                                         <ul class="social-icons list-inline"><!-- social-icons -->
                                             <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -310,7 +295,7 @@
                             <!-- featured-imagebox-team -->
                             <div class="featured-imagebox featured-imagebox-team style2">
                                 <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                    <img class="img-fluid" src="images/team-member/ali.jpg" alt="image">
+                                    <img class="img-fluid" src="images/team-member/avatar.png" alt="image">
                                     <div class="ttm-social-links-wrapper">
                                         <ul class="social-icons list-inline"><!-- social-icons -->
                                             <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -332,7 +317,7 @@
                             <!-- featured-imagebox-team -->
                             <div class="featured-imagebox featured-imagebox-team style2">
                                 <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                    <img class="img-fluid" src="images/team-member/ali.jpg" alt="image">
+                                    <img class="img-fluid" src="images/team-member/avatar.png" alt="image">
                                     <div class="ttm-social-links-wrapper">
                                         <ul class="social-icons list-inline"><!-- social-icons -->
                                             <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>

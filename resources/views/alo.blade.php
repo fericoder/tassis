@@ -7,7 +7,9 @@
 body.rtl .tp-mask-wrap {
  direction: rtl !important;
 }
-
+.featured-thumbnail{
+    text-align: center;
+}
 /** DarkGrey-bg-color **/
 .ttm-bgcolor-darkgrey,
 .ttm-bgcolor-darkgrey > .ttm-bg-layer,
@@ -160,7 +162,7 @@ div.product ul.tabs li a:before {
                               <rs-layer
                                   id="slider-2-slide-1-layer-3"
                                   data-type="text"
-                                  data-color="#0880cb"
+                                  data-color="#c61313"
                                   data-rsp_ch="on"
                                   data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:363px,233px,124px,59px;"
                                   data-text="w:normal;s:62,52,45,37;l:70,60,50,60;fw:600;"
@@ -443,10 +445,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href="">کولر آبی</a></h5>
                                                </div>
-                                               <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
-                                               </div>
-                                               
+
                                            </div>
                                        </div>
                                    </div>
@@ -461,10 +460,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href="">مشعل گازی و گازوئیلی</a></h5>
                                                </div>
-                                               <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
-                                               </div>
-                                               
+
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -479,10 +475,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href="">بوستر پمپ آبرسانی</a></h5>
                                                </div>
-                                               <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
-                                               </div>
-                                               
+
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -497,10 +490,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href="">پمپ های سیرکوله</a></h5>
                                                </div>
-                                               <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
-                                               </div>
-                                               
+
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -515,10 +505,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href="">دیگ های چدنی و فولادی کوچک</a></h5>
                                                </div>
-                                               <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات </p>
-                                               </div>
-                                               
+
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -534,10 +521,6 @@ div.product ul.tabs li a:before {
                                                    <h5><a href="">شیر آلات و
 سرویس بهداشتی</a></h5>
                                                </div>
-                                               <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات </p>
-                                               </div>
-                                               
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -552,10 +535,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href="">انواع رادیاتور</a></h5>
                                                </div>
-                                               <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
-                                               </div>
-                                               
+
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -570,10 +550,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href=""></a>ترکیدگی لوله</h5>
                                                </div>
-                                               <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
-                                               </div>
-                                               
+
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -588,10 +565,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href=""></a>کولر گازی و اسپلیت و داکت اسپلیت</h5>
                                                </div>
-                                               <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
-                                               </div>
-                                               
+
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -607,9 +581,7 @@ div.product ul.tabs li a:before {
                                                    <h5><a href=""></a>نصب روشنایی
 چراغ دیواری</h5>
                                                </div>
-                                               <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات توضیحات</p>
-                                               </div>
+
                                                
                                            </div>
                                        </div>
@@ -625,10 +597,6 @@ div.product ul.tabs li a:before {
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href=""></a>پکیج و آبگرمکن</h5>
                                                </div>
-                                               <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
-                                               </div>
-                                               
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -643,10 +611,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href=""></a>لوازم برقی ، تابلو برق</h5>
                                                </div>
-                                               <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
-                                               </div>
-                                               
+
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -914,42 +879,73 @@ div.product ul.tabs li a:before {
                          <div class="row">
                              <div class="col-md-12">
                                  <!-- ttm-client -->
-                                 <div class="clients-slide owl-carousel owl-theme owl-loaded" data-item="5" data-nav="false" data-dots="false" data-auto="false">
+                                 <div class="clients-slide owl-carousel owl-theme owl-loaded" data-item="5" data-nav="false" data-dots="false" data-auto="true">
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت شاهد">
+                                                 <img class="img-fluid" src="images/team-member/shahed.png" alt="image" style="height:100px; width: 125px;">
+                                             </div>
+                                         </div>
+                                     </div>
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت فرآوری و توسعه ابنیه شاهد">
+                                                 <img class="img-fluid" src="images/team-member/abnieh.jpg" alt="image" style="height:100px; width: 125px;">
+                                             </div>
+                                         </div>
+                                     </div>
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت ارکان گستر یوتاب">
+                                                 <img class="img-fluid" src="images/team-member/utobco.jpg" alt="image" style="height:100px;">
+                                             </div>
+                                         </div>
+                                     </div>
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="شركت CCL IRAN">
+                                                 <img class="img-fluid" src="images/team-member/client-04.jpeg" alt="image" style="height:100px;">
+                                             </div>
+                                         </div>
+                                     </div>
+
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="مهندسين مشاور اركان پويش">
+                                                 <img class="img-fluid" src="images/team-member/client-05.jpeg" alt="image" style="height:100px;">
+                                             </div>
+                                         </div>
+                                     </div>
+
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت ساختماني کندوان تونل">
+                                                 <img class="img-fluid" src="images/team-member/client-02.jpeg" alt="image" style="height:100px;">
+                                             </div>
+                                         </div>
+                                     </div>
+
+
+                                     <div class="client-box ttm-box-view-boxed-logo">
+                                         <div class="client">
+                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت باتیس گروه">
+                                                 <img class="img-fluid" src="images/team-member/client-03.jpeg" alt="image" style="height:100px;">
+                                             </div>
+                                         </div>
+                                     </div>
+
+
                                      <div class="client-box ttm-box-view-boxed-logo">
                                          <div class="client">
                                              <div class="ttm-client-logo-tooltip" data-tooltip="هونامیک سازه">
-                                                 <img class="img-fluid" src="images/client/client-01.jpeg" alt="image" style="height:100px; width: 125px;">
+                                                 <img class="img-fluid" src="images/team-member/client-01.jpeg" alt="image" style="height:100px;">
                                              </div>
                                          </div>
                                      </div>
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="نوین عمران">
-                                                 <img class="img-fluid" src="images/client/client-02.jpeg" alt="image" style="height:100px; width: 125px;">
-                                             </div>
-                                         </div>
-                                     </div>
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="باتیس">
-                                                 <img class="img-fluid" src="images/client/client-03.jpeg" alt="image" style="height:100px;">
-                                             </div>
-                                         </div>
-                                     </div>
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="سی سی ال ایران">
-                                                 <img class="img-fluid" src="images/client/client-04.jpeg" alt="image" style="height:100px;">
-                                             </div>
-                                         </div>
-                                     </div>
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="ارکان پویش">
-                                                 <img class="img-fluid" src="images/client/client-05.jpeg" alt="image" style="height:100px;">
-                                             </div>
-                                         </div>
-                                     </div>
+
+
+
+
                                  </div><!-- ttm-client end -->
                              </div>
                          </div>
