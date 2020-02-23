@@ -1209,7 +1209,7 @@ div.product ul.tabs li a{
 
 /** SiteBrand(logo) **/
 .site-branding{
-    float: right;
+    float: left;
     height: 100px;
     line-height: 100px;
     position: relative;
@@ -1486,8 +1486,7 @@ div.product ul.tabs li a{
 
 /** FirstFooter **/
 .first-footer{padding: 40px 0 40px 0;}
-.footer-logo img { height: 100px;
-width: 200px;}
+.footer-logo img { max-height: 45px;}
 .first-footer .featured-icon-box .ttm-icon.ttm-icon_element-size-md{
     height: 30px;
     width: 30px;
@@ -1920,7 +1919,7 @@ article.ttm-blog-classic .ttm-post-entry-header{
     top: 0;
     right: 10px;
     display: block;
-    background-color: rgba(0,0,0,0.2);
+
 }
 .ttm-blog-classic .post-meta .ttm-meta-line i, .ttm-blog-single-content .post-meta .ttm-meta-line i {
     padding-right: 7px;
@@ -1966,12 +1965,13 @@ article.ttm-blog-classic .ttm-post-entry-header{
     line-height: 70px;
     top: auto;
     bottom: -30px;
-    right: 35px;
+    right: -25px;
     width: 70px;
     height: 70px;
     color: #fff;
     border-radius: 50px;
     text-align: center;
+    margin-bottom: 290px;
 }
 .ttm-tag-list span a {
     padding: 7px 15px;
@@ -2272,8 +2272,4 @@ h1 {
 }
 .tasis-byekan{
     font-family: byekan!important;
-}
-.tasis-w{
-  width: 200px;
-  height: 200px;
 }

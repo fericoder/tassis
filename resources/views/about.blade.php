@@ -19,7 +19,7 @@
                                     <span class="text-light">درباره ما</span>
                                 </span>
                                 <span class="ttm-bread-sep">&nbsp;/ &nbsp;</span>
-                                <a title="Homepage" href="index.html" class="text-light">صفحه اصلی<i class="ti ti-home mr-1"></i></a>
+                                <a title="Homepage" href="index.html" class="text-light"><i class="ti ti-home ml-1"></i>صفحه اصلی</a>
 
                             </div>
                         </div>

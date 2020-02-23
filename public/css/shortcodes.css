@@ -228,7 +228,7 @@
 .ttm-equal-height-image{ display: none; }
 
 .col-bg-img-one.ttm-col-bgimage-yes .ttm-col-wrapper-bg-layer{
-    background-image: url(../images/bg-image/jashn3.jpg) !important;
+    background-image: url(../images/bg-image/tech.jpg) !important;
     background-position: center center!important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -914,8 +914,7 @@ body{ counter-reset: section; }
 }
 /*  style6 */
 .featured-icon-box.style6{
-    border: 1.5px solid #2d4a8a;
-    border-radius: 10px;
+    border: 1px solid #ebeef0;
     padding: 30px 30px 30px 30px;
     height: 100%;
     position: relative;
@@ -926,14 +925,13 @@ body{ counter-reset: section; }
     -ms-transition: all 0.5s ease-in-out 0s;
     -o-transition: all 0.5s ease-in-out 0s;
     transition: all 0.5s ease-in-out 0s;
-    margin: 5px;
 }
 .featured-icon-box.style6 .ttm-icon.ttm-icon_element-size-lg {
     height: 50px;
     width: 50px;
     line-height: 50px;
 }
-.featured-icon-box.style6 .ttm-icon.ttm-icon_element-size-lg i{font-size: 45px;}
+.featured-icon-box.style6 .ttm-icon.ttm-icon_element-size-lg i{font-size: 50px;}
 
 /*  style7 */
 .featured-icon-box.style7{padding: 30px 20px;border:1px solid #ebedf2 !important;}
@@ -1234,7 +1232,7 @@ body{ counter-reset: section; }
     width: 1px;
     right: 10px;
     top: 0;
-    background-color: #dce1e9;
+
 }
 .ttm-box-post-date{
     position: absolute;
@@ -1327,7 +1325,7 @@ body{ counter-reset: section; }
 /*  services  */
 .featured-imagebox-services.style1 .featured-content{
     padding: 34px 50px 30px;
-    margin: -5px 20px 0;
+    margin: -55px 20px 0;
     text-align: center;
     border-bottom: 3px solid #263045;
     position: relative;
@@ -1335,7 +1333,7 @@ body{ counter-reset: section; }
     -moz-transition: all .4s ease-in-out;
     -webkit-transition: all .4s ease-in-out;
     -o-transition: all .4s ease-in-out;
-    background-color: #e1eaec;
+    background-color: #fff;
 }
 .featured-imagebox-services .featured-title h5{margin-bottom: 10px;}
 
