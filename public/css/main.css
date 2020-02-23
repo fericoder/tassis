@@ -1486,7 +1486,8 @@ div.product ul.tabs li a{
 
 /** FirstFooter **/
 .first-footer{padding: 40px 0 40px 0;}
-.footer-logo img { max-height: 45px;}
+.footer-logo img { height: 100px;
+width: 200px;}
 .first-footer .featured-icon-box .ttm-icon.ttm-icon_element-size-md{
     height: 30px;
     width: 30px;
@@ -2271,4 +2272,8 @@ h1 {
 }
 .tasis-byekan{
     font-family: byekan!important;
+}
+.tasis-w{
+  width: 200px;
+  height: 200px;
 }

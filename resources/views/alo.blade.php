@@ -156,59 +156,32 @@ div.product ul.tabs li a:before {
                                   data-frame_999="o:0;st:w;sR:8610;"
                                   >
                               </rs-layer>
-                              <a
-                                  id="slider-2-slide-1-layer-2"
-                                  class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-btn-color-darkgrey"
-                                  href="#" target="_self" rel="nofollow"
-                                  data-type="text"
-                                  data-rsp_ch="on"
-                                  data-xy="x:l,l,l,c;xo:279px,279px,210px,0;yo:609px,468px,310px,233px;"
-                                  data-text="w:normal;s:15,15,12,11;l:29,29,25,30;fw:600;a:center;"
-                                  data-border="bos:solid;boc:#263045;bow:1px,1px,1px,1px;"
-                                  data-padding="t:11,11,7,4;r:35,35,22,14;b:11,11,7,4;l:35,35,22,14;"
-                                  data-frame_0="y:50,50,31,19;"
-                                  data-frame_1="st:760;sp:500;sR:760;"
-                                  data-frame_999="o:0;st:w;sR:7740;"
-                                  >الو تسیس
-                              </a>
+
                               <rs-layer
                                   id="slider-2-slide-1-layer-3"
                                   data-type="text"
-                                  data-color="#c61313"
+                                  data-color="#0880cb"
                                   data-rsp_ch="on"
                                   data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:363px,233px,124px,59px;"
                                   data-text="w:normal;s:62,52,45,37;l:70,60,50,60;fw:600;"
                                   data-frame_0="x:-50,-50,-31,-19;"
                                   data-frame_1="e:Linear.easeNone;st:260;sp:800;sR:260;"
                                   data-frame_999="o:0;st:w;sR:7940;"
-                                  >اورژانس  تأسیسات
+                                  >الو تسیس
                               </rs-layer>
                               <rs-layer class="tasis-byekan"
                                   id="slider-2-slide-1-layer-4"
                                   data-type="text"
-                                  data-color="#0880cb"
+                                  data-color="#c61313"
                                   data-rsp_ch="on"
                                   data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:436px,294px,173px,104px;"
                                   data-text="w:normal;s:62,52,45,37;l:75,65,60,60;fw:600;"
                                   data-frame_0="x:-50,-50,-31,-19;"
                                   data-frame_1="st:410;sp:800;sR:410;"
                                   data-frame_999="o:0;st:w;sR:7790;"
-                                  > 2470 <strong class="ttm-textcolor-skincolor">الو تسیس</strong>
+                                  > 2470 <strong class="ttm-textcolor-skincolor">اورژانس  تأسیسات</strong>
                               </rs-layer>
-                              <a
-                                  id="slider-2-slide-1-layer-5"
-                                  class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor bg-blue"
-                                  href="#" target="_self" rel="nofollow"
-                                  data-type="text"
-                                  data-rsp_ch="on"
-                                  data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:608px,468px,309px,180px;"
-                                  data-text="w:normal;s:15,15,12,11;l:27,27,25,30;fw:600;a:center;"
-                                  data-padding="t:12,12,8,5;r:35,35,22,14;b:15,15,9,6;l:35,35,22,14;"
-                                  data-frame_0="y:50,50,31,19;"
-                                  data-frame_1="st:720;sp:500;sR:720;"
-                                  data-frame_999="o:0;st:w;sR:7780;"
-                                  >مشاوره رایگان
-                              </a>
+
                               <rs-layer
                                   id="slider-2-slide-1-layer-6"
                                   data-type="image"
@@ -348,10 +321,10 @@ div.product ul.tabs li a:before {
                             </div>
                             <div class="featured-content"><!--  featured-content -->
                                 <div class="featured-title"><!--  featured-title -->
-                                    <h5>تست</h5>
+                                    <h5>سرعت</h5>
                                 </div>
                                 <div class="featured-desc"><!--  featured-desc -->
-                                    <p>تست</p>
+                                    <p>خدمت رسانی در کمترین زمان</p>
                                 </div>
                             </div>
                         </div><!--  featured-icon-box END -->
@@ -366,10 +339,10 @@ div.product ul.tabs li a:before {
                             </div>
                             <div class="featured-content"><!--  featured-content -->
                                 <div class="featured-title"><!--  featured-title -->
-                                    <h5>24/7</h5>
+                                    <h5 class="tasis-byekan">24/7</h5>
                                 </div>
                                 <div class="featured-desc"><!--  featured-desc -->
-                                    <p>2470</p>
+                                    <p>خدمات شبانه روزی</p>
                                 </div>
                             </div>
                         </div><!--  featured-icon-box END -->
@@ -384,10 +357,10 @@ div.product ul.tabs li a:before {
                             </div>
                             <div class="featured-content"><!--  featured-content -->
                                 <div class="featured-title"><!--  featured-title -->
-                                    <h5>تست</h5>
+                                    <h5>تخصص </h5>
                                 </div>
                                 <div class="featured-desc"><!--  featured-desc -->
-                                    <p>تست</p>
+                                    <p>بکار گیری نیروهای متخصص</p>
                                 </div>
                             </div>
                         </div><!--  featured-icon-box END -->
@@ -445,7 +418,7 @@ div.product ul.tabs li a:before {
            <!-- aboutus-section end -->
 
            <!-- services-slide-section -->
-                       <section class="ttm-row grid-section clearfix">
+                       <section class="ttm-row grid-section clearfix img-wh">
                            <div class="container">
                                <div class="row"><!-- row -->
                                    <div class="col-lg-8 offset-lg-2">
@@ -464,7 +437,7 @@ div.product ul.tabs li a:before {
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                               <img class="img-fluid" src="images/services/tasis4.jpg" alt="image">
+                                               <img class="img-fluid tasis-w" src="images/services/kooler.jpg" alt="image">
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
@@ -473,7 +446,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-desc"><!-- featured-title -->
                                                    <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
                                                </div>
-                                               <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-10" href="#">بیشتر بخوانید<i class="ti ti-angle-double-left"></i></a>
+                                               
                                            </div>
                                        </div>
                                    </div>
@@ -481,17 +454,17 @@ div.product ul.tabs li a:before {
                                        <!-- featured-imagebox-services -->
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
-                                           <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                               <img class="img-fluid" src="images/services/tasis4.jpg" alt="image">
+                                           <div class="featured-thum tasis-wbnail"><!-- featured-thumbnail -->
+                                               <img class="img-fluid" src="images/services/mashal.jpg" alt="image">
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href="">مشعل گازی و گازوئیلی</a></h5>
                                                </div>
                                                <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
+                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
                                                </div>
-                                               <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-10" href="#">بیشتر بخوانید<i class="ti ti-angle-double-left"></i></a>
+                                               
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -500,16 +473,16 @@ div.product ul.tabs li a:before {
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                               <img class="img-fluid" src="images/services/tasis4.jpg" alt="image">
+                                               <img class="img-fluid tasis-w" src="images/services/boster.jpg" alt="image">
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href="">بوستر پمپ آبرسانی</a></h5>
                                                </div>
                                                <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
+                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
                                                </div>
-                                               <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-10" href="#">بیشتر بخوانید<i class="ti ti-angle-double-left"></i></a>
+                                               
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -518,16 +491,16 @@ div.product ul.tabs li a:before {
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                               <img class="img-fluid" src="images/services/tasis4.jpg" alt="image">
+                                               <img class="img-fluid tasis-w" src="images/services/pomp.jpg" alt="image">
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href="">پمپ های سیرکوله</a></h5>
                                                </div>
                                                <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
+                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
                                                </div>
-                                               <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-10" href="#">بیشتر بخوانید<i class="ti ti-angle-double-left"></i></a>
+                                               
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -536,16 +509,16 @@ div.product ul.tabs li a:before {
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail box-shadow"><!-- featured-thumbnail -->
-                                               <img class="img-fluid" src="images/services/tasis4.jpg" alt="image">
+                                               <img class="img-fluid tasis-w" src="images/services/folad.jpg" alt="image">
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href="">دیگ های چدنی و فولادی کوچک</a></h5>
                                                </div>
                                                <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
+                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات </p>
                                                </div>
-                                               <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-10" href="#">بیشتر بخوانید<i class="ti ti-angle-double-left"></i></a>
+                                               
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -554,7 +527,7 @@ div.product ul.tabs li a:before {
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                               <img class="img-fluid" src="images/services/tasis4.jpg" alt="image">
+                                               <img class="img-fluid tasis-w" src="images/services/shir.jpg" alt="image">
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
@@ -562,9 +535,9 @@ div.product ul.tabs li a:before {
 سرویس بهداشتی</a></h5>
                                                </div>
                                                <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
+                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات </p>
                                                </div>
-                                               <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-10" href="#">بیشتر بخوانید<i class="ti ti-angle-double-left"></i></a>
+                                               
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -573,7 +546,7 @@ div.product ul.tabs li a:before {
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                               <img class="img-fluid" src="images/services/tasis4.jpg" alt="image">
+                                               <img class="img-fluid tasis-w" src="images/services/radiator.jpg" alt="image">
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
@@ -582,7 +555,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-desc"><!-- featured-title -->
                                                    <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
                                                </div>
-                                               <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-10" href="#">بیشتر بخوانید<i class="ti ti-angle-double-left"></i></a>
+                                               
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -591,7 +564,7 @@ div.product ul.tabs li a:before {
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                               <img class="img-fluid" src="images/services/tasis4.jpg" alt="image">
+                                               <img class="img-fluid tasis-w" src="images/services/lole.jpg" alt="image">
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
@@ -600,7 +573,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-desc"><!-- featured-title -->
                                                    <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
                                                </div>
-                                               <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-10" href="#">بیشتر بخوانید<i class="ti ti-angle-double-left"></i></a>
+                                               
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -609,16 +582,16 @@ div.product ul.tabs li a:before {
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                               <img class="img-fluid" src="images/services/tasis4.jpg" alt="image">
+                                               <img class="img-fluid tasis-w" src="images/services/gazi.jpg" alt="image">
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
                                                    <h5><a href=""></a>کولر گازی و اسپلیت و داکت اسپلیت</h5>
                                                </div>
                                                <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
+                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
                                                </div>
-                                               <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-10" href="#">بیشتر بخوانید<i class="ti ti-angle-double-left"></i></a>
+                                               
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -627,7 +600,7 @@ div.product ul.tabs li a:before {
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                               <img class="img-fluid" src="images/services/tasis4.jpg" alt="image">
+                                               <img class="img-fluid tasis-w" src="images/services/cheraq.jpg" alt="image">
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
@@ -635,9 +608,9 @@ div.product ul.tabs li a:before {
 چراغ دیواری</h5>
                                                </div>
                                                <div class="featured-desc"><!-- featured-title -->
-                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
+                                                   <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات توضیحات</p>
                                                </div>
-                                               <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-10" href="#">بیشتر بخوانید<i class="ti ti-angle-double-left"></i></a>
+                                               
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -646,7 +619,7 @@ div.product ul.tabs li a:before {
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                               <img class="img-fluid" src="images/services/tasis4.jpg" alt="image">
+                                               <img class="img-fluid tasis-w" src="images/services/pak.jpg" alt="image">
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
@@ -655,7 +628,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-desc"><!-- featured-title -->
                                                    <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
                                                </div>
-                                               <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-10" href="#">بیشتر بخوانید<i class="ti ti-angle-double-left"></i></a>
+                                               
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -664,7 +637,7 @@ div.product ul.tabs li a:before {
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                               <img class="img-fluid" src="images/services/tasis4.jpg" alt="image">
+                                               <img class="img-fluid tasis-w" src="images/services/barq.jpg" alt="image">
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
@@ -673,7 +646,7 @@ div.product ul.tabs li a:before {
                                                <div class="featured-desc"><!-- featured-title -->
                                                    <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
                                                </div>
-                                               <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline ttm-icon-btn-right mt-10" href="#">بیشتر بخوانید<i class="ti ti-angle-double-left"></i></a>
+                                               
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->

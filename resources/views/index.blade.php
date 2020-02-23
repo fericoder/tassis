@@ -23,7 +23,7 @@ body.rtl .tp-mask-wrap {
                           <!-- rs-slide -->
                           <rs-slide class="tasis-ltr" data-key="rs-3" data-title="Slide" data-thumb="images/slides/slider-mainbg-003.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
                               <img src="images/slides/slider-mainbg-003.jpg" title="slider-mainbg-003" width="1920" height="790" class="rev-slidebg" data-no-retina>
-                              <rs-layer
+                              <rs-layer class="tasis-byekan"
                                   id="slider-2-slide-1-layer-0"
                                   data-type="text"
                                   data-color="#2d4a8a"
@@ -34,7 +34,7 @@ body.rtl .tp-mask-wrap {
                                   data-frame_0="x:-50,-50,-31,-19;"
                                   data-frame_1="e:Linear.easeNone;st:120;sp:400;sR:120;"
                                   data-frame_999="o:0;st:w;sR:8480;"
-                                  >
+                                  >"متولد سال "1347
                               </rs-layer>
                               <rs-layer
                                   id="slider-2-slide-1-layer-1"
@@ -50,21 +50,7 @@ body.rtl .tp-mask-wrap {
                                   data-frame_999="o:0;st:w;sR:8610;"
                                   >
                               </rs-layer>
-                              <a
-                                  id="slider-2-slide-1-layer-2"
-                                  class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-btn-color-darkgrey"
-                                  href="#" target="_self" rel="nofollow"
-                                  data-type="text"
-                                  data-rsp_ch="on"
-                                  data-xy="x:l,l,l,c;xo:279px,279px,210px,0;yo:609px,468px,310px,233px;"
-                                  data-text="w:normal;s:15,15,12,11;l:29,29,25,30;fw:600;a:center;"
-                                  data-border="bos:solid;boc:#263045;bow:1px,1px,1px,1px;"
-                                  data-padding="t:11,11,7,4;r:35,35,22,14;b:11,11,7,4;l:35,35,22,14;"
-                                  data-frame_0="y:50,50,31,19;"
-                                  data-frame_1="st:760;sp:500;sR:760;"
-                                  data-frame_999="o:0;st:w;sR:7740;"
-                                  >الو تسیس
-                              </a>
+
                               <rs-layer
                                   id="slider-2-slide-1-layer-3"
                                   data-type="text"
@@ -92,7 +78,7 @@ body.rtl .tp-mask-wrap {
                               <a
                                   id="slider-2-slide-1-layer-5"
                                   class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor"
-                                  href="#" target="_self" rel="nofollow"
+                                  href="/about" target="_self" rel="nofollow"
                                   data-type="text"
                                   data-rsp_ch="on"
                                   data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:608px,468px,309px,180px;"
@@ -181,42 +167,7 @@ body.rtl .tp-mask-wrap {
                                   data-frame_999="o:0;st:w;sR:7870;"
                                   >شرکت تاسیسات ساختمان ایران"تسیس"در سال 1347 تاسیس شده است <br> واینک با قدمت  بیش از نیم قرن با سابقه ترین وبزرگترین شرکت تخصصی تاسیسات کشور می باشد
                               </rs-layer>
-                              <rs-layer
-                                  id="slider-2-slide-1-layer-11"
-                                  class="ttm-bgcolor-skincolor"
-                                  data-type="shape"
-                                  data-rsp_ch="on"
-                                  data-xy="x:c;xo:159px,159px,627px,386px;y:m;yo:299px,169px,38px,23px;"
-                                  data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
-                                  data-dim="w:150px,150px,93px,57px;h:150px,150px,93px,57px;"
-                                  data-border="bor:50%,50%,50%,50%;"
-                                  data-frame_0="sX:0.9;sY:0.9;"
-                                  data-frame_1="e:Linear.easeNone;st:310;sp:400;sR:310;"
-                                  data-frame_999="o:0;st:w;sR:8290;"
-                                  >
-                              </rs-layer>
-                              <rs-layer class="tasis-byekan"
-                                  id="slider-2-slide-1-layer-12"
-                                  data-type="text"
-                                  data-rsp_ch="on"
-                                  data-xy="x:c;xo:156px,156px,626px,386px;yo:725px,530px,266px,164px;"
-                                  data-text="w:normal;s:15,15,9,5;l:20,20,12,7;a:center;"
-                                  data-vbility="t,t,f,f"
-                                  data-frame_1="st:380;sR:380;"
-                                  data-frame_999="o:0;st:w;sR:8320;"
-                                  >بصورت شبانه روزی<br>2470
-                              </rs-layer>
-                              <rs-layer
-                                  id="slider-2-slide-1-layer-13"
-                                  data-type="text"
-                                  data-rsp_ch="on"
-                                  data-xy="x:c;xo:155px,155px,625px,385px;yo:679px,480px,238px,146px;"
-                                  data-text="w:normal;s:37,37,22,13;l:37,37,22,13;"
-                                  data-vbility="t,t,f,f"
-                                  data-frame_1="st:380;sR:380;"
-                                  data-frame_999="o:0;st:w;sR:8320;"
-                                  ><i class="fa fa-phone"></i><br />
-                              </rs-layer>
+
                           </rs-slide>
                           <!-- rs-slide -->
                           <!-- rs-slide -->
@@ -247,6 +198,11 @@ body.rtl .tp-mask-wrap {
                                   <div class="featured-icon-box style6">
                                       <div class="featured-content"><!--  featured-content -->
                                           <div class="featured-title"><!--  featured-title -->
+                                            <div class="featured-icon"><!--  featured-icon -->
+                                                <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+                                                    <i class="flaticon flaticon-system"></i><!--  ttm-icon -->
+                                                </div>
+                                            </div>
                                               <h5 class="mb-10 tasis-center">راه‌اندازی،تاسیسات،تجهیزات</h5>
                                           </div>
                                           <div class="featured-desc"><!--  featured-desc -->
@@ -257,11 +213,7 @@ body.rtl .tp-mask-wrap {
 </p>
                                           </div>
                                       </div>
-                                      <div class="featured-icon"><!--  featured-icon -->
-                                          <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                              <i class="flaticon flaticon-system"></i><!--  ttm-icon -->
-                                          </div>
-                                      </div>
+
                                       <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#">بیشتر بخوانید</a>
                                   </div><!--  featured-icon-box END -->
                               </div>
@@ -270,20 +222,20 @@ body.rtl .tp-mask-wrap {
                                   <div class="featured-icon-box style6">
                                       <div class="featured-content"><!--  featured-content -->
                                           <div class="featured-title"><!--  featured-title -->
-                                              <h5 class="mb-10 tasis-center">فناوری های نوین ،انرژی پاک</h5>
+                                            <div class="featured-icon"><!--  featured-icon -->
+                                                <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+                                                    <i class="fa fa-flag-o"></i><!--  ttm-icon -->
+                                                </div>
+                                            </div>  <h5 class="mb-10 tasis-center">فناوری های نوین <br> انرژی پاک</h5>
                                           </div>
                                           <div class="featured-desc"><!--  featured-desc -->
                                               <p class="mb-25">•	ممیزی مصرف انرژی
                                               <br>•	هوشمندسازی
                                             <br>•	خدمات هشدارهای امنیتی
-                                          <br>•	نورپردازی ساختمان </p>
+                                          </p>
                                           </div>
                                       </div>
-                                      <div class="featured-icon"><!--  featured-icon -->
-                                          <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                              <i class="flaticon flaticon-computer"></i><!--  ttm-icon -->
-                                          </div>
-                                      </div>
+
                                       <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#"> بیشتر بخوانید </a>
                                   </div><!--  featured-icon-box END -->
                               </div>
@@ -292,6 +244,11 @@ body.rtl .tp-mask-wrap {
                                   <div class="featured-icon-box style6">
                                       <div class="featured-content"><!--  featured-content -->
                                           <div class="featured-title"><!--  featured-title -->
+                                            <div class="featured-icon"><!--  featured-icon -->
+                                                <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+                                                    <i class="flaticon flaticon-data"></i><!--  ttm-icon -->
+                                                </div>
+                                            </div>
                                               <h5 class="mb-10 tasis-center">خدمات محیط زیست</h5>
                                           </div>
                                           <div class="featured-desc"><!--  featured-desc -->
@@ -302,11 +259,7 @@ body.rtl .tp-mask-wrap {
                                     </p>
                                           </div>
                                       </div>
-                                      <div class="featured-icon"><!--  featured-icon -->
-                                          <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                              <i class="flaticon flaticon-chart"></i><!--  ttm-icon -->
-                                          </div>
-                                      </div>
+
                                       <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#"> بیشتر بخوانید </a>
                                   </div><!--  featured-icon-box END -->
                               </div>
@@ -315,21 +268,22 @@ body.rtl .tp-mask-wrap {
                                   <div class="featured-icon-box style6">
                                       <div class="featured-content"><!--  featured-content -->
                                           <div class="featured-title"><!--  featured-title -->
+                                            <div class="featured-icon"><!--  featured-icon -->
+                                                <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+                                                    <i class="fa fa-diamond"></i><!--  ttm-icon -->
+                                                </div>
+                                            </div>
                                               <h5 class="mb-10 tasis-center">خدمات عمومی</h5>
                                           </div>
                                           <div class="featured-desc"><!--  featured-desc -->
                                               <p class="mb-25">•	خدمات پارکینگ ها
                                             <br>•خدمات خودرویی
                                               <br>•	خدمات ورزشی
-                                          <br>•	خدمات بسته بندی،حمل و نقل اثاث
+                                          <br>•	خدمات بسته بندی، حمل و نقل
                                       </p>
                                           </div>
                                       </div>
-                                      <div class="featured-icon"><!--  featured-icon -->
-                                          <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                              <i class="flaticon flaticon-data"></i><!--  ttm-icon -->
-                                          </div>
-                                      </div>
+
                                       <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#"> بیشتر بخوانید </a>
                                   </div><!--  featured-icon-box END -->
                               </div>
@@ -347,8 +301,8 @@ body.rtl .tp-mask-wrap {
                            <!-- section title -->
                            <div class="section-title with-desc clearfix">
                                <div class="title-header">
-                                   <h2 class="title">درباره <span>شرکت سهامی تاسیسات ساختمان ایران</span></h2>
-                               </div>
+                                   <h2 class="title">درباره <span> شرکت سهامی تاسیسات ساختمان ایران </span><span class="text-danger">تسیس</span>
+                               </div></h2>
                                <div class="title-desc">
                                    <p>شرکت تسیس در قالب یک شرکت سهامی خاص با هدف حضوری متفاوت و ارزش آفرین در صنعت گسترده و پویای پروژه های عمرانی و ساخت و ساز شهری کشور و با سرمایه ای از تخصص و تجربه پا به عرصه وجود نهاده است.
 عوامل اصلی رشد سریع و قابل توجه شرکت را می توان در مواردی همچون پشتوانه فنی مدیران، تکیه بر نیروی انسانی مجرب و قابل اعتماد و آموزش مداوم آنها، حفظ حقوق مشتریان و .کارفرمایان و پایبندی به رعایت اصول فنی و کیفی در کلیه مراحل تمامی پروژه های انجام شده و در دست انجام خلاصه نمود</p>
