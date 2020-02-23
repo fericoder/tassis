@@ -23,3 +23,6 @@ Route::get('alo', function () {
 Route::get('partners', function () {
     return view('partners');
 });
+Route::get('contact', function () {
+    return view('contact');
+});

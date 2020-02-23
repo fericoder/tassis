@@ -204,7 +204,7 @@ body.rtl .tp-mask-wrap {
                                   data-vbility="t,t,f,f"
                                   data-frame_1="st:380;sR:380;"
                                   data-frame_999="o:0;st:w;sR:8320;"
-                                  >به صورت شبانه روزی<br>2470
+                                  >بصورت شبانه روزی<br>2470
                               </rs-layer>
                               <rs-layer
                                   id="slider-2-slide-1-layer-13"
