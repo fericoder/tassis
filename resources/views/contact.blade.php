@@ -95,28 +95,6 @@
                                       <div class="featured-desc"><!-- featured-description -->
                                           <p>
                                               <a href="mailto:Info@Tassis.Ir">Info@Tassis.Ir</a><br>
-                                              <a href="mailto:">email@example.com</a>
-                                          </p>
-                                      </div>
-                                  </div><!-- featured-content END-->
-                              </div><!-- featured-icon-box -->
-                          </div>
-                          <div class="col-lg-4">
-                              <!-- featured-icon-box -->
-                              <div class="featured-icon-box style8 text-center box-shadow">
-                                  <div class="featured-icon"><!-- featured-icon-->
-                                      <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-bgcolor-white ttm-icon_element-size-md ttm-icon_element-style-round">
-                                          <i class="fa fa-phone"></i>
-                                      </div>
-                                  </div><!-- featured-icon -->
-                                  <div class="featured-content"><!-- featured-content -->
-                                      <div class="featured-title">
-                                          <h5>شماره تماس</h5><!-- featured-title -->
-                                      </div>
-                                      <div class="featured-desc"><!-- featured-description -->
-                                          <p>
-                                            2470<br>
-                                              66985412
                                           </p>
                                       </div>
                                   </div><!-- featured-content END-->
@@ -136,12 +114,33 @@
                                       </div>
                                       <div class="featured-desc"><!-- featured-description -->
                                           <p>
-                                              تهران- خیابان سعادت آباد- میدان بهرود<br> مجتمع پرواز
+                                              تهران - سعادت آباد - میدان بهرود، مجتمع اداری پرواز، طبقه دوم، واحد ۱
                                           </p>
                                       </div>
                                   </div><!-- featured-content END-->
                               </div><!-- featured-icon-box -->
                           </div>
+                          <div class="col-lg-4">
+                              <!-- featured-icon-box -->
+                              <div class="featured-icon-box style8 text-center box-shadow">
+                                  <div class="featured-icon"><!-- featured-icon-->
+                                      <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-bgcolor-white ttm-icon_element-size-md ttm-icon_element-style-round">
+                                          <i class="fa fa-phone"></i>
+                                      </div>
+                                  </div><!-- featured-icon -->
+                                  <div class="featured-content"><!-- featured-content -->
+                                      <div class="featured-title">
+                                          <h5>شماره تماس</h5><!-- featured-title -->
+                                      </div>
+                                      <div class="featured-desc"><!-- featured-description -->
+                                          <p>
+                                            2470
+                                          </p>
+                                      </div>
+                                  </div><!-- featured-content END-->
+                              </div><!-- featured-icon-box -->
+                          </div>
+
                       </div>
                   </div>
               </div>

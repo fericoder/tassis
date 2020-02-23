@@ -137,14 +137,23 @@ body.rtl .tp-mask-wrap {
                                    </div>
                                    <nav id="menu" class="menu">
                                        <ul class="dropdown">
-                                          <li class="active"><a href="/">صفحه اصلی</a>
-                                           <li><a href="#">خدمات تسیس</a></li>
-                                           <li><a href="/about">درباره تسیس</a> </li>
-                                           <li><a href="#">تماس باما</a></li>
-                                           <li><a href="#">همکاری باما</a>
-                                           </li><li><a href="#">رزومه</a></li>
-                                           <li><a href="/partners">همکاران</a></li>
-                                           <li><a style="color: red" href="/alo">الو تسیس</a></li>
+                                           <li class="{{  request()->is('*/') ? 'active' : '' }}" ><a href="/">صفحه اصلی</a>
+                                           <li class="{{  request()->is('*services*') ? 'active' : '' }}" class="has-submenu"><a href="/#services">خدمات تسیس</a>
+                                               <ul class="sub-menu">
+                                                   <li style="direction: rtl; text-align: right"><a href="/#services">مدیریت راه اندازی و خدمات تاسیسات و تجهیزات</a></li>
+                                                   <li style="direction: rtl; text-align: right"><a href="/#services">خدمات فناوری های نوین و انرژی پاک</a></li>
+                                                   <li style="direction: rtl; text-align: right"><a href="/#services">خدمات محیط زیست</a></li>
+                                                   <li style="direction: rtl; text-align: right"><a href="/#services">خدمات عمومی</a></li>
+                                               </ul>
+                                           </li>
+
+
+                                           <li class="{{  request()->is('*about*') ? 'active' : '' }}"><a href="/about">درباره ما</a> </li>
+                                           <li class="{{  request()->is('') ? 'active' : '' }}"><a href="#">همکاری باما</a></li>
+                                           <li class="{{  request()->is('*resume') ? 'active' : '' }}"><a href="#">رزومه</a></li>
+                                           <li class="{{  request()->is('*partners') ? 'active' : '' }}"><a href="/partners">همکاران</a></li>
+                                           <li class="{{  request()->is('*contact*') ? 'active' : '' }}"><a href="/contact">تماس باما</a></li>
+                                           <li class="{{  request()->is('*alo') ? 'active' : '' }}"><a style="color: red" href="/alo">الو تسیس</a></li>
 
                                        </ul>
                                    </nav>
@@ -181,7 +190,7 @@ body.rtl .tp-mask-wrap {
                                    </div>
                                    <div class="featured-content"><!--  featured-content -->
                                        <div class="featured-desc tasis-ltr">
-                                           <p>تهران- خیابان سعادت آباد- میدان بهرود- مجتمع پرواز</p>
+                                           <p>تهران - سعادت آباد - میدان بهرود، مجتمع اداری پرواز، طبقه دوم، واحد ۱</p>
                                        </div>
                                    </div>
                                </div><!--  featured-icon-box END -->
@@ -189,7 +198,7 @@ body.rtl .tp-mask-wrap {
                        </div>
                        <div class="col-lg-4 col-md-4 col-sm-6 order-md-3">
                            <div class="text-sm-right">
-                               <a class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-white" href="phone" title=""><i class="fa fa-phone"></i><span class="tasis-byekan">2470</span></a>
+                               <a class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-white" href="phone" title=""><i class="fa fa-phone"></i><span class="tasis-byekan">تماس با تسیس و اورژانس تاسیسات: ۲۴۷۰</span></a>
                            </div>
                        </div>
                    </div>
@@ -202,8 +211,7 @@ body.rtl .tp-mask-wrap {
                            <div class="widget widget_text  clearfix">
                                <h3 class="widget-title">درباره تسیس</h3>
                                <div class="textwidget widget-text">
-شرکت تسیس در قالب یک شرکت سهامی خاص با هدف حضوری متفاوت و ارزش آفرین در صنعت گسترده و پویای پروژه های عمرانی و ساخت و ساز شهری کشور و با سرمایه ای از تخصص و تجربه پا به عرصه وجود نهاده است
-                               </div>
+                                   شرکت تاسیسات ساختمان ایران "تسیس"در سال 1347 تاسیس شده است واینک با قدمت بیش از نیم قرن با سابقه ترین وبزرگترین شرکت تخصصی تاسیسات کشور می باشد                               </div>
                                <div class="quicklink-box">
                                    <!--  featured-icon-box -->
                                    <div class="featured-icon-box left-icon">
@@ -296,7 +304,7 @@ body.rtl .tp-mask-wrap {
                    <div class="row copyright">
                        <div class="col-md-6">
                            <div class="">
-                               <span> تمامی حقوق محفوظ است© 2020 <a href="" target="_blank"> توسط تیم برنامه نویسان تسیس </a></span>
+                               <span>© تمامی حقوق محفوظ است |   <a href="" target="_blank"> دپارتمان طراحی و توسعه یوتاب  </a></span>
                            </div>
                        </div>
                        <div class="col-md-6">
