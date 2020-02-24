@@ -26,6 +26,9 @@ Route::get('partners', function () {
 Route::get('contact', function () {
     return view('contact');
 });
-Route::get('show', function () {
-    return view('show');
+Route::get('blogs.show', function () {
+    return view('blogs.show');
+});
+Route::get('blogs.index', function () {
+    return view('blogs.index');
 });
