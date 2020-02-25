@@ -253,17 +253,17 @@ body.rtl .tp-mask-wrap {
                                <h3 class="widget-title">لینک های کاربردی</h3>
                                <ul class="widget-post ttm-recent-post-list">
                                    <li>
-                                       <a href=""><img data-src="images/tasis7.png" class="lazyload" alt="post-img"></a>
+                                       <a href=""><img data-src="images/tassis2.jpg" class="lazyload" alt="post-img"></a>
                                        <a href="">لینک 1</a>
 
                                    </li>
                                    <li>
-                                       <a href=""><img data-src="images/tasis7.png" class="lazyload" alt="post-img"></a>
+                                       <a href=""><img data-src="images/tassis2.jpg" class="lazyload" alt="post-img"></a>
                                        <a href=""> لینک 2 </a>
 
                                    </li>
                                    <li>
-                                       <a href=""><img data-src="images/tasis7.png" class="lazyload" alt="post-img"></a>
+                                       <a href=""><img data-src="images/tassis2.jpg" class="lazyload" alt="post-img"></a>
                                        <a href="">لینک 3</a>
 
                                    </li>

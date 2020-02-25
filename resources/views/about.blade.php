@@ -6,7 +6,7 @@
 
 
         <!-- page-title -->
-        <div class="ttm-page-title-row" style="background-image: url(images/slides/tasis5.jpg)!important;">
+        <div class="ttm-page-title-row" style="background-image: url(images/slides/8.jpg)!important;">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -39,7 +39,10 @@
                             <div class="position-relative">
                                 <!-- ttm_single_image-wrapper -->
                                 <div class="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
-                                    <img class="img-fluid" src="images/tasis.jpg" title="single-img-nine" alt="single-img-nine">
+                                    <img class="img-fluid" src="images/3.jpg" title="single-img-nine" alt="single-img-nine">
+                                </div><!-- ttm_single_image-wrapper end -->
+                                <div class="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0" style="margin-top:250px;">
+                                    <img class="img-fluid" src="images/tassis10.jpg" title="single-img-nine" alt="single-img-nine">
                                 </div><!-- ttm_single_image-wrapper end -->
 
                             </div>
@@ -148,7 +151,7 @@
                                                 <h2 class="title"> شرکت سهامی تأسیسات ساختمان ایران <span>تسیس</span></h2>
                                             </div>
                                             <div class="title-desc">
-                                                <p>سابقه کاری مثبت مدیران شرکت از ابتدای حضور در عرصه ساخت و ساز در کنار تلاش گروهی پرسنل بخشهای مختلف فضای گسترده ای را برای حضور هونامیک سازه در پروژه های متعدد فراهم نموده است به نحوی که در این مدت افتخار حضور در پروژه های متعدد و با شرح خدمات متنوعی همچون طراحی و مشاوره، تامین کالا و تجهیزات، عملیات اجرایی و تعمیر و نگهداری به خود اختصاص داده است </p>
+                                                <p>گروه متخصصان و کارشناسان شرکت تسیس با تجربه ترین و متخصص ترین افراد در زمينه تاسیسات ساختمانی هستند. گستره فعالیت شرکت شامل طراحی وضع موجود ساختمان در جهت نگهداری بهینه، افزايش پایایی ساختمان و تجهيزات مورد استفاده در بخش تاسیسات ساختمان، بگونه ای منطبق بر استانداردهای موجود ساختمانی از نظر نگهداری، مقاومت سازه ای و نظارت تاسیساتی است. بعلاوه، این شرکت همواره در تلاش بوده است که از دانش و سیستمهای جدید مربوطه در اين حوزه بهره گیرد. به عنوان مثال ميتوان به Home Automation ، مدل سازی اطلاعاتی ساختمان (BIM) و غيره اشاره کرد تا با استفاده از این ابزار ها بتوان در ساختمانهای با امکانات و پتانسیل بالا نيز دانش و تکنولوژی را به خدمت گرفت تا فضای مناسب تر، .سلامت تر و بهينه تری برای ساکنین ساختمان فراهم آورد</p>
                                             </div>
                                         </div><!-- section title end -->
                                         <div class="row mt-40">
@@ -162,10 +165,13 @@
                                                     </div>
                                                     <div class="featured-content">
                                                         <div class="featured-title"><!-- featured title -->
-                                                            <h5>مهمترین آنها</h5>
+                                                            <h5>خدمات</h5>
                                                         </div>
                                                         <div class="featured-desc"><!-- featured desc -->
-                                                            <p> مهمترین آنها در بخش چهارم تحت عنوان سوابق کاری هونامیک سازه ارایه می گردد؛ ضمناً اهم پروژه های انجام شده توسط مدیران این شرکت، به صورت مجزا و تحت عنوان سوابق کاری مدیران هونامیک سازه در بخش پنجم ارایه شده است.</p>
+                                                            <p>	خدمات بهينه سازی تاسیساتی در جهت صرفه جویی در انرژی •
+<br>	رويکردهای تخصصی در کلاس جهانی يکچارچه سازی شده • (Integrated End- to – End Approaches)
+
+</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -187,10 +193,13 @@
                                                     </div>
                                                     <div class="featured-content">
                                                         <div class="featured-title"><!-- featured title -->
-                                                            <h5>تیتر</h5>
+
                                                         </div>
                                                         <div class="featured-desc"><!-- featured desc -->
-                                                            <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
+                                                            <p>	پياده سازی ارگونومی در ساختمان و تجهيزات و • <br>
+                                                              تاسیسات مربوطه
+                                                            <br>	 پوشش دادن انواع ساختمان به لحاظ حجم و تيپ کار متفاوت •
+                                                            <br>	 تسریع در انجام خدمات مربوطه در کنار هزينه مناسب •<p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -212,10 +221,12 @@
                                                     </div>
                                                     <div class="featured-content">
                                                         <div class="featured-title"><!-- featured title -->
-                                                          <h5>تیتر</h5>
+
                                                       </div>
                                                       <div class="featured-desc"><!-- featured desc -->
-                                                          <p> توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات  توضیحات </p>
+                                                          <p><br>	 ارائه تجهيزات و قطعات با کیفیت همراه با تضمين های لازم •
+                                                          <br>	 رعایت و پياده سازی استانداردهای تاسیسات ساختمان •
+ </p>
                                                       </div>
                                                     </div>
                                                 </div>

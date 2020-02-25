@@ -21,8 +21,8 @@ body.rtl .tp-mask-wrap {
                   <rs-module id="rev_slider_1_1" style="" data-version="6.0.1" class="rev_slider_1_1_height">
                       <rs-slides>
                           <!-- rs-slide -->
-                          <rs-slide class="tasis-ltr" data-key="rs-3" data-title="Slide" data-thumb="images/slides/slider-mainbg-003.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                              <img src="images/slides/slider-mainbg-003.jpg" title="slider-mainbg-003" width="1920" height="790" class="rev-slidebg" data-no-retina>
+                          <rs-slide class="tasis-ltr" data-key="rs-3" data-title="Slide" data-thumb="images/slides/bg.jpeg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                              <img src="images/slides/bg.jpeg" title="slider-mainbg-003" width="1920" height="790" class="rev-slidebg" data-no-retina>
                               <rs-layer class="tasis-byekan"
                                   id="slider-2-slide-1-layer-0"
                                   data-type="text"
@@ -89,19 +89,7 @@ body.rtl .tp-mask-wrap {
                                   data-frame_999="o:0;st:w;sR:7780;"
                                   >درباره تسیس
                               </a>
-                              <rs-layer
-                                  id="slider-2-slide-1-layer-6"
-                                  data-type="image"
-                                  data-rsp_ch="on"
-                                  data-xy="x:r;xo:-70px,-70px,-123px,-267px;yo:220px,90px,66px,36px;"
-                                  data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
-                                  data-dim="w:578px,478px,362px,223px;h:564px,464px,353px,217px;"
-                                  data-vbility="t,t,t,f"
-                                  data-frame_0="sX:0.9;sY:0.9;"
-                                  data-frame_1="e:Linear.easeNone;st:100;sp:400;sR:100;"
-                                  data-frame_999="o:0;st:w;sR:8500;"
-                                  ><img src="images/slides/tasis3.jpg" style="border-radius:20rem;" alt="singl-image" width="578" height="564" data-no-retina>
-                              </rs-layer>
+
                               <rs-layer
                                   id="slider-2-slide-1-layer-7"
                                   class="grey-bg-shape"
@@ -329,7 +317,7 @@ body.rtl .tp-mask-wrap {
                            <div class="position-relative res-991-mt-30">
                                <!-- ttm_single_image-wrapper -->
                                <div class="ttm_single_image-wrapper">
-                                   <img class="img-fluid lazyload" data-src="images/tasis13.jpg" title="single-img-one" alt="single-img-one">
+                                   <img class="img-fluid lazyload" data-src="images/tassis.jpg" title="single-img-one" alt="single-img-one">
                                </div><!-- ttm_single_image-wrapper end -->
                                <!--featured-icon-box-->
                                <div class="about-overlay-01"style="margin-top: 160px;">
@@ -653,7 +641,7 @@ body.rtl .tp-mask-wrap {
                            <!-- featured-imagebox-blog -->
                            <div class="featured-imagebox featured-imagebox-blog">
                                <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/blog/dig.png" alt="" style="height:225px;">
+                                   <img class="img-fluid lazyload" data-src="images/blog/tassis1.jpg" alt="" style="height:225px;">
                                    <div class="ttm-blog-overlay-iconbox">
                                        <a href=""><i class="ti ti-plus"></i></a>
                                    </div>

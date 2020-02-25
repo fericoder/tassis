@@ -400,7 +400,7 @@ div.product ul.tabs li a:before {
                            <div class="position-relative res-991-mt-30">
                                <!-- ttm_single_image-wrapper -->
                                <div class="ttm_single_image-wrapper">
-                                   <img class="img-fluid lazyload" data-src="images/tasis13.jpg" title="single-img-one" alt="single-img-one">
+                                   <img class="img-fluid lazyload" data-src="images/tassis3.jpg" title="single-img-one" alt="single-img-one">
                                </div><!-- ttm_single_image-wrapper end -->
                                <!--featured-icon-box-->
                                <div class="about-overlay-01"style="margin-top: 160px;">
@@ -582,7 +582,7 @@ div.product ul.tabs li a:before {
 چراغ دیواری</h5>
                                                </div>
 
-                                               
+
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
@@ -790,7 +790,7 @@ div.product ul.tabs li a:before {
                            <!-- featured-imagebox-team -->
                            <div class="featured-imagebox featured-imagebox-team style1">
                                <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/alo-tech.png" alt="image">
+                                   <img class="img-fluid lazyload" data-src="images/tassis7.jpg" alt="image" style="height:360px;">
                                    <div class="ttm-social-links-wrapper">
                                        <ul class="social-icons list-inline"><!-- social-icons -->
                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -810,7 +810,7 @@ div.product ul.tabs li a:before {
                            <!-- featured-imagebox-team -->
                            <div class="featured-imagebox featured-imagebox-team style1">
                                <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/alo-tech.png" alt="image">
+                                   <img class="img-fluid lazyload" data-src="images/tassis4.jpg" alt="image" style="height:360px;">
                                    <div class="ttm-social-links-wrapper">
                                        <ul class="social-icons list-inline"><!-- social-icons -->
                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -830,7 +830,7 @@ div.product ul.tabs li a:before {
                            <!-- featured-imagebox-team -->
                            <div class="featured-imagebox featured-imagebox-team style1">
                                <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/alo-tech.png" alt="image">
+                                   <img class="img-fluid lazyload" data-src="images/tassis12.jpg" alt="image" style="height:360px;">
                                    <div class="ttm-social-links-wrapper">
                                        <ul class="social-icons list-inline"><!-- social-icons -->
                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -850,7 +850,7 @@ div.product ul.tabs li a:before {
                            <!-- featured-imagebox-team -->
                            <div class="featured-imagebox featured-imagebox-team style1">
                                <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/alo-tech.png" alt="image">
+                                   <img class="img-fluid lazyload" data-src="images/tassis5.jpg" alt="image" style="height:360px;">
                                    <div class="ttm-social-links-wrapper">
                                        <ul class="social-icons list-inline"><!-- social-icons -->
                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -975,7 +975,7 @@ div.product ul.tabs li a:before {
                            <div class="ttm-processbox-wrapper">
                                <div class="ttm-processbox text-center">
                                    <div class="ttm-box-image">
-                                       <img class="img-fluid lazyload" data-src="images/tasis12.jpg" alt="step-one" title="step-one">
+                                       <img class="img-fluid lazyload" data-src="images/tassis9.jpg" alt="step-one" title="step-one">
                                        <div class="process-num">
                                            <span class="number">1</span>
                                        </div>
@@ -987,7 +987,7 @@ div.product ul.tabs li a:before {
                                </div>
                                <div class="ttm-processbox text-center">
                                    <div class="ttm-box-image">
-                                       <img class="img-fluid lazyload" data-src="images/tasis3.jpg" alt="step-two" title="step-two">
+                                       <img class="img-fluid lazyload" data-src="images/tassis10.jpg" alt="step-two" title="step-two">
                                        <div class="process-num">
                                            <span class="number">2</span>
                                        </div>
@@ -999,7 +999,7 @@ div.product ul.tabs li a:before {
                                </div>
                                <div class="ttm-processbox text-center">
                                    <div class="ttm-box-image">
-                                       <img class="img-fluid lazyload" data-src="images/tasisat.jpg" alt="step-three" title="step-three">
+                                       <img class="img-fluid lazyload" data-src="images/tassis8.jpg" alt="step-three" title="step-three">
                                        <div class="process-num">
                                            <span class="number">3</span>
                                        </div>
@@ -1011,7 +1011,7 @@ div.product ul.tabs li a:before {
                                </div>
                                <div class="ttm-processbox text-center">
                                    <div class="ttm-box-image">
-                                       <img class="img-fluid lazyload" data-src="images/tasis9.jpg" alt="step-four" title="step-four">
+                                       <img class="img-fluid lazyload" data-src="images/tassis11.jpg" alt="step-four" title="step-four">
                                        <div class="process-num">
                                            <span class="number">4</span>
                                        </div>
