@@ -5,18 +5,18 @@
 
 
         <!-- page-title -->
-        <div class="ttm-page-title-row">
+        <div class="ttm-page-title-row" style="background-image: url(../images/tassis13.jpg)!important;">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="title-box text-center">
                             <div class="page-title-heading">
-                                <h1 class="title">تماس باما</h1>
+                                <h1 class="title text-light">تماس باما</h1>
                             </div><!-- /.page-title-captions -->
                             <div class="breadcrumb-wrapper">
-                                    <span>تماس باما</span>
-                                <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                <a title="Homepage" href="index.html"><i class="ti ti-home"></i>&nbsp;&nbsp;صفحه اصلی</a>
+                                    <span class="text-light">تماس باما</span>
+                                <span class="ttm-bread-sep text-light">&nbsp; / &nbsp;</span>
+                                <a class="text-light" title="Homepage" href="index.html"><i class="ti ti-home"></i>&nbsp;&nbsp;صفحه اصلی</a>
                             </span>
 
                             </div>

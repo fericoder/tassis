@@ -4,18 +4,18 @@
 
 
 
-<div class="ttm-page-title-row">
+<div class="ttm-page-title-row" style="background-image: url(../images/tassis14.jpg)!important;">
       <div class="container">
           <div class="row">
               <div class="col-md-12">
                   <div class="title-box text-center">
                       <div class="page-title-heading">
-                          <h1 class="title">لیست مقالات تسیس</h1>
+                          <h1 class="title text-light">لیست مقالات تسیس</h1>
                       </div><!-- /.page-title-captions -->
                       <div class="breadcrumb-wrapper">
-                        <span>مقالات</span>
-                        <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                              <a title="Homepage" href="/">&nbsp;&nbsp;<i class="ti ti-home ml-1"></i>صفحه اصلی</a>
+                        <span class="text-light">مقالات</span>
+                        <span class="ttm-bread-sep text-light">&nbsp; / &nbsp;</span>
+                              <a class="text-light" title="Homepage" href="/">&nbsp;&nbsp;<i class="ti ti-home ml-1"></i>صفحه اصلی</a>
 
 
                       </span>

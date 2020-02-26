@@ -149,6 +149,7 @@ body.rtl .tp-mask-wrap {
 
 
                                            <li class="{{  request()->is('*about*') ? 'active' : '' }}"><a href="/about">درباره ما</a> </li>
+                                           <li class="{{  request()->is('*blogs*') ? 'active' : '' }}"><a href="/blogs.index">مقالات</a> </li>
                                            <li class="{{  request()->is('') ? 'active' : '' }}"><a href="#">همکاری باما</a></li>
                                            <li class="{{  request()->is('*resume') ? 'active' : '' }}"><a href="#">رزومه</a></li>
                                            <li class="{{  request()->is('*partners') ? 'active' : '' }}"><a href="/partners">همکاران</a></li>

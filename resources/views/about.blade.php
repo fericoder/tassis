@@ -6,20 +6,20 @@
 
 
         <!-- page-title -->
-        <div class="ttm-page-title-row" style="background-image: url(images/slides/8.jpg)!important;">
+        <div class="ttm-page-title-row" style="background-image: url(images/tassis23.jpg)!important;">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="title-box text-center">
                             <div class="page-title-heading">
-                                <h1 class="title text-light">درباره تسیس</h1>
+                                <h1>درباره تسیس</h1>
                             </div><!-- /.page-title-captions -->
                             <div class="breadcrumb-wrapper">
                                 <span>
-                                    <span class="text-light">درباره ما</span>
+                                    <span>درباره ما</span>
                                 </span>
                                 <span class="ttm-bread-sep">&nbsp;/ &nbsp;</span>
-                                <a title="Homepage" href="index.html" class="text-light"><i class="ti ti-home ml-1"></i>صفحه اصلی</a>
+                                <a title="Homepage" href="index.html"><i class="ti ti-home ml-1"></i>صفحه اصلی</a>
 
                             </div>
                         </div>

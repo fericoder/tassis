@@ -4,19 +4,19 @@
 
 
 
-<div class="ttm-page-title-row">
+<div class="ttm-page-title-row"  style="background-image: url(../images/tassis24.jpg)!important;">>
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="title-box text-center">
                             <div class="page-title-heading">
-                                <h1 class="title"> موتورخانه ها</h1>
+                                <h1 class="title text-light"> موتورخانه ها</h1>
                             </div><!-- /.page-title-captions -->
                             <div class="breadcrumb-wrapper">
-                                <span> مقالات</span>
-                                <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
+                                <span class="text-light"> مقالات</span>
+                                <span class="ttm-bread-sep text-light">&nbsp; / &nbsp;</span>
                                 <span>
-                                    <a title="Homepage" href="index.html">&nbsp;&nbsp;<i class="ti ti-home ml-1"></i>صفحه اصلی</a>
+                                    <a class="text-light" title="Homepage" href="index.html">&nbsp;&nbsp;<i class="ti ti-home ml-1"></i>صفحه اصلی</a>
                                 </span>
                             </div>
                         </div>

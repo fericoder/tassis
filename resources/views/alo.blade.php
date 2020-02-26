@@ -129,8 +129,8 @@ div.product ul.tabs li a:before {
                   <rs-module id="rev_slider_1_1" style="" data-version="6.0.1" class="rev_slider_1_1_height">
                       <rs-slides>
                           <!-- rs-slide -->
-                          <rs-slide class="tasis-ltr" data-key="rs-3" data-title="Slide" data-thumb="images/slides/slider-mainbg-003.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                              <img src="images/slides/slider-mainbg-003.jpg" title="slider-mainbg-003" width="1920" height="790" class="rev-slidebg" data-no-retina>
+                          <rs-slide class="tasis-ltr" data-key="rs-3" data-title="Slide" data-thumb="images/slides/tassis22.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                              <img src="images/slides/alooo.jpg" title="tassis21" width="1920" height="790" class="rev-slidebg" data-no-retina>
                               <rs-layer
                                   id="slider-2-slide-1-layer-0"
                                   data-type="text"
@@ -171,7 +171,7 @@ div.product ul.tabs li a:before {
                                   data-frame_999="o:0;st:w;sR:7940;"
                                   >الو تسیس
                               </rs-layer>
-                              <rs-layer class="tasis-byekan"
+                              <rs-layer class="tasis-byekan" style="margin-left:-55px;"
                                   id="slider-2-slide-1-layer-4"
                                   data-type="text"
                                   data-color="#c61313"
@@ -184,19 +184,7 @@ div.product ul.tabs li a:before {
                                   > 2470 <strong class="ttm-textcolor-skincolor">اورژانس  تأسیسات</strong>
                               </rs-layer>
 
-                              <rs-layer
-                                  id="slider-2-slide-1-layer-6"
-                                  data-type="image"
-                                  data-rsp_ch="on"
-                                  data-xy="x:r;xo:-70px,-70px,-123px,-267px;yo:220px,90px,66px,36px;"
-                                  data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
-                                  data-dim="w:578px,478px,362px,223px;h:564px,464px,353px,217px;"
-                                  data-vbility="t,t,t,f"
-                                  data-frame_0="sX:0.9;sY:0.9;"
-                                  data-frame_1="e:Linear.easeNone;st:100;sp:400;sR:100;"
-                                  data-frame_999="o:0;st:w;sR:8500;"
-                                  ><img src="images/slides/tooll.jpg" style="border-radius:20rem;" alt="singl-image" width="578" height="564" data-no-retina>
-                              </rs-layer>
+
                               <rs-layer
                                   id="slider-2-slide-1-layer-7"
                                   class="grey-bg-shape"
@@ -262,43 +250,7 @@ div.product ul.tabs li a:before {
                                   data-frame_999="o:0;st:w;sR:7870;"
                                   >شرکت تاسیسات ساختمان ایران"تسیس"در سال 1347 تاسیس شده است <br> واینک با قدمت  بیش از نیم قرن با سابقه ترین وبزرگترین شرکت تخصصی تاسیسات کشور می باشد
                               </rs-layer>
-                              <rs-layer
-                                  id="slider-2-slide-1-layer-11"
-                                  class="ttm-bgcolor-skincolor bg-blue"
-                                  data-type="shape"
-                                  data-rsp_ch="on"
-                                  data-xy="x:c;xo:159px,159px,627px,386px;y:m;yo:299px,169px,38px,23px;"
-                                  data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
-                                  data-dim="w:150px,150px,93px,57px;h:150px,150px,93px,57px;"
-                                  data-border="bor:50%,50%,50%,50%;"
-                                  data-frame_0="sX:0.9;sY:0.9;"
-                                  data-frame_1="e:Linear.easeNone;st:310;sp:400;sR:310;"
-                                  data-frame_999="o:0;st:w;sR:8290;"
-                                  >
-                              </rs-layer>
-                              <rs-layer
-                                  id="slider-2-slide-1-layer-12"
-                                  data-type="text"
-                                  data-rsp_ch="on"
-                                  data-xy="x:c;xo:156px,156px,626px,386px;yo:725px,530px,266px,164px;"
-                                  data-text="w:normal;s:15,15,9,5;l:20,20,12,7;a:center;"
-                                  data-vbility="t,t,f,f"
-                                  data-frame_1="st:380;sR:380;"
-                                  data-frame_999="o:0;st:w;sR:8320;"
-                                  >
-                                  بصورت شبانه روزی
-                              </rs-layer>
-                              <rs-layer
-                                  id="slider-2-slide-1-layer-13"
-                                  data-type="text"
-                                  data-rsp_ch="on"
-                                  data-xy="x:c;xo:155px,155px,625px,385px;yo:679px,480px,238px,146px;"
-                                  data-text="w:normal;s:37,37,22,13;l:37,37,22,13;"
-                                  data-vbility="t,t,f,f"
-                                  data-frame_1="st:380;sR:380;"
-                                  data-frame_999="o:0;st:w;sR:8320;"
-                                  ><i class="fa fa-phone"></i><br />
-                              </rs-layer>
+
                           </rs-slide>
                           <!-- rs-slide -->
                           <!-- rs-slide -->
