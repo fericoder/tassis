@@ -41,9 +41,6 @@
                                 <div class="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
                                     <img class="img-fluid" src="images/3.jpg" title="single-img-nine" alt="single-img-nine">
                                 </div><!-- ttm_single_image-wrapper end -->
-                                <div class="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0" style="margin-top:250px;">
-                                    <img class="img-fluid" src="images/tassis10.jpg" title="single-img-nine" alt="single-img-nine">
-                                </div><!-- ttm_single_image-wrapper end -->
 
                             </div>
                         </div>
@@ -58,63 +55,24 @@
                                     <div class="title-desc">
                                         <p style="direction: rtl; text-align: justify">
                                             شرکت تاسیسات ساختمان ایران "تسیس"در سال 1347 تاسیس شده است واینک با قدمت  بیش از نیم قرن با سابقه ترین وبزرگترین شرکت تخصصی تاسیسات کشور می باشد.
-                                            عمده اهداف شرکت تسیس عبارت است از :<br>
-                                            ۱) طرح ریزی، آموزش، تهیه، نصب ونگهداری، بهسازی وبازسازی تاسیسات ساختمانی شامل تاسیسات مکانیکی والکتریکال وآسانسور وطرح های مربوط به به تاسیسات گاز وآب وفاضلاب وبرق وبهینه سازی مصرف انرژی وپایداری محیط زیست
-                                            ۲) اعطای نمایندگی حرفه ای  در سراسر کشور (Franchise)وشبکه گسترده وکنترل شده ویکپارچه کسب وکار
-                                            ۳) اورژانس  شبانه روزی وسیار تاسیسات(الو تسیس)
-                                            ۴) تحصیل نمایندگی از سازندگان وفروشندگان لواز مصرفی داخلی وخارجی در زمینه موضوع فعالیت
-                                            ۵) مدیریت آکادمی حرفه ای تاسیسات
+                                            عمده اهداف شرکت تسیس عبارت است از :<br><br>
+                                            ۱) طرح ریزی، آموزش، تهیه، نصب ونگهداری، بهسازی وبازسازی تاسیسات ساختمانی شامل تاسیسات مکانیکی والکتریکال وآسانسور وطرح های مربوط به به تاسیسات گاز وآب وفاضلاب وبرق وبهینه سازی مصرف انرژی وپایداری محیط زیست<br><br>
+                                            ۲) اعطای نمایندگی حرفه ای  در سراسر کشور (Franchise)وشبکه گسترده وکنترل شده ویکپارچه کسب وکار<br><br>
+                                            ۳) اورژانس  شبانه روزی وسیار تاسیسات(الو تسیس)<br><br>
+                                            ۴) تحصیل نمایندگی از سازندگان وفروشندگان لواز مصرفی داخلی وخارجی در زمینه موضوع فعالیت<br><br>
+                                            ۵) مدیریت آکادمی حرفه ای تاسیسات<br><br>
                                             شرکت تسیس در طی بیش از 50 سال سابقه درخشان خود بزرگترین قرار دادها وتوفقات را در زمینه موضوع فعالیت خود را با وزارتخانه ها وسازمانهای دولتی وارتش وبخش خصوصی وسازندگان شهرک های بزرگ داشته است، بطوریکه در دو ده اول عمر خود بیش از 90درصد آسانسور برج های مرتفع وبیش از 50درصد تاسیسات مکانیکی والکتریکی پروژهای عظیم را اجرا نموده است ونمونه های نیز در همین سایت معرفی شده است.
                                         </p>
                                     </div>
                                 </div><!-- section title end -->
                                 <!-- row -->
-                                <div class="row mt-15">
-                                    <div class="col-12">
-                                        <!-- featured-icon-box -->
-                                        <div class="featured-icon-box style3 left-icon icon-align-top">
-                                            <div class="featured-icon"><!-- featured-icon -->
-                                                <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                                    <i class="flaticon flaticon-tourism"></i>
-                                                </div>
-                                            </div>
-                                            <div class="featured-content">
-                                                <div class="featured-title"><!-- featured title -->
-                                                    <h5>مدیریت آکادمی حرفه ای تاسیسات</h5>
-                                                </div>
-                                                <div class="featured-desc"><!-- featured desc -->
-                                                    <p>شرکت تسیس در طی بیش از 50 سال سابقه درخشان خود بزرگترین قرار دادها وتوفقات را در زمینه موضوع فعالیت خود را با وزارتخانه ها وسازمانهای دولتی وارتش وبخش خصوصی وسازندگان شهرک های بزرگ داشته است ،بطوریکه در دو ده اول عمر خود بیش از 90درصد آسانسور برج های مرتفع وبیش از 50درصد تاسیسات مکانیکی والکتریکی پروژهای عظیم را اجرا نموده است ونمونه های نیز در همین سایت معرفی شده است
-</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+
                                 <!-- separator -->
                                 <div class="separator">
                                     <div class="sep-line mt-25 mb-10"></div>
                                 </div>
                                 <!-- separator -->
-                                <div class="row">
-                                    <div class="col-12">
-                                        <!-- featured-icon-box -->
-                                        <div class="featured-icon-box style3 left-icon icon-align-top">
-                                            <div class="featured-icon"><!-- featured-icon -->
-                                                <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                                    <i class="flaticon flaticon-process"></i>
-                                                </div>
-                                            </div>
-                                            <div class="featured-content">
-                                                <div class="featured-title"><!-- featured title -->
-                                                    <h5>عوامل اصلی رشد سریع و قابل توجه</h5>
-                                                </div>
-                                                <div class="featured-desc"><!-- featured desc -->
-                                                    <p>عوامل اصلی رشد سریع و قابل توجه شرکت را می توان در مواردی همچون پشتوانه فنی مدیران، تکیه بر نیروی انسانی مجرب و قابل اعتماد و آموزش مداوم آنها، حفظ حقوق مشتریان و کارفرمایان و پایبندی به رعایت اصول فنی و کیفی در کلیه مراحل تمامی پروژه های انجام شده و در دست انجام خلاصه نمود.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+
                             </div>
                         </div>
                     </div>

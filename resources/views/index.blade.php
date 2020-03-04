@@ -23,58 +23,66 @@ body.rtl .tp-mask-wrap {
                           <!-- rs-slide -->
                           <rs-slide class="tasis-ltr" data-key="rs-3" data-title="Slide" data-thumb="images/slides/bg.jpeg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
                               <img src="images/slides/bg.jpeg" title="slider-mainbg-003" width="1920" height="790" class="rev-slidebg" data-no-retina>
-                              <rs-layer class="tasis-byekan"
-                                  id="slider-2-slide-1-layer-0"
-                                  data-type="text"
-                                  data-color="#2d4a8a"
-                                  data-rsp_ch="on"
-                                  data-xy="xo:50px,50px,40px,-164px;yo:326px,196px,94px,61px;"
-                                  data-text="w:normal;s:18,18,15,10;l:25,25,15,9;fw:500;"
-                                  data-vbility="t,t,t,f"
-                                  data-frame_0="x:-50,-50,-31,-19;"
-                                  data-frame_1="e:Linear.easeNone;st:120;sp:400;sR:120;"
-                                  data-frame_999="o:0;st:w;sR:8480;"
-                                  >"متولد سال "1347
-                              </rs-layer>
-                              <rs-layer
-                                  id="slider-2-slide-1-layer-1"
-                                  class="ttm-bgcolor-skincolor"
-                                  data-type="shape"
-                                  data-rsp_ch="on"
-                                  data-xy="xo:274px,274px,-119px,-73px;yo:339px,209px,136px,83px;"
-                                  data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
-                                  data-dim="w:36px,36px,22px,13px;h:2px,2px,1px,1px;"
-                                  data-vbility="t,t,f,f"
-                                  data-frame_0="x:50,50,31,19;"
-                                  data-frame_1="e:Linear.easeNone;st:190;sp:200;sR:190;"
-                                  data-frame_999="o:0;st:w;sR:8610;"
-                                  >
-                              </rs-layer>
+
+
+
 
                               <rs-layer
-                                  id="slider-2-slide-1-layer-3"
+                                  id="slider-2-slide-1-layer-1"
                                   data-type="text"
                                   data-color="#263045"
                                   data-rsp_ch="on"
-                                  data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:363px,233px,124px,59px;"
-                                  data-text="w:normal;s:62,52,45,37;l:70,60,50,60;fw:600;"
+                                  data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:150px,233px,124px,59px;"
+                                  data-text="w:normal;s:40,52,45,37;l:70,60,50,60;fw:600;"
                                   data-frame_0="x:-50,-50,-31,-19;"
                                   data-frame_1="e:Linear.easeNone;st:260;sp:800;sR:260;"
                                   data-frame_999="o:0;st:w;sR:7940;"
-                                  >شرکت سهامی  تأسیسات
+                                  >شرکت سهامی
                               </rs-layer>
+
                               <rs-layer
-                                  id="slider-2-slide-1-layer-4"
+                                  id="slider-2-slide-1-layer-2"
                                   data-type="text"
                                   data-color="#263045"
                                   data-rsp_ch="on"
-                                  data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:436px,294px,173px,104px;"
-                                  data-text="w:normal;s:62,52,45,37;l:75,65,60,60;fw:600;"
+                                  data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:210px,294px,173px,104px;"
+                                  data-text="w:normal;s:40,52,45,37;l:75,65,60,60;fw:600;"
                                   data-frame_0="x:-50,-50,-31,-19;"
                                   data-frame_1="st:410;sp:800;sR:410;"
                                   data-frame_999="o:0;st:w;sR:7790;"
-                                  > ساختمان ایران <strong class="ttm-textcolor-skincolor"> تسیس </strong>
+                                  >تأسیسات ساختمان ایران
                               </rs-layer>
+
+
+                              <rs-layer
+                                      id="slider-2-slide-1-layer-3"
+                                      data-type="text"
+                                      data-color="#263045"
+                                      data-rsp_ch="on"
+                                      data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:280px,294px,173px,104px;"
+                                      data-text="w:normal;s:40,52,45,37;l:75,65,60,60;fw:600;"
+                                      data-frame_0="x:-50,-50,-31,-19;"
+                                      data-frame_1="st:410;sp:800;sR:410;"
+                                      data-frame_999="o:0;st:w;sR:7790;"
+                              ><strong class="ttm-textcolor-skincolor"> "تسیس" </strong>
+                              </rs-layer>
+
+
+                              <rs-layer class="tasis-byekan"
+                                        id="slider-2-slide-1-layer-4"
+                                        data-type="text"
+                                        data-color="#2d4a8a"
+                                        data-rsp_ch="on"
+                                        data-xy="xo:50px,50px,40px,-164px;yo:400px,196px,94px,61px;"
+                                        data-text="w:normal;s:18,18,15,10;l:25,25,15,9;fw:500;"
+                                        data-vbility="t,t,t,f"
+                                        data-frame_0="x:-50,-50,-31,-19;"
+                                        data-frame_1="e:Linear.easeNone;st:120;sp:400;sR:120;"
+                                        data-frame_999="o:0;st:w;sR:8480;"
+                              >"متولد سال "1347
+                              </rs-layer>
+
+
                               <a
                                   id="slider-2-slide-1-layer-5"
                                   class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor"
@@ -167,7 +175,7 @@ body.rtl .tp-mask-wrap {
               <!-- END REVOLUTION SLIDER -->
 
               <!-- service-section -->
-                  <section id="services" class="ttm-row service-section-style2 ttm-bgcolor-grey clearfix">
+                  <section style="    padding: 20px 0!important;" id="services" class="ttm-row service-section-style2 ttm-bgcolor-grey clearfix">
                       <div class="container">
                           <div class="row"><!-- row -->
                               <div class="col-lg-12">
@@ -674,6 +682,7 @@ body.rtl .tp-mask-wrap {
            <!-- process-section end -->
 
        </div><!--site-main end-->
+
 
 
        @endsection

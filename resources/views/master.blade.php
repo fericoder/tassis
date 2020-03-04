@@ -144,6 +144,8 @@ body.rtl .tp-mask-wrap {
                                                    <li style="direction: rtl; text-align: right"><a href="/#services">خدمات فناوری های نوین و انرژی پاک</a></li>
                                                    <li style="direction: rtl; text-align: right"><a href="/#services">خدمات محیط زیست</a></li>
                                                    <li style="direction: rtl; text-align: right"><a href="/#services">خدمات عمومی</a></li>
+                                                   <li style="direction: rtl; text-align: right"><a href="/#services">آکادمی</a></li>
+                                                   <li style="direction: rtl; text-align: right"><a href="/alo">الوتسیس</a></li>
                                                </ul>
                                            </li>
 
@@ -354,7 +356,6 @@ body.rtl .tp-mask-wrap {
        <script src="revolution/js/slider.js"></script>
 
        <!-- Javascript end-->
-
 </body>
 
 
