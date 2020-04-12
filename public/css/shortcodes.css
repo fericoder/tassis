@@ -1232,7 +1232,7 @@ body{ counter-reset: section; }
     content: "";
     height: 16px;
     width: 1px;
-    right: 10px;
+    right: 110px;
     top: 0;
     background-color: #dce1e9;
 }
