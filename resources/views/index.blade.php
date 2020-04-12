@@ -27,7 +27,7 @@ body.rtl .tp-mask-wrap {
 
 
 
-                              <rs-layer
+                              <rs-layer class="tasis-rezvan"
                                   id="slider-2-slide-1-layer-1"
                                   data-type="text"
                                   data-color="#263045"
@@ -40,7 +40,7 @@ body.rtl .tp-mask-wrap {
                                   >شرکت سهامی
                               </rs-layer>
 
-                              <rs-layer
+                              <rs-layer class="tasis-rezvan"
                                   id="slider-2-slide-1-layer-2"
                                   data-type="text"
                                   data-color="#263045"
@@ -98,23 +98,7 @@ body.rtl .tp-mask-wrap {
                                   >درباره تسیس
                               </a>
 
-                              <rs-layer
-                                  id="slider-2-slide-1-layer-7"
-                                  class="grey-bg-shape"
-                                  data-type="shape"
-                                  data-rsp_ch="on"
-                                  data-xy="x:r;xo:-7px,-7px,-192px,-118px;yo:369px,239px,123px,75px;"
-                                  data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
-                                  data-dim="w:30px,30px,18px,11px;h:30px,30px,18px,11px;"
-                                  data-vbility="t,t,f,f"
-                                  data-border="bor:50px,50px,50px,50px;"
-                                  data-frame_0="x:right;"
-                                  data-frame_1="st:140;sp:1000;sR:140;"
-                                  data-frame_999="o:1;st:w;sp:1200;sR:7860;"
-                                  data-frame_999_chars="e:Power4.easeInOut;d:10;x:-105%;o:0;rZ:-90deg;"
-                                  data-frame_999_mask="u:t;"
-                              >
-                              </rs-layer>
+
 
                               <rs-layer
                                   id="slider-2-slide-1-layer-8"
@@ -133,23 +117,7 @@ body.rtl .tp-mask-wrap {
                                   data-frame_999_mask="u:t;"
                                   >
                               </rs-layer>
-                              <rs-layer
-                                  id="slider-2-slide-1-layer-9"
-                                  class="ttm-bgcolor-skincolor"
-                                  data-type="shape"
-                                  data-rsp_ch="on"
-                                  data-xy="x:r;xo:374px,374px,-205px,-126px;yo:267px,137px,88px,54px;"
-                                  data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
-                                  data-dim="w:40px,40px,25px,15px;h:40px,40px,25px,15px;"
-                                  data-vbility="t,t,f,f"
-                                  data-border="bor:50px,50px,50px,50px;"
-                                  data-frame_0="y:top;"
-                                  data-frame_1="st:240;sp:1000;sR:240;"
-                                  data-frame_999="o:1;st:w;sp:1200;sR:7760;"
-                                  data-frame_999_chars="e:Power4.easeInOut;d:10;x:-105%;o:0;rZ:-90deg;"
-                                  data-frame_999_mask="u:t;"
-                              >
-                              </rs-layer>
+
                               <rs-layerz
                                   id="slider-2-slide-1-layer-10"
                                   data-type="text"
@@ -328,9 +296,7 @@ body.rtl .tp-mask-wrap {
                                    <img class="img-fluid lazyload" data-src="images/tassis.jpg" title="single-img-one" alt="single-img-one">
                                </div><!-- ttm_single_image-wrapper end -->
                                <!--featured-icon-box-->
-                               <div class="about-overlay-01"style="margin-top: 160px;">
-                                   <p class="mb-0">ارائه دهنده پروژه های عمرانی و ساخت و ساز شهری کشور</p>
-                               </div>
+
                                <!-- featured-icon-box end-->
                            </div>
                        </div>
@@ -465,64 +431,80 @@ body.rtl .tp-mask-wrap {
                                  <div class="clients-slide owl-carousel owl-theme owl-loaded" data-item="5" data-nav="false" data-dots="false" data-auto="true">
                                      <div class="client-box ttm-box-view-boxed-logo">
                                          <div class="client">
+                                           <a href="/partners">
                                              <div class="ttm-client-logo-tooltip" data-tooltip="شرکت شاهد">
                                                  <img class="img-fluid" src="images/team-member/shahed.png" alt="image" style="height:100px; width: 125px;">
                                              </div>
+                                             </a>
                                          </div>
                                      </div>
                                      <div class="client-box ttm-box-view-boxed-logo">
                                          <div class="client">
+                                            <a href="/partners">
                                              <div class="ttm-client-logo-tooltip" data-tooltip="شرکت فرآوری و توسعه ابنیه شاهد">
                                                  <img class="img-fluid" src="images/team-member/abnieh.jpg" alt="image" style="height:100px; width: 125px;">
                                              </div>
+                                                </a>
                                          </div>
                                      </div>
                                      <div class="client-box ttm-box-view-boxed-logo">
                                          <div class="client">
+                                             <a href="/partners">
                                              <div class="ttm-client-logo-tooltip" data-tooltip="شرکت ارکان گستر یوتاب">
                                                  <img class="img-fluid" src="images/team-member/utobco.jpg" alt="image" style="height:100px;">
                                              </div>
+                                               </a>
                                          </div>
                                      </div>
                                      <div class="client-box ttm-box-view-boxed-logo">
                                          <div class="client">
+                                           <a href="/partners">
                                              <div class="ttm-client-logo-tooltip" data-tooltip="شركت CCL IRAN">
                                                  <img class="img-fluid" src="images/team-member/client-04.jpeg" alt="image" style="height:100px;">
                                              </div>
+                                              </a>
                                          </div>
                                      </div>
 
                                      <div class="client-box ttm-box-view-boxed-logo">
                                          <div class="client">
+                                            <a href="/partners">
                                              <div class="ttm-client-logo-tooltip" data-tooltip="مهندسين مشاور اركان پويش">
                                                  <img class="img-fluid" src="images/team-member/client-05.jpeg" alt="image" style="height:100px;">
                                              </div>
+                                               </a>
                                          </div>
                                      </div>
 
                                      <div class="client-box ttm-box-view-boxed-logo">
                                          <div class="client">
+                                             <a href="/partners">
                                              <div class="ttm-client-logo-tooltip" data-tooltip="شرکت ساختماني کندوان تونل">
                                                  <img class="img-fluid" src="images/team-member/client-02.jpeg" alt="image" style="height:100px;">
                                              </div>
+                                                  </a>
                                          </div>
                                      </div>
 
 
                                      <div class="client-box ttm-box-view-boxed-logo">
                                          <div class="client">
+                                                <a href="/partners">
                                              <div class="ttm-client-logo-tooltip" data-tooltip="شرکت باتیس گروه">
                                                  <img class="img-fluid" src="images/team-member/client-03.jpeg" alt="image" style="height:100px;">
                                              </div>
+                                             </a>
                                          </div>
                                      </div>
 
 
                                      <div class="client-box ttm-box-view-boxed-logo">
                                          <div class="client">
+                                             <a href="/partners">
                                              <div class="ttm-client-logo-tooltip" data-tooltip="هونامیک سازه">
                                                  <img class="img-fluid" src="images/team-member/client-01.jpeg" alt="image" style="height:100px;">
                                              </div>
+                                                </a>
                                          </div>
                                      </div>
 

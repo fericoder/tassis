@@ -129,8 +129,8 @@ div.product ul.tabs li a:before {
                   <rs-module id="rev_slider_1_1" style="" data-version="6.0.1" class="rev_slider_1_1_height">
                       <rs-slides>
                           <!-- rs-slide -->
-                          <rs-slide class="tasis-ltr" data-key="rs-3" data-title="Slide" data-thumb="images/slides/tassis22.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                              <img src="images/slides/alooo.jpg" title="tassis21" width="1920" height="790" class="rev-slidebg" data-no-retina>
+                          <rs-slide class="tasis-ltr" data-key="rs-3" data-title="Slide" data-thumb="images/slides/11.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                              <img src="images/slides/12.jpg" title="tassis21" width="1920" height="790" class="rev-slidebg" data-no-retina>
                               <rs-layer
                                   id="slider-2-slide-1-layer-0"
                                   data-type="text"
@@ -159,7 +159,7 @@ div.product ul.tabs li a:before {
                                   >
                               </rs-layer>
 
-                              <rs-layer
+                              <rs-layer class="tasis-rezvan"
                                   id="slider-2-slide-1-layer-3"
                                   data-type="text"
                                   data-color="#c61313"
@@ -181,27 +181,11 @@ div.product ul.tabs li a:before {
                                   data-frame_0="x:-50,-50,-31,-19;"
                                   data-frame_1="st:410;sp:800;sR:410;"
                                   data-frame_999="o:0;st:w;sR:7790;"
-                                  > 2470 <strong class="ttm-textcolor-skincolor">اورژانس  تأسیسات</strong>
+                                  > 2470 <strong class="ttm-textcolor-skincolor tasis-rezvan">اورژانس  تأسیسات</strong>
                               </rs-layer>
 
 
-                              <rs-layer
-                                  id="slider-2-slide-1-layer-7"
-                                  class="grey-bg-shape"
-                                  data-type="shape"
-                                  data-rsp_ch="on"
-                                  data-xy="x:r;xo:-7px,-7px,-192px,-118px;yo:369px,239px,123px,75px;"
-                                  data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
-                                  data-dim="w:30px,30px,18px,11px;h:30px,30px,18px,11px;"
-                                  data-vbility="t,t,f,f"
-                                  data-border="bor:50px,50px,50px,50px;"
-                                  data-frame_0="x:right;"
-                                  data-frame_1="st:140;sp:1000;sR:140;"
-                                  data-frame_999="o:1;st:w;sp:1200;sR:7860;"
-                                  data-frame_999_chars="e:Power4.easeInOut;d:10;x:-105%;o:0;rZ:-90deg;"
-                                  data-frame_999_mask="u:t;"
-                              >
-                              </rs-layer>
+
 
                               <rs-layer
                                   id="slider-2-slide-1-layer-8"
@@ -220,23 +204,7 @@ div.product ul.tabs li a:before {
                                   data-frame_999_mask="u:t;"
                                   >
                               </rs-layer>
-                              <rs-layer
-                                  id="slider-2-slide-1-layer-9"
-                                  class="ttm-bgcolor-skincolor"
-                                  data-type="shape"
-                                  data-rsp_ch="on"
-                                  data-xy="x:r;xo:374px,374px,-205px,-126px;yo:267px,137px,88px,54px;"
-                                  data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
-                                  data-dim="w:40px,40px,25px,15px;h:40px,40px,25px,15px;"
-                                  data-vbility="t,t,f,f"
-                                  data-border="bor:50px,50px,50px,50px;"
-                                  data-frame_0="y:top;"
-                                  data-frame_1="st:240;sp:1000;sR:240;"
-                                  data-frame_999="o:1;st:w;sp:1200;sR:7760;"
-                                  data-frame_999_chars="e:Power4.easeInOut;d:10;x:-105%;o:0;rZ:-90deg;"
-                                  data-frame_999_mask="u:t;"
-                              >
-                              </rs-layer>
+
                               <rs-layerz
                                   id="slider-2-slide-1-layer-10"
                                   data-type="text"
@@ -352,12 +320,10 @@ div.product ul.tabs li a:before {
                            <div class="position-relative res-991-mt-30">
                                <!-- ttm_single_image-wrapper -->
                                <div class="ttm_single_image-wrapper">
-                                   <img class="img-fluid lazyload" data-src="images/tassis3.jpg" title="single-img-one" alt="single-img-one">
+                                   <img class="img-fluid lazyload card" data-src="images/tassis3.jpg" title="single-img-one" alt="single-img-one">
                                </div><!-- ttm_single_image-wrapper end -->
                                <!--featured-icon-box-->
-                               <div class="about-overlay-01"style="margin-top: 160px;">
-                                   <p class="mb-0">ارائه دهنده پروژه های عمرانی و ساخت و ساز شهری کشور</p>
-                               </div>
+
                                <!-- featured-icon-box end-->
                            </div>
                        </div>
@@ -372,10 +338,10 @@ div.product ul.tabs li a:before {
            <!-- aboutus-section end -->
 
            <!-- services-slide-section -->
-                       <section class="ttm-row grid-section clearfix img-wh">
+                       <section class="ttm-row grid-section clearfix img-wh"style="background-color:#edf1fd">
                            <div class="container">
                                <div class="row"><!-- row -->
-                                   <div class="col-lg-8 offset-lg-2">
+                                   <div class="col-lg-12 offset-lg-2">
                                        <!-- section-title -->
                                        <div class="section-title with-desc text-center clearfix">
                                            <div class="title-header">
@@ -574,151 +540,6 @@ div.product ul.tabs li a:before {
                        </section>
 
 
-                                  <!-- services-slide-section -->
-                                  <section class="ttm-row zero-padding-section clearfix">
-                                      <div class="container">
-                                          <div class="row no-gutters tasis-ltr"><!-- row -->
-                                              <div class="col-lg-5">
-                                                  <div class="spacing-9 tasis-rtl">
-                                                      <!-- section title -->
-                                                      <div class="section-title with-desc clearfix">
-                                                          <div class="title-header">
-                                                              <h5>باما در تماس باشید</h5>
-                                                              <h2 class="title">راه های ارتباطی</h2>
-                                                          </div>
-                                                      </div><!-- section title end -->
-                                                      <div class="row">
-                                                          <div class="col-12">
-                                                              <!-- featured-icon-box -->
-                                                              <div class="featured-icon-box style2 left-icon icon-align-top">
-                                                                  <div class="featured-icon"><!-- featured-icon -->
-                                                                      <div class="ttm-icon ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-md ttm-icon_element-style-round">
-                                                                          <i class="fa fa-map-marker"></i>
-                                                                      </div>
-                                                                  </div>
-                                                                  <div class="featured-content">
-                                                                      <div class="featured-title"><!-- featured title -->
-                                                                          <h5>نشانی</h5>
-                                                                      </div>
-                                                                      <div class="featured-desc"><!-- featured desc -->
-                                                                          <p>تهران- خیابان سعادت آباد- میدان بهرود
-مجتمع پرواز</p>
-                                                                      </div>
-                                                                  </div>
-                                                              </div>
-                                                          </div>
-                                                      </div>
-                                                      <!-- separator -->
-                                                      <div class="separator">
-                                                          <div class="sep-line mt-25 mb-25"></div>
-                                                      </div>
-                                                      <!-- separator -->
-                                                      <div class="row">
-                                                          <div class="col-12">
-                                                              <!-- featured-icon-box -->
-                                                              <div class="featured-icon-box style2 left-icon icon-align-top">
-                                                                  <div class="featured-icon"><!-- featured-icon -->
-                                                                      <div class="ttm-icon ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-md ttm-icon_element-style-round">
-                                                                          <i class="fa fa-phone"></i>
-                                                                      </div>
-                                                                  </div>
-                                                                  <div class="featured-content">
-                                                                      <div class="featured-title"><!-- featured title -->
-                                                                          <h5>شماره تماس</h5>
-                                                                      </div>
-                                                                      <div class="featured-desc"><!-- featured desc -->
-                                                                          <p class="tasis-byekan">2470</p>
-                                                                      </div>
-                                                                  </div>
-                                                              </div>
-                                                          </div>
-                                                      </div>
-                                                      <!-- separator -->
-                                                      <div class="separator">
-                                                          <div class="sep-line mt-25 mb-25"></div>
-                                                      </div>
-                                                      <!-- separator -->
-                                                      <div class="row">
-                                                          <div class="col-12">
-                                                              <!-- featured-icon-box -->
-                                                              <div class="featured-icon-box style2 left-icon icon-align-top">
-                                                                  <div class="featured-icon"><!-- featured-icon -->
-                                                                      <div class="ttm-icon ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-md ttm-icon_element-style-round">
-                                                                          <i class="ti ti-email"></i>
-                                                                      </div>
-                                                                  </div>
-                                                                  <div class="featured-content">
-                                                                      <div class="featured-title"><!-- featured title -->
-                                                                          <h5>ایمیل</h5>
-                                                                      </div>
-                                                                      <div class="featured-desc"><!-- featured desc -->
-                                                                          <p>Info@Tassis.Ir</p>
-                                                                      </div>
-                                                                  </div>
-                                                              </div>
-                                                          </div>
-                                                      </div>
-                                                  </div>
-                                              </div>
-                                              <div class="col-lg-7">
-                                                  <div class="spacing-10 ttm-bgcolor-grey ttm-bg ttm-col-bgcolor-yes ttm-right-span tasis-rtl">
-                                                      <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
-                                                          <div class="ttm-bg-layer-inner"></div>
-                                                      </div>
-                                                      <!-- section title -->
-                                                      <div class="section-title with-desc clearfix">
-                                                          <div class="title-header">
-                                                              <h5>فرم درخواست خدمت</h5>
-                                                              <h2 class="title">درخواست خدمت</h2>
-                                                          </div>
-                                                      </div><!-- section title end -->
-                                                      <form id="ttm-quote-form" class="row ttm-quote-form clearfix" method="post" action="#">
-                                                          <div class="col-sm-6 col-md-6">
-                                                              <div class="form-group">
-                                                                  <input name="name" type="text" class="form-control bg-white" placeholder="نام و نام خانوادگی*" required="required">
-                                                              </div>
-                                                          </div>
-                                                          <div class="col-sm-6 col-md-6">
-                                                              <div class="form-group">
-                                                                  <input name="phone" type="text" placeholder="شماره تماس*" required="required" class="form-control bg-white">
-                                                              </div>
-                                                          </div>
-                                                          <div class="col-sm-6 col-md-6">
-                                                              <div class="form-group">
-                                                                  <input name="address" type="text" placeholder=" ایمیل*" required="required" class="form-control bg-white">
-                                                              </div>
-                                                          </div>
-                                                          <div class="col-sm-6 col-md-6">
-                                                              <div class="form-group">
-                                                                  <input name="subject" type="text" placeholder="موضوع" required="required" class="form-control bg-white">
-                                                              </div>
-                                                          </div>
-                                                          <div class="col-sm-12 col-md-12">
-                                                              <div class="form-group">
-                                                                  <textarea name="Massage" rows="5" placeholder="درخواست خود را وارد کنید..." required="required" class="form-control bg-white"></textarea>
-                                                              </div>
-                                                          </div>
-                                                          <div class="col-md-12">
-                                                              <div class="text-left">
-                                                                  <button type="submit" id="submit" class="ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor" value="">
-                                                                      ارسال درخواست
-                                                                  </button>
-                                                              </div>
-                                                          </div>
-                                                      </form>
-                                                  </div>
-                                              </div>
-                                          </div>
-                                          <!-- row end -->
-                                          <!-- row -->
-                                          <div class="row">
-
-                                          </div><!-- row end-->
-                                      </div>
-                                  </section>
-                                  <!-- services-slide-section end -->
-
-
            <!-- team-section -->
            <section class="ttm-row team-section clearfix">
                <div class="container">
@@ -728,7 +549,7 @@ div.product ul.tabs li a:before {
                            <div class="section-title style2 clearfix">
                                <div class="title-header">
 
-                                   <h2 class="title">تکنسین های  <span>الو تسیس</span></h2>
+                                   <h2 class="title">تکنسین های  <span>برتر</span></h2>
                                </div>
                                <div class="title-desc">مسئولیت تکنسین برق انجام کلیه امور مربوط به سیم‌کشی و برق منازل، ادارات، مراکز صنعتی و ... است.</div>
                            </div><!-- section-title end -->
@@ -742,7 +563,7 @@ div.product ul.tabs li a:before {
                            <!-- featured-imagebox-team -->
                            <div class="featured-imagebox featured-imagebox-team style1">
                                <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/tassis7.jpg" alt="image" style="height:360px;">
+                                   <img class="img-fluid lazyload " style="border: 2px solid #2252bb;"  data-src="images/tassis7.jpg" alt="image" style="height:360px;">
                                    <div class="ttm-social-links-wrapper">
                                        <ul class="social-icons list-inline"><!-- social-icons -->
                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -762,7 +583,7 @@ div.product ul.tabs li a:before {
                            <!-- featured-imagebox-team -->
                            <div class="featured-imagebox featured-imagebox-team style1">
                                <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/tassis4.jpg" alt="image" style="height:360px;">
+                                   <img class="img-fluid lazyload" style="border: 2px solid #2252bb;" data-src="images/tassis4.jpg" alt="image" style="height:360px;">
                                    <div class="ttm-social-links-wrapper">
                                        <ul class="social-icons list-inline"><!-- social-icons -->
                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -782,7 +603,7 @@ div.product ul.tabs li a:before {
                            <!-- featured-imagebox-team -->
                            <div class="featured-imagebox featured-imagebox-team style1">
                                <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/tassis12.jpg" alt="image" style="height:360px;">
+                                   <img class="img-fluid lazyload" style="border: 2px solid #2252bb;"  data-src="images/tassis12.jpg" alt="image" style="height:360px;">
                                    <div class="ttm-social-links-wrapper">
                                        <ul class="social-icons list-inline"><!-- social-icons -->
                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -802,7 +623,7 @@ div.product ul.tabs li a:before {
                            <!-- featured-imagebox-team -->
                            <div class="featured-imagebox featured-imagebox-team style1">
                                <div class="featured-thumbnail"><!-- featured-thumbnail -->
-                                   <img class="img-fluid lazyload" data-src="images/tassis5.jpg" alt="image" style="height:360px;">
+                                   <img class="img-fluid lazyload" style="border: 2px solid #2252bb;"  data-src="images/tassis5.jpg" alt="image" style="height:360px;">
                                    <div class="ttm-social-links-wrapper">
                                        <ul class="social-icons list-inline"><!-- social-icons -->
                                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -824,88 +645,152 @@ div.product ul.tabs li a:before {
                </div>
            </section>
 
-           <!-- our-partner-section -->
-           <div class="ttm-row our-client-section  ttm-bgcolor-skincolor ttm-bg ttm-bgimage-yes bg-img13 clearfix">
-                     <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
-                     <div class="container">
-                         <div class="row">
-                             <div class="col-md-12">
-                                 <!-- ttm-client -->
-                                 <div class="clients-slide owl-carousel owl-theme owl-loaded" data-item="5" data-nav="false" data-dots="false" data-auto="true">
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت شاهد">
-                                                 <img class="img-fluid" src="images/team-member/shahed.png" alt="image" style="height:100px; width: 125px;">
-                                             </div>
-                                         </div>
-                                     </div>
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت فرآوری و توسعه ابنیه شاهد">
-                                                 <img class="img-fluid" src="images/team-member/abnieh.jpg" alt="image" style="height:100px; width: 125px;">
-                                             </div>
-                                         </div>
-                                     </div>
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت ارکان گستر یوتاب">
-                                                 <img class="img-fluid" src="images/team-member/utobco.jpg" alt="image" style="height:100px;">
-                                             </div>
-                                         </div>
-                                     </div>
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="شركت CCL IRAN">
-                                                 <img class="img-fluid" src="images/team-member/client-04.jpeg" alt="image" style="height:100px;">
-                                             </div>
-                                         </div>
-                                     </div>
 
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="مهندسين مشاور اركان پويش">
-                                                 <img class="img-fluid" src="images/team-member/client-05.jpeg" alt="image" style="height:100px;">
-                                             </div>
-                                         </div>
-                                     </div>
+                                             <!-- services-slide-section -->
+                                             <section class="ttm-row zero-padding-section clearfix">
+                                                 <div class="container">
+                                                     <div class="row no-gutters tasis-ltr"><!-- row -->
+                                                         <div class="col-lg-5">
+                                                             <div class="spacing-9 tasis-rtl">
+                                                                 <!-- section title -->
+                                                                 <div class="section-title with-desc clearfix">
+                                                                     <div class="title-header">
+                                                                         <h5>باما در تماس باشید</h5>
+                                                                         <h2 class="title">راه های ارتباطی</h2>
+                                                                     </div>
+                                                                 </div><!-- section title end -->
+                                                                 <div class="row">
+                                                                     <div class="col-12">
+                                                                         <!-- featured-icon-box -->
+                                                                         <div class="featured-icon-box style2 left-icon icon-align-top">
+                                                                             <div class="featured-icon"><!-- featured-icon -->
+                                                                                 <div class="ttm-icon ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-md ttm-icon_element-style-round">
+                                                                                     <i class="fa fa-map-marker"></i>
+                                                                                 </div>
+                                                                             </div>
+                                                                             <div class="featured-content">
+                                                                                 <div class="featured-title"><!-- featured title -->
+                                                                                     <h5>نشانی</h5>
+                                                                                 </div>
+                                                                                 <div class="featured-desc"><!-- featured desc -->
+                                                                                     <p>تهران- خیابان سعادت آباد- میدان بهرود
+           مجتمع پرواز</p>
+                                                                                 </div>
+                                                                             </div>
+                                                                         </div>
+                                                                     </div>
+                                                                 </div>
+                                                                 <!-- separator -->
+                                                                 <div class="separator">
+                                                                     <div class="sep-line mt-25 mb-25"></div>
+                                                                 </div>
+                                                                 <!-- separator -->
+                                                                 <div class="row">
+                                                                     <div class="col-12">
+                                                                         <!-- featured-icon-box -->
+                                                                         <div class="featured-icon-box style2 left-icon icon-align-top">
+                                                                             <div class="featured-icon"><!-- featured-icon -->
+                                                                                 <div class="ttm-icon ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-md ttm-icon_element-style-round">
+                                                                                     <i class="fa fa-phone"></i>
+                                                                                 </div>
+                                                                             </div>
+                                                                             <div class="featured-content">
+                                                                                 <div class="featured-title"><!-- featured title -->
+                                                                                     <h5>شماره تماس</h5>
+                                                                                 </div>
+                                                                                 <div class="featured-desc"><!-- featured desc -->
+                                                                                     <p class="tasis-byekan">2470</p>
+                                                                                 </div>
+                                                                             </div>
+                                                                         </div>
+                                                                     </div>
+                                                                 </div>
+                                                                 <!-- separator -->
+                                                                 <div class="separator">
+                                                                     <div class="sep-line mt-25 mb-25"></div>
+                                                                 </div>
+                                                                 <!-- separator -->
+                                                                 <div class="row">
+                                                                     <div class="col-12">
+                                                                         <!-- featured-icon-box -->
+                                                                         <div class="featured-icon-box style2 left-icon icon-align-top">
+                                                                             <div class="featured-icon"><!-- featured-icon -->
+                                                                                 <div class="ttm-icon ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-md ttm-icon_element-style-round">
+                                                                                     <i class="ti ti-email"></i>
+                                                                                 </div>
+                                                                             </div>
+                                                                             <div class="featured-content">
+                                                                                 <div class="featured-title"><!-- featured title -->
+                                                                                     <h5>ایمیل</h5>
+                                                                                 </div>
+                                                                                 <div class="featured-desc"><!-- featured desc -->
+                                                                                     <p>Info@Tassis.Ir</p>
+                                                                                 </div>
+                                                                             </div>
+                                                                         </div>
+                                                                     </div>
+                                                                 </div>
+                                                             </div>
+                                                         </div>
+                                                         <div class="col-lg-7">
+                                                             <div class="spacing-10 ttm-bgcolor-grey ttm-bg ttm-col-bgcolor-yes ttm-right-span tasis-rtl">
+                                                                 <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
+                                                                     <div class="ttm-bg-layer-inner"></div>
+                                                                 </div>
+                                                                 <!-- section title -->
+                                                                 <div class="section-title with-desc clearfix">
+                                                                     <div class="title-header">
+                                                                         <h5>فرم درخواست خدمت</h5>
+                                                                         <h2 class="title">درخواست خدمت</h2>
+                                                                     </div>
+                                                                 </div><!-- section title end -->
+                                                                 <form id="ttm-quote-form" class="row ttm-quote-form clearfix" method="post" action="#">
+                                                                     <div class="col-sm-6 col-md-6">
+                                                                         <div class="form-group">
+                                                                             <input name="name" type="text" class="form-control bg-white" placeholder="نام و نام خانوادگی*" required="required">
+                                                                         </div>
+                                                                     </div>
+                                                                     <div class="col-sm-6 col-md-6">
+                                                                         <div class="form-group">
+                                                                             <input name="phone" type="text" placeholder="شماره تماس*" required="required" class="form-control bg-white">
+                                                                         </div>
+                                                                     </div>
+                                                                     <div class="col-sm-6 col-md-6">
+                                                                         <div class="form-group">
+                                                                             <input name="address" type="text" placeholder=" ایمیل*" required="required" class="form-control bg-white">
+                                                                         </div>
+                                                                     </div>
+                                                                     <div class="col-sm-6 col-md-6">
+                                                                         <div class="form-group">
+                                                                             <input name="subject" type="text" placeholder="موضوع" required="required" class="form-control bg-white">
+                                                                         </div>
+                                                                     </div>
+                                                                     <div class="col-sm-12 col-md-12">
+                                                                         <div class="form-group">
+                                                                             <textarea name="Massage" rows="5" placeholder="درخواست خود را وارد کنید..." required="required" class="form-control bg-white"></textarea>
+                                                                         </div>
+                                                                     </div>
+                                                                     <div class="col-md-12">
+                                                                         <div class="text-left">
+                                                                             <button type="submit" id="submit" class="ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor" value="">
+                                                                                 ارسال درخواست
+                                                                             </button>
+                                                                         </div>
+                                                                     </div>
+                                                                 </form>
+                                                             </div>
+                                                         </div>
+                                                     </div>
+                                                     <!-- row end -->
+                                                     <!-- row -->
+                                                     <div class="row">
 
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت ساختماني کندوان تونل">
-                                                 <img class="img-fluid" src="images/team-member/client-02.jpeg" alt="image" style="height:100px;">
-                                             </div>
-                                         </div>
-                                     </div>
+                                                     </div><!-- row end-->
+                                                 </div>
+                                             </section>
+                                             <!-- services-slide-section end -->
 
 
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="شرکت باتیس گروه">
-                                                 <img class="img-fluid" src="images/team-member/client-03.jpeg" alt="image" style="height:100px;">
-                                             </div>
-                                         </div>
-                                     </div>
-
-
-                                     <div class="client-box ttm-box-view-boxed-logo">
-                                         <div class="client">
-                                             <div class="ttm-client-logo-tooltip" data-tooltip="هونامیک سازه">
-                                                 <img class="img-fluid" src="images/team-member/client-01.jpeg" alt="image" style="height:100px;">
-                                             </div>
-                                         </div>
-                                     </div>
-
-
-
-
-                                 </div><!-- ttm-client end -->
-                             </div>
-                         </div>
-                     </div>
-                 </div>
-                 </div>
-
-                        <!-- our-partner-section END-->
 
 
            <section class="ttm-row process-section clearfix">
@@ -915,8 +800,7 @@ div.product ul.tabs li a:before {
                            <!-- section title -->
                            <div class="section-title text-center with-desc clearfix">
                                <div class="title-header">
-                                   <h5>چطور کار میکند؟</h5>
-                                   <h2 class="title"> مراحل خدمت رسانی  <span> تسیس </span></h2>
+                                   <h2 class="title"> الو تسیس <span> چطور کار می کند؟ </span></h2>
                                </div>
                            </div><!-- section title end -->
                        </div>
@@ -927,31 +811,31 @@ div.product ul.tabs li a:before {
                            <div class="ttm-processbox-wrapper">
                                <div class="ttm-processbox text-center">
                                    <div class="ttm-box-image">
-                                       <img class="img-fluid lazyload" data-src="images/tassis9.jpg" alt="step-one" title="step-one">
+                                       <img class="img-fluid lazyload" data-src="images/call.png" alt="step-one" title="step-one">
                                        <div class="process-num">
                                            <span class="number">1</span>
                                        </div>
                                    </div>
                                    <div class="featured-content">
-                                       <div class="featured-title"><h5>انتخاب سرویس</h5></div>
+                                         <div class="featured-title"><h5>تماس با </h5><h4 class="tasis-byekan">2470</h4></div>
                                        <div class="ttm-box-description">مشکل خود را بازگو کنید و یکی از سرویس هارا انتخاب نمایید.</div>
                                    </div>
                                </div>
                                <div class="ttm-processbox text-center">
                                    <div class="ttm-box-image">
-                                       <img class="img-fluid lazyload" data-src="images/tassis10.jpg" alt="step-two" title="step-two">
+                                       <img class="img-fluid lazyload" data-src="images/choose.jpg" alt="step-two" title="step-two">
                                        <div class="process-num">
                                            <span class="number">2</span>
                                        </div>
                                    </div>
                                    <div class="featured-content">
-                                       <div class="featured-title"><h5>درخواست خدمات</h5></div>
+                                       <div class="featured-title"><h5>تعیین تکنسین</h5></div>
                                        <div class="ttm-box-description">درخواست برای رفع مشکل توسط شما و پیگیری تیم تسیس.</div>
                                    </div>
                                </div>
                                <div class="ttm-processbox text-center">
                                    <div class="ttm-box-image">
-                                       <img class="img-fluid lazyload" data-src="images/tassis8.jpg" alt="step-three" title="step-three">
+                                       <img class="img-fluid lazyload" data-src="images/ezambg.jpg" alt="step-three" title="step-three">
                                        <div class="process-num">
                                            <span class="number">3</span>
                                        </div>
@@ -963,13 +847,13 @@ div.product ul.tabs li a:before {
                                </div>
                                <div class="ttm-processbox text-center">
                                    <div class="ttm-box-image">
-                                       <img class="img-fluid lazyload" data-src="images/tassis11.jpg" alt="step-four" title="step-four">
+                                       <img class="img-fluid lazyload card" data-src="images/like.jpg" alt="step-four" title="step-four">
                                        <div class="process-num">
                                            <span class="number">4</span>
                                        </div>
                                    </div>
                                    <div class="featured-content">
-                                       <div class="featured-title"><h5>رفع مشکل</h5></div>
+                                       <div class="featured-title"><h5>کار تمام شد</h5></div>
                                        <div class="ttm-box-description">مشکل شما توسط تکنسین مربوطه درحال رفع و رجوع میباشد.</div>
                                    </div>
                                </div>

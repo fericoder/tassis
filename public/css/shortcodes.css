@@ -985,7 +985,7 @@ body{ counter-reset: section; }
     margin: -25px 40px 5px;
     padding: 18px 0 22px;
     background-color: #fff;
-    border-bottom: 5px solid transparent;
+    border-bottom: 5px solid #c61313;
     -webkit-transition: .5s cubic-bezier(.3,.57,.55,1);
     transition: .5s cubic-bezier(.3,.57,.55,1);
 }
@@ -1335,7 +1335,7 @@ body{ counter-reset: section; }
     -moz-transition: all .4s ease-in-out;
     -webkit-transition: all .4s ease-in-out;
     -o-transition: all .4s ease-in-out;
-    background-color: #e1eaec;
+    background-color: #deebf9;
 }
 .featured-imagebox-services .featured-title h5{margin-bottom: 10px;}
 

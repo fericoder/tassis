@@ -122,10 +122,7 @@ body.rtl .tp-mask-wrap {
                                <div id="site-navigation" class="site-navigation">
                                    <div class="ttm-rt-contact">
                                        <!-- header-icons -->
-                                       <div class="ttm-header-icons ">
-
-
-                                       </div><!-- header-icons end -->
+                                    <!-- header-icons end -->
                                    </div>
                                    <div class="ttm-menu-toggle">
                                        <input type="checkbox" id="menu-toggle-form" />
@@ -201,7 +198,9 @@ body.rtl .tp-mask-wrap {
                        </div>
                        <div class="col-lg-4 col-md-4 col-sm-6 order-md-3">
                            <div class="text-sm-right">
-                               <a class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-white" href="phone" title=""><i class="fa fa-phone"></i><span class="tasis-byekan">تماس با تسیس و اورژانس تاسیسات: ۲۴۷۰</span></a>
+                               <a class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-white" href="phone" title=""><i class="fa fa-phone"></i><span class="tasis-byekan">تماس با اورژانس تاسیسات: ۲۴۷۰
+
+</span></a>
                            </div>
                        </div>
                    </div>
@@ -210,7 +209,7 @@ body.rtl .tp-mask-wrap {
            <div class="second-footer ttm-textcolor-white bg-img2">
                <div class="container">
                    <div class="row">
-                       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+                       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 widget-area">
                            <div class="widget widget_text  clearfix">
                                <h3 class="widget-title">درباره تسیس</h3>
                                <div class="textwidget widget-text">
@@ -235,7 +234,7 @@ body.rtl .tp-mask-wrap {
                                </div>
                            </div>
                        </div>
-                       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+                       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 widget-area">
                            <div class="widget link-widget clearfix">
                               <h3 class="widget-title">دسترسی سریع</h3>
                                <ul id="menu-footer-services">
@@ -251,30 +250,8 @@ body.rtl .tp-mask-wrap {
                            </div>
                        </div>
 
-                       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
-                           <div class="widget widget_text clearfix">
-                               <h3 class="widget-title">لینک های کاربردی</h3>
-                               <ul class="widget-post ttm-recent-post-list">
-                                   <li>
-                                       <a href=""><img data-src="images/tassis2.jpg" class="lazyload" alt="post-img"></a>
-                                       <a href="">لینک 1</a>
 
-                                   </li>
-                                   <li>
-                                       <a href=""><img data-src="images/tassis2.jpg" class="lazyload" alt="post-img"></a>
-                                       <a href=""> لینک 2 </a>
-
-                                   </li>
-                                   <li>
-                                       <a href=""><img data-src="images/tassis2.jpg" class="lazyload" alt="post-img"></a>
-                                       <a href="">لینک 3</a>
-
-                                   </li>
-
-                               </ul>
-                           </div>
-                       </div>
-                       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+                       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 widget-area">
                            <div class="widget flicker_widget clearfix">
                               <h3 class="widget-title">عضویت در خبرنامه</h3>
                               <div class="textwidget widget-text">

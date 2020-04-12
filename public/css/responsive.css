@@ -51,7 +51,7 @@
 	/*topbar*/
 	.ttm-header-style-01 .ttm-topbar-wrapper,
 	.ttm-header-style-02 .ttm-topbar-wrapper{background-color: #263045;}
-	.site-header-menu{background-color: rgba(255,255,255,0.8);height: 93px;}
+	.site-header-menu{background-color: rgba(255,255,255);height: 93px;}
 	#site-header-menu #site-navigation .menu ul > li > a {
 	   display: block;
 	    margin: 0px;
@@ -168,7 +168,7 @@
 	    width: 100%;
 	    z-index: 9;
 	}
-	.menu, .ttm-rt-contact, .ttm-header-icon, .header-btn,.ttm-custombutton{ float: right; margin-left: -10px;}
+	.menu, .ttm-rt-contact, .ttm-header-icon, .header-btn,.ttm-custombutton{ float: left; margin-left: 70px;}
 
 	/*ttm-header-style-01*/
 	.ttm-header-style-01 .ttm-topbar-wrapper{ border-bottom: 1px solid rgba(255,255,255,0.09);}
@@ -407,7 +407,7 @@
 	.ttm-header-style-03 .fixed-header .site-branding:before { height: 70px; top: 0;}
 
     /*Footer*/
-	.second-footer>div>.row .widget-area:first-child .widget { margin-right: 10px; }
+	.second-footer>div>.row .widget-area:first-child .widget { margin-right: -45px; }
 	.second-footer>div>.row .widget-area:first-child .widget:not(:first-child) { padding: 0; margin-top: -20px; }
 }
 

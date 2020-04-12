@@ -1105,6 +1105,7 @@ div.product ul.tabs li a{
 .ttm-topbar-wrapper .top-contact.text-left {
     position: relative;
     float: left;
+    margin-left: -100px;
     line-height: 52px;
 }
 .ttm-topbar-wrapper .top-contact.text-left li:not(:last-child):before {
@@ -1143,7 +1144,7 @@ div.product ul.tabs li a{
     background-color: rgba(255,255,255,.09);
     display: block;
     position: absolute;
-    right: 0;
+    margin-right: 66px;
     top: 17px;
 }
 .topbar-right .top-contact.ttm-highlight-right li:last-child:after { content: unset;}
@@ -1564,6 +1565,7 @@ div.product ul.tabs li a{
     position: absolute;
     left: 15px;
     top: 17px;
+    color:#c61313;
 }
 .mailchimp-inputbox:after {
     position: absolute;
@@ -1674,7 +1676,7 @@ ul.footer-nav-menu li:not(:last-child):after {
 
 .ttm-page-title-row {
     position: relative;
-    background-image: url(../images/2.jpg);
+    background-image: url(../images/185.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -2238,6 +2240,15 @@ t-face {
     url('../fonts/BYekan.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
     url('../fonts/BYekan.ttf') format('truetype');
 }
+@font-face {
+    font-family: Rezvan;
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/Rezvan.eot');
+    src: url('../fonts/Rezvan.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/Rezvan.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/Rezvan.ttf') format('truetype');
+}
 
 h2,
 h3,
@@ -2265,6 +2276,9 @@ h1 {
 }
 .tasis-byekan{
     font-family: byekan!important;
+}
+.tasis-rezvan{
+    font-family: rezvan!important;
 }
 .tasis-w{
     width: 200px;

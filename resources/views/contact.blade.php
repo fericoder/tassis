@@ -5,7 +5,7 @@
 
 
         <!-- page-title -->
-        <div class="ttm-page-title-row" style="background-image: url(../images/tassis13.jpg)!important;">
+        <div class="ttm-page-title-row" style="background-image: url(../images/00.jpg)!important;">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
