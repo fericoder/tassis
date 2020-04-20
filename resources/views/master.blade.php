@@ -148,10 +148,9 @@ body.rtl .tp-mask-wrap {
 
 
                                            <li class="{{  request()->is('*about*') ? 'active' : '' }}"><a href="/about">درباره ما</a> </li>
-                                           <li class="{{  request()->is('*blogs*') ? 'active' : '' }}"><a href="/blogs.index">مقالات</a> </li>
                                            <li class="{{  request()->is('') ? 'active' : '' }}"><a href="#">همکاری باما</a></li>
                                            <li class="{{  request()->is('*resume') ? 'active' : '' }}"><a href="#">رزومه</a></li>
-                                           <li class="{{  request()->is('*partners') ? 'active' : '' }}"><a href="/partners">همکاران</a></li>
+                                           <li class="{{  request()->is('*partners') ? 'active' : '' }}"><a href="/partners">شرکا و سرمایه گزاران</a></li>
                                            <li class="{{  request()->is('*contact*') ? 'active' : '' }}"><a href="/contact">تماس باما</a></li>
                                            <li class="{{  request()->is('*alo') ? 'active' : '' }}"><a style="color: red" href="/alo">الو تسیس</a></li>
 
@@ -190,7 +189,7 @@ body.rtl .tp-mask-wrap {
                                    </div>
                                    <div class="featured-content"><!--  featured-content -->
                                        <div class="featured-desc tasis-ltr">
-                                           <p>تهران - سعادت آباد - میدان بهرود، مجتمع اداری پرواز، طبقه دوم، واحد ۱</p>
+                                           <p>تهران، ملاصدرا، ابتدای شیراز ، نبش بن بست کاج</p>
                                        </div>
                                    </div>
                                </div><!--  featured-icon-box END -->

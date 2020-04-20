@@ -114,7 +114,7 @@
                                       </div>
                                       <div class="featured-desc"><!-- featured-description -->
                                           <p>
-                                              تهران - سعادت آباد - میدان بهرود، مجتمع اداری پرواز، طبقه دوم، واحد ۱
+                                              آدرس: تهران، ملاصدرا، ابتدای شیراز ، نبش بن بست کاج
                                           </p>
                                       </div>
                                   </div><!-- featured-content END-->
@@ -134,7 +134,7 @@
                                       </div>
                                       <div class="featured-desc"><!-- featured-description -->
                                           <p>
-                                            2470
+                                               88030042/88060324
                                           </p>
                                       </div>
                                   </div><!-- featured-content END-->

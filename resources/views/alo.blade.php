@@ -527,7 +527,7 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href=""></a>لوازم برقی ، تابلو برق</h5>
+                                                   <h5><a href=""></a>سیم کشی و تابلو برق</h5>
                                                </div>
 
                                            </div>

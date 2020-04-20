@@ -11,10 +11,10 @@
                     <div class="col-md-12">
                         <div class="title-box text-center">
                             <div class="page-title-heading">
-                                <h1 class="title text-light">همکاران تسیس</h1>
+                                <h1 class="title text-light">شرکا و سرمایه گزاران تسیس</h1>
                             </div><!-- /.page-title-captions -->
                             <div class="breadcrumb-wrapper">
-                                    <span class="text-light">همکاران</span>
+                                    <span class="text-light">شرکا و سرمایه گزاران</span>
                                 <span class="ttm-bread-sep text-light">&nbsp; / &nbsp;</span>
                                 <a class="text-light "title="Homepage" href="index.html"><i class="ti ti-home"></i>&nbsp;&nbsp;صفحه اصلی</a>
                             </span>
