@@ -123,6 +123,7 @@ div.product ul.tabs li a:before {
   display: none!important;
 }
 </style>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
 
        <!-- START homeclassicmain REVOLUTION SLIDER 6.0.1 -->
               <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery">
@@ -296,27 +297,8 @@ div.product ul.tabs li a:before {
            <section class="ttm-row aboutus-section clearfix tasis-ltr">
                <div class="container">
                    <div class="row"><!-- row -->
-                       <div class="col-lg-6">
-                           <!-- section title -->
-                           <div class="section-title with-desc clearfix">
-                               <div class="title-header">
-                                   <h2 class="title">درباره <span>الوتسیس</span></h2>
-                               </div>
-                               <div class="title-desc">
-                                   <p>شرکت تسیس در قالب یک شرکت سهامی خاص با هدف حضوری متفاوت و ارزش آفرین در صنعت گسترده و پویای پروژه های عمرانی و ساخت و ساز شهری کشور و با سرمایه ای از تخصص و تجربه پا به عرصه وجود نهاده است.
-عوامل اصلی رشد سریع و قابل توجه شرکت را می توان در مواردی همچون پشتوانه فنی مدیران، تکیه بر نیروی انسانی مجرب و قابل اعتماد و آموزش مداوم آنها، حفظ حقوق مشتریان و .کارفرمایان و پایبندی به رعایت اصول فنی و کیفی در کلیه مراحل تمامی پروژه های انجام شده و در دست انجام خلاصه نمود</p>
-                                   <P>سابقه کاری مثبت مدیران شرکت از ابتدای حضور در عرصه ساخت و ساز در کنار تلاش گروهی پرسنل بخشهای مختلف فضای گسترده ای را برای حضورشرکت تسیس در پروژه های متعدد فراهم نموده است به نحوی که در این مدت افتخار حضور در پروژه های متعدد و با شرح خدمات متنوعی همچون طراحی و مشاوره، تامین کالا و تجهیزات، عملیات اجرایی و تعمیر و نگهداری به خود اختصاص داده است که مهمترین آنها در بخش چهارم تحت عنوان سوابق کاریشرکت تسیس ارایه می گردد؛ ضمناً اهم پروژه های انجام شده توسط مدیران این شرکت، به صورت مجزا و تحت عنوان سوابق کاری مدیران تسیس .در بخش پنجم ارائه شده است</P>
-                               </div>
-                           </div><!-- section title end -->
 
-                           <!-- separator -->
-                           <div class="separator">
-                               <div class="sep-line mt-25 mb-30"></div>
-                           </div>
-                           <!-- separator -->
-
-                       </div>
-                       <div class="col-lg-6">
+                       <div style="display: none" class="col-lg-4">
                            <div class="position-relative res-991-mt-30">
                                <!-- ttm_single_image-wrapper -->
                                <div class="ttm_single_image-wrapper">
@@ -327,6 +309,45 @@ div.product ul.tabs li a:before {
                                <!-- featured-icon-box end-->
                            </div>
                        </div>
+
+
+                       <div class="col-lg-12">
+                           <!-- section title -->
+                           <div class="section-title with-desc clearfix">
+                               <div class="title-header">
+                                   <h2 class="title">درباره <span>الوتسیس</span></h2>
+                               </div>
+                               <div style="direction: rtl" class="title-desc">
+                                   <b class="title">اورژانس تاسیسات :</b>
+                                   فوریت ها یا اوژانس تاسیسات یک خدمت شبکه ای گسترده وحرفه ای و کاملا جدید وبه روز است . <br>
+                                   <br>این خدمت حرفه ای، امروزه ضروری ترین نیاز مالکان وساکنین ساختمان های مسکونی ،خدماتی ،فرهنگی وورزشی ،اداری وتجاری است که برای نگهداری تاسیسات خود شرکت ویا شخصی فنی و خاصی را به صورت ثابت در اختیار ندارند واین ضرورت ونیاز اجتناب ناپذیر است.
+
+                                   دلایل ۱۳ گانه ما برای اینکه از شما بخواهیم که  مشتری ومشترک اورژانس تاسیسات "الو تسیس" باشید :<br><br>
+                                   ۱ - دسترسی آسان ومحلی وفوریت در اعزام <br>
+                                   ۲ - دارای بودن گواهی حرفه ای ومهارت هریک از  تکنسین ها<br>
+                                   ۳ - کنترل ونظارت بهداشتی هر یک از تکنسین ها<br>
+                                   ۴ - کنترل ونظارت بر  روی عملکرد تکنسین ها<br>
+                                   ۵ - استفاده از لباس متحد الشکل وکدشناسائی ثبت شده<br>
+                                   ۶ - چارچوب تعرفه ای برای هزینه ها وصدور فاکتور شرکت<br>
+                                   ۷ - نظارت شرکت برروی هزینه های دریافتی براساس تعرفه<br>
+                                   ۸ - بهره مندی از چک لیست کنترلی<br>
+                                   ۹ - در صورت لزوم مشورت تکنسین با سوپروایزرومهندس استادکار<br>
+                                   ۱۰ - ثبت تعمیرات در سوابق پرونده مشترک<br>
+                                   ۱۱ - تخفیف مشترکان دائمی<br>
+                                   ۱۲ - بهره مندی از اجناس ولوازم با کیفیت وبا قیمت مناسب تر که به صورت متمرکز از تولید کننده یافروشگاه های عمده فروشی خریداری می شود<br>
+                                   ۱۳ - ونهایتا احساس امنیت واطمینان<br><br>
+                               </div>
+                           </div><!-- section title end -->
+
+                           <!-- separator -->
+                           <div class="separator">
+                               <div class="sep-line mt-25 mb-30"></div>
+                           </div>
+                           <!-- separator -->
+
+                       </div>
+
+
                    </div>
                    <!-- row end -->
                    <!-- row -->
@@ -353,7 +374,7 @@ div.product ul.tabs li a:before {
                                <!-- row end -->
                                <!-- row -->
                                <div class="row">
-                                   <div class="col-md-3 col-lg-3">
+                                   <div class="col-md-4 col-lg-4">
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
@@ -367,7 +388,7 @@ div.product ul.tabs li a:before {
                                            </div>
                                        </div>
                                    </div>
-                                   <div class="col-md-3 col-lg-3">
+                                   <div class="col-md-4 col-lg-4">
                                        <!-- featured-imagebox-services -->
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
@@ -383,7 +404,7 @@ div.product ul.tabs li a:before {
                                        </div>
                                        <!-- featured-imagebox-services -->
                                    </div>
-                                   <div class="col-md-3 col-lg-3">
+                                   <div class="col-md-4 col-lg-4">
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
@@ -398,7 +419,7 @@ div.product ul.tabs li a:before {
                                        </div>
                                        <!-- featured-imagebox-services -->
                                    </div>
-                                   <div class="col-md-3 col-lg-3">
+                                   <div class="col-md-4 col-lg-4">
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
@@ -413,7 +434,7 @@ div.product ul.tabs li a:before {
                                        </div>
                                        <!-- featured-imagebox-services -->
                                    </div>
-                                   <div class="col-md-3 col-lg-3">
+                                   <div class="col-md-4 col-lg-4">
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail box-shadow"><!-- featured-thumbnail -->
@@ -421,14 +442,14 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href="">دیگ های چدنی و فولادی کوچک</a></h5>
+                                                   <h6><a href="">دیگ های چدنی و فولادی کوچک</a></h6>
                                                </div>
 
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
                                    </div>
-                                   <div class="col-md-3 col-lg-3">
+                                   <div class="col-md-4 col-lg-4">
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
@@ -436,14 +457,14 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href="">شیر آلات و
-سرویس بهداشتی</a></h5>
+                                                   <h6><a href="">شیر آلات و
+سرویس بهداشتی</a></h6>
                                                </div>
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
                                    </div>
-                                   <div class="col-md-3 col-lg-3">
+                                   <div class="col-md-4 col-lg-4">
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
@@ -458,7 +479,7 @@ div.product ul.tabs li a:before {
                                        </div>
                                        <!-- featured-imagebox-services -->
                                    </div>
-                                   <div class="col-md-3 col-lg-3">
+                                   <div class="col-md-4 col-lg-4">
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
@@ -473,7 +494,7 @@ div.product ul.tabs li a:before {
                                        </div>
                                        <!-- featured-imagebox-services -->
                                    </div>
-                                   <div class="col-md-3 col-lg-3">
+                                   <div class="col-md-4 col-lg-4">
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
@@ -481,14 +502,14 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href="">کولر گازی و اسپلیت و داکت اسپلیت</a></h5>
+                                                   <h6><a href="">کولر گازی و اسپلیت و داکت اسپلیت</a></h6>
                                                </div>
 
                                            </div>
                                        </div>
                                        <!-- featured-imagebox-services -->
                                    </div>
-                                   <div class="col-md-3 col-lg-3">
+                                   <div class="col-md-4 col-lg-4">
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
@@ -504,7 +525,7 @@ div.product ul.tabs li a:before {
                                        </div>
                                        <!-- featured-imagebox-services -->
                                    </div>
-                                   <div class="col-md-3 col-lg-3">
+                                   <div class="col-md-4 col-lg-4">
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
@@ -518,7 +539,7 @@ div.product ul.tabs li a:before {
                                        </div>
                                        <!-- featured-imagebox-services -->
                                    </div>
-                                   <div class="col-md-3 col-lg-3">
+                                   <div class="col-md-4 col-lg-4">
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail"><!-- featured-thumbnail -->
@@ -654,79 +675,27 @@ div.product ul.tabs li a:before {
                                                                  <!-- section title -->
                                                                  <div class="section-title with-desc clearfix">
                                                                      <div class="title-header">
-                                                                         <h5>باما در تماس باشید</h5>
-                                                                         <h2 class="title">راه های ارتباطی</h2>
+                                                                         <h5>انتخاب موقعیت در نقشه </h5>
                                                                      </div>
                                                                  </div><!-- section title end -->
                                                                  <div class="row">
                                                                      <div class="col-12">
                                                                          <!-- featured-icon-box -->
-                                                                         <div class="featured-icon-box style2 left-icon icon-align-top">
-                                                                             <div class="featured-icon"><!-- featured-icon -->
-                                                                                 <div class="ttm-icon ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-md ttm-icon_element-style-round">
-                                                                                     <i class="fa fa-map-marker"></i>
-                                                                                 </div>
-                                                                             </div>
-                                                                             <div class="featured-content">
-                                                                                 <div class="featured-title"><!-- featured title -->
-                                                                                     <h5>نشانی</h5>
-                                                                                 </div>
-                                                                                 <div class="featured-desc"><!-- featured desc -->
-                                                                                     <p>تهران- خیابان سعادت آباد- میدان بهرود
-           مجتمع پرواز</p>
-                                                                                 </div>
-                                                                             </div>
-                                                                         </div>
+
+
+                                                                         <div id="map"></div>
+                                                                         <input name="lat" value="35.6969331" type="hidden" id="lat"><br>
+                                                                         <input name="lng" value="51.2796073" type="hidden" id="lng">
+
+
+
                                                                      </div>
                                                                  </div>
-                                                                 <!-- separator -->
-                                                                 <div class="separator">
-                                                                     <div class="sep-line mt-25 mb-25"></div>
-                                                                 </div>
-                                                                 <!-- separator -->
-                                                                 <div class="row">
-                                                                     <div class="col-12">
-                                                                         <!-- featured-icon-box -->
-                                                                         <div class="featured-icon-box style2 left-icon icon-align-top">
-                                                                             <div class="featured-icon"><!-- featured-icon -->
-                                                                                 <div class="ttm-icon ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-md ttm-icon_element-style-round">
-                                                                                     <i class="fa fa-phone"></i>
-                                                                                 </div>
-                                                                             </div>
-                                                                             <div class="featured-content">
-                                                                                 <div class="featured-title"><!-- featured title -->
-                                                                                     <h5>شماره تماس</h5>
-                                                                                 </div>
-                                                                                 <div class="featured-desc"><!-- featured desc -->
-                                                                                     <p class="tasis-byekan">2470</p>
-                                                                                 </div>
-                                                                             </div>
-                                                                         </div>
-                                                                     </div>
-                                                                 </div>
-                                                                 <!-- separator -->
-                                                                 <div class="separator">
-                                                                     <div class="sep-line mt-25 mb-25"></div>
-                                                                 </div>
-                                                                 <!-- separator -->
-                                                                 <div class="row">
-                                                                     <div class="col-12">
-                                                                         <!-- featured-icon-box -->
-                                                                         <div class="featured-icon-box style2 left-icon icon-align-top">
-                                                                             <div class="featured-icon"><!-- featured-icon -->
-                                                                                 <div class="ttm-icon ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-md ttm-icon_element-style-round">
-                                                                                     <i class="ti ti-email"></i>
-                                                                                 </div>
-                                                                             </div>
-                                                                             <div class="featured-content">
-                                                                                 <div class="featured-title"><!-- featured title -->
-                                                                                     <h5>ایمیل</h5>
-                                                                                 </div>
-                                                                                 <div class="featured-desc"><!-- featured desc -->
-                                                                                     <p>Info@Tassis.Ir</p>
-                                                                                 </div>
-                                                                             </div>
-                                                                         </div>
+                                                                 <div class="col-md-12">
+                                                                     <div class="text-left">
+                                                                         <button type="submit" id="submit" class="ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor" value="">
+                                                                             ارسال درخواست
+                                                                         </button>
                                                                      </div>
                                                                  </div>
                                                              </div>
@@ -769,13 +738,7 @@ div.product ul.tabs li a:before {
                                                                              <textarea name="Massage" rows="5" placeholder="درخواست خود را وارد کنید..." required="required" class="form-control bg-white"></textarea>
                                                                          </div>
                                                                      </div>
-                                                                     <div class="col-md-12">
-                                                                         <div class="text-left">
-                                                                             <button type="submit" id="submit" class="ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor" value="">
-                                                                                 ارسال درخواست
-                                                                             </button>
-                                                                         </div>
-                                                                     </div>
+
                                                                  </form>
                                                              </div>
                                                          </div>
@@ -864,5 +827,65 @@ div.product ul.tabs li a:before {
 
        </div><!--site-main end-->
 
+<script>
+    //map//Set up some of our variables.
+    var map; //Will contain map object.
+    var marker = false; ////Has the user plotted their location marker?
 
+    //Function called to initialize / create the map.
+    //This is called when the page has loaded.
+    function initMap() {
+
+        //The center location of our map.
+        var centerOfMap = new google.maps.LatLng('35.6969331', '51.2796073');
+
+        //Map options.
+        var options = {
+            center: centerOfMap, //Set center.
+            zoom: 15 //The zoom value.
+        };
+
+        //Create the map object.
+        map = new google.maps.Map(document.getElementById('map'), options);
+
+        //Listen for any clicks on the map.
+        google.maps.event.addListener(map, 'click', function(event) {
+            //Get the location that the user clicked.
+            var clickedLocation = event.latLng;
+            //If the marker hasn't been added.
+            if(marker === false){
+                //Create the marker.
+                marker = new google.maps.Marker({
+                    position: clickedLocation,
+                    map: map,
+                    draggable: true //make it draggable
+                });
+                //Listen for drag events!
+                google.maps.event.addListener(marker, 'dragend', function(event){
+                    markerLocation();
+                });
+            } else{
+                //Marker has already been added, so just change its location.
+                marker.setPosition(clickedLocation);
+            }
+            //Get the marker's location.
+            markerLocation();
+        });
+    }
+
+    //This function will get the marker's current location and then add the lat/long
+    //values to our textfields so that we can save the location.
+    function markerLocation(){
+        //Get location.
+        var currentLocation = marker.getPosition();
+        //Add lat and lng values to a field that we can save.
+        document.getElementById('lat').value = currentLocation.lat(); //latitude
+        document.getElementById('lng').value = currentLocation.lng(); //longitude
+    }
+
+
+    //Load the map when the page has finished loading.
+    google.maps.event.addDomListener(window, 'load', initMap);
+
+</script>
        @endsection

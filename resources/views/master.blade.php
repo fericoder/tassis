@@ -136,7 +136,7 @@ body.rtl .tp-mask-wrap {
                                        <ul class="dropdown">
                                            <li class="{{  request()->is('*/') ? 'active' : '' }}" ><a href="/">صفحه اصلی</a>
                                            <li class="{{  request()->is('*services*') ? 'active' : '' }}" class="has-submenu"><a href="/#services">خدمات تسیس</a>
-                                               <ul class="sub-menu">
+                                               <ul style="width: 350px" class="sub-menu">
                                                    <li style="direction: rtl; text-align: right"><a href="/#services">مدیریت راه اندازی و خدمات تاسیسات و تجهیزات</a></li>
                                                    <li style="direction: rtl; text-align: right"><a href="/#services">خدمات فناوری های نوین و انرژی پاک</a></li>
                                                    <li style="direction: rtl; text-align: right"><a href="/#services">خدمات محیط زیست</a></li>
@@ -149,7 +149,7 @@ body.rtl .tp-mask-wrap {
 
                                            <li class="{{  request()->is('*about*') ? 'active' : '' }}"><a href="/about">درباره ما</a> </li>
                                            <li class="{{  request()->is('') ? 'active' : '' }}"><a href="#">همکاری باما</a></li>
-                                           <li class="{{  request()->is('*resume') ? 'active' : '' }}"><a href="#">رزومه</a></li>
+                                           <li class="{{  request()->is('*resume') ? 'active' : '' }}"><a href="/resume">رزومه</a></li>
                                            <li class="{{  request()->is('*partners') ? 'active' : '' }}"><a href="/partners">شرکا و سرمایه گزاران</a></li>
                                            <li class="{{  request()->is('*contact*') ? 'active' : '' }}"><a href="/contact">تماس باما</a></li>
                                            <li class="{{  request()->is('*alo') ? 'active' : '' }}"><a style="color: red" href="/alo">الو تسیس</a></li>
@@ -240,11 +240,8 @@ body.rtl .tp-mask-wrap {
                                    <li><a href="#">تسیس</a></li>
                                    <li><a href="#">الو تسیس</a></li>
                                    <li><a href="#">سرویس ها</a></li>
-                                   <li><a href="#">امکانات</a></li>
-                                   <li><a href="#">آموزش</a></li>
                                    <li><a href="#">تماس باما</a></li>
                                    <li><a href="#">مقالات</a></li>
-                                   <li><a href="#">راهنما</a></li>
                                </ul>
                            </div>
                        </div>
@@ -252,17 +249,7 @@ body.rtl .tp-mask-wrap {
 
                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 widget-area">
                            <div class="widget flicker_widget clearfix">
-                              <h3 class="widget-title">عضویت در خبرنامه</h3>
                               <div class="textwidget widget-text">
-                                 نگران نباشید کسی ایمیل شما را نمیبیند
-                                   <form id="subscribe-form" class="newsletter-form" method="post" action="#" data-mailchimp="true">
-                                       <div class="mailchimp-inputbox clearfix" id="subscribe-content">
-                                           <i class="fa fa-envelope"></i>
-                                           <input type="email" name="email" placeholder="ایمیل" required="">
-                                           <input type="submit" value="">
-                                       </div>
-                                       <div id="subscribe-msg"></div>
-                                   </form>
                                    <h5 class="mb-20">ما را دنبال کنید</h5>
                                    <div class="social-icons circle social-hover">
                                        <ul class="list-inline">
@@ -286,18 +273,7 @@ body.rtl .tp-mask-wrap {
                                <span>© تمامی حقوق محفوظ است |   <a href="" target="_blank"> دپارتمان طراحی و توسعه یوتاب  </a></span>
                            </div>
                        </div>
-                       <div class="col-md-6">
-                           <div class="text-md-right res-767-mt-10">
-                               <div class="d-lg-inline-flex">
-                                   <ul id="menu-footer-menu" class="footer-nav-menu">
-                                       <li><a href="#">درباره ما</a></li>
-                                       <li><a href="#">خدمات</a></li>
-                                       <li><a href="#">حریم شخصی</a></li>
-                                   </ul>
 
-                               </div>
-                           </div>
-                       </div>
                    </div>
                </div>
            </div>
@@ -314,7 +290,30 @@ body.rtl .tp-mask-wrap {
 
        <!-- Javascript -->
 
-       <script src="js/jquery.min.js"></script>
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+   <link type="text/css" rel="stylesheet" href="/slider/css/lightslider.css" />
+   <script src="/slider/js/lightslider.js"></script>
+
+
+
+   <link type="text/css" rel="stylesheet" href="/slider/css/lightGallery.css" />
+   <script src="/slider/js/lightGallery.js"></script>
+
+   <script>
+       $(document).ready(function() {
+           $('#autoWidth').lightSlider({
+               autoWidth:true,
+               loop:true,
+               onSliderLoad: function() {
+                   $('#autoWidth').removeClass('cS-hidden');
+               }
+           });
+       });
+
+
+   </script>
+
        <script src="js/tether.min.js"></script>
        <script src="js/bootstrap.min.js"></script>
        <script src="js/jquery.easing.js"></script>
@@ -332,6 +331,10 @@ body.rtl .tp-mask-wrap {
        <script src="revolution/js/slider.js"></script>
 
        <!-- Javascript end-->
+
+   @yield('scripts')
+
+
 </body>
 
 

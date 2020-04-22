@@ -265,12 +265,12 @@
 
     <!-- service-section -->
     <section style="    padding: 20px 0!important;" id="services"
-             class="ttm-row service-section-style2 ttm-bgcolor-grey clearfix">
+             class="ttm-row service-section-style2 ttm-bgcolor-grey clearfix ">
         <div class="container">
             <div class="row"><!-- row -->
                 <div class="col-lg-12">
                     <!-- section title -->
-                    <div class="section-title with-desc text-center clearfix">
+                    <div style="    margin-top: 50px;" class="section-title with-desc text-center clearfix">
                         <div class="title-header">
 
                             <h2 class="title"> خدمات <span> تسیس </span></h2>
@@ -279,9 +279,32 @@
                 </div>
             </div>
             <div class="row no-gutters"><!-- row -->
+
+
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
-                    <div class="featured-icon-box style6">
+                    <div style="height: 88%!important;" class="featured-icon-box style6">
+                        <div class="featured-content"><!--  featured-content -->
+                            <div class="featured-title"><!--  featured-title -->
+                                <h5 class="mb-10 tasis-center">الو تسیس</h5>
+                            </div>
+                            <div class="featured-desc"><!--  featured-desc -->
+                                <p class="mb-1">• بکار گیری نیروهای متخصص
+                                    <br>•خدمت رسانی در کمترین زمان
+                                    <br>• ارایه خدمات بصورت  شبانه روزی
+                                </p>
+                            </div>
+                        </div>
+
+                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="/alo">
+                            مشاهده بیشتر </a>
+                    </div><!--  featured-icon-box END -->
+                </div>
+
+
+                <div class="col-md-6 col-lg-4">
+                    <!--  featured-icon-box -->
+                    <div style="height: 88%!important;" class="featured-icon-box style6">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
                                 <h5 class="mb-10 tasis-center">راه‌اندازی،تاسیسات،تجهیزات</h5>
@@ -289,7 +312,8 @@
                             <div class="featured-desc"><!--  featured-desc -->
                                 <p class="mb-1">• تعمیر و نگهداری سیستم MEP
                                     <br>• آسانسور
-                                    <br>• نصب و نگهداری سیستم اطفاء و اعلام حریق،سونا، استخر و جکوزی
+                                    <br>
+                                    • نصب و نگهداری سیستم اطفاء و اعلام حریق،سونا، استخر و جکوزی
 
                                 </p>
                             </div>
@@ -301,7 +325,7 @@
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
-                    <div class="featured-icon-box style6">
+                    <div style="height: 88%!important;" class="featured-icon-box style6">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
                                 <h5 class="mb-10 tasis-center">فناوری‌های نوین و انرژی پاک</h5>
@@ -320,7 +344,7 @@
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
-                    <div class="featured-icon-box style6">
+                    <div style="height: 88%!important;" class="featured-icon-box style6">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
                                 <h5 class="mb-10 tasis-center">خدمات محیط زیست</h5>
@@ -340,7 +364,7 @@
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
-                    <div class="featured-icon-box style6">
+                    <div style="height: 88%!important;" class="featured-icon-box style6">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
                                 <h5 class="mb-10 tasis-center">خدمات عمومی</h5>
@@ -361,36 +385,16 @@
 
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
-                    <div class="featured-icon-box style6">
+                    <div style="height: 88%!important;" class="featured-icon-box style6">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
-                                <h5 class="mb-10 tasis-center">خدمات عمومی</h5>
+                                <h5 class="mb-10 tasis-center">آکادمی تسیس</h5>
                             </div>
                             <div class="featured-desc"><!--  featured-desc -->
-                                <p class="mb-1">• خدمات پارکینگ ها
-                                    <br>•خدمات خودرویی
-                                    <br>• خدمات ورزشی
-                                    <br>• خدمات بسته بندی، حمل و نقل
-                                </p>
-                            </div>
-                        </div>
-
-                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#">
-                            مشاهده بیشتر </a>
-                    </div><!--  featured-icon-box END -->
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <!--  featured-icon-box -->
-                    <div class="featured-icon-box style6">
-                        <div class="featured-content"><!--  featured-content -->
-                            <div class="featured-title"><!--  featured-title -->
-                                <h5 class="mb-10 tasis-center">خدمات عمومی</h5>
-                            </div>
-                            <div class="featured-desc"><!--  featured-desc -->
-                                <p class="mb-1">• خدمات پارکینگ ها
-                                    <br>•خدمات خودرویی
-                                    <br>• خدمات ورزشی
-                                    <br>• خدمات بسته بندی، حمل و نقل
+                                <p class="mb-1">• آکادمی تسیس
+                                    <br>•آکادمی تسیس
+                                    <br>• آکادمی تسیس
+                                    <br>• آکادمی تسیس
                                 </p>
                             </div>
                         </div>
@@ -437,6 +441,10 @@
                                 50درصد تاسیسات مکانیکی والکتریکی پروژهای عظیم را اجرا نموده است ونمونه های نیز در همین
                                 سایت معرفی شده است.
                             </p>
+
+                            <a class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-primary" target="_blank" href="/tassis.pdf" title=""><i class="fa fa-file-pdf-o"></i><span class="tasis-byekan">دریافت فایل رزومه تسیس</span></a>
+
+
                         </div>
                     </div><!-- section title end -->
 
@@ -451,7 +459,7 @@
                     <div class="position-relative res-991-mt-30">
                         <!-- ttm_single_image-wrapper -->
                         <div class="ttm_single_image-wrapper">
-                            <img class="img-fluid lazyload" data-src="images/tassis.jpg" title="single-img-one"
+                            <img style="margin-left: 40px; width: 90%" class="img-fluid lazyload" data-src="images/about.jpg" title="single-img-one"
                                  alt="single-img-one">
                         </div><!-- ttm_single_image-wrapper end -->
                         <!--featured-icon-box-->

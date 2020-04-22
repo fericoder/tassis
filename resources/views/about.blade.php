@@ -85,7 +85,7 @@
             <section class="ttm-row zero-padding-section mt_80 res-991-mt-0 clearfix tasis-ltr">
                 <div class="container">
                     <div class="row no-gutters">
-                        <div class="col-lg-6">
+                        <div class="col-lg-4">
                             <!-- col-bg-img-one -->
                             <div class="col-bg-img-one ttm-bg ttm-col-bgimage-yes ttm-left-span">
                                <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
@@ -95,7 +95,7 @@
                             <!-- Responsive View image -->
                             <img src="images/bg-image/orionthemes-placeholder-image.png" class="ttm-equal-height-image" alt="jashn3">
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-lg-8">
                             <div class="ttm-bgcolor-skincolor ttm-bg ttm-col-bgcolor-yes z-11 position-relative ttm-right-span">
                                 <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
                                     <div class="ttm-bg-layer-inner"></div>
@@ -109,87 +109,22 @@
                                                 <h2 class="title"> شرکت سهامی تأسیسات ساختمان ایران <span>تسیس</span></h2>
                                             </div>
                                             <div class="title-desc">
-                                                <p>گروه متخصصان و کارشناسان شرکت تسیس با تجربه ترین و متخصص ترین افراد در زمينه تاسیسات ساختمانی هستند. گستره فعالیت شرکت شامل طراحی وضع موجود ساختمان در جهت نگهداری بهینه، افزايش پایایی ساختمان و تجهيزات مورد استفاده در بخش تاسیسات ساختمان، بگونه ای منطبق بر استانداردهای موجود ساختمانی از نظر نگهداری، مقاومت سازه ای و نظارت تاسیساتی است. بعلاوه، این شرکت همواره در تلاش بوده است که از دانش و سیستمهای جدید مربوطه در اين حوزه بهره گیرد. به عنوان مثال ميتوان به Home Automation ، مدل سازی اطلاعاتی ساختمان (BIM) و غيره اشاره کرد تا با استفاده از این ابزار ها بتوان در ساختمانهای با امکانات و پتانسیل بالا نيز دانش و تکنولوژی را به خدمت گرفت تا فضای مناسب تر، .سلامت تر و بهينه تری برای ساکنین ساختمان فراهم آورد</p>
+                                                <p style="direction: rtl; font-family: BYekan; ">
+                                                    - سابقه تاسیس بیش از نیم قرن <br>
+                                                     - اولین شرکت بزرگ تاسیساتی با فعالیت در سراسر کشور<br>
+                                                     - اجرای بزرگترین پروژه ها در سراسر کشور<br>
+                                                     - وجود استعداد های درخشان مهندسی وفارغ التحصل از بهترین دانشگاه های ایران در شرکت تسیس<br>
+                                                     - وجود نظام کنترلی وارزشیابی مستمر از جنبه مختلف امور فنی واجرائی ونیروی انسانی<br>
+                                                       - به روز بودن نیروی انسانی ومتخصصین با دانش فنی واستانداردهای بین المللی<br>
+                                                     - ارائه خدمات جامع سیستم های تاسیساتی (مکانیکال والکتریکال)<br>
+                                                     - پیشگیری از مستهلک شدن زود هنگام سیستم های تاسیساتی<br>
+                                                     - بهینه سازی مصرف سوخت وکاهش مصرف انرژی وحفظ محیط زیست<br>
+                                                     - دارا بودن گواهی حرفه ای ومهارت هریک از تکنسین ها<br>
+                                                    - ونهایتا صرفه اقتصادی به لحاظ شبکه گسترده شرکت تسیس
+                                                </p>
                                             </div>
                                         </div><!-- section title end -->
-                                        <div class="row mt-40">
-                                            <div class="col-12">
-                                                <!-- featured-icon-box -->
-                                                <div class="featured-icon-box style2 left-icon icon-align-top">
-                                                    <div class="featured-icon"><!-- featured-icon -->
-                                                        <div class="ttm-icon ttm-icon_element-border ttm-icon_element-color-white ttm-icon_element-size-md">
-                                                            <i class="flaticon flaticon-process"></i>
-                                                        </div>
-                                                    </div>
-                                                    <div class="featured-content">
-                                                        <div class="featured-title"><!-- featured title -->
-                                                            <h5>خدمات</h5>
-                                                        </div>
-                                                        <div class="featured-desc"><!-- featured desc -->
-                                                            <p>	خدمات بهينه سازی تاسیساتی در جهت صرفه جویی در انرژی •
-<br>	رويکردهای تخصصی در کلاس جهانی يکچارچه سازی شده • (Integrated End- to – End Approaches)
 
-</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- separator -->
-                                        <div class="separator">
-                                            <div class="sep-line mt-25 mb-25"></div>
-                                        </div>
-                                        <!-- separator -->
-                                        <div class="row">
-                                            <div class="col-12">
-                                                <!-- featured-icon-box -->
-                                                <div class="featured-icon-box style2 left-icon icon-align-top">
-                                                    <div class="featured-icon"><!-- featured-icon -->
-                                                        <div class="ttm-icon ttm-icon_element-border ttm-icon_element-color-white ttm-icon_element-size-md">
-                                                            <i class="flaticon flaticon-system"></i>
-                                                        </div>
-                                                    </div>
-                                                    <div class="featured-content">
-                                                        <div class="featured-title"><!-- featured title -->
-
-                                                        </div>
-                                                        <div class="featured-desc"><!-- featured desc -->
-                                                            <p>	پياده سازی ارگونومی در ساختمان و تجهيزات و • <br>
-                                                              تاسیسات مربوطه
-                                                            <br>	 پوشش دادن انواع ساختمان به لحاظ حجم و تيپ کار متفاوت •
-                                                            <br>	 تسریع در انجام خدمات مربوطه در کنار هزينه مناسب •<p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- separator -->
-                                        <div class="separator">
-                                            <div class="sep-line mt-25 mb-25"></div>
-                                        </div>
-                                        <!-- separator -->
-                                        <div class="row">
-                                            <div class="col-12">
-                                                <!-- featured-icon-box -->
-                                                <div class="featured-icon-box style2 left-icon icon-align-top">
-                                                    <div class="featured-icon"><!-- featured-icon -->
-                                                        <div class="ttm-icon ttm-icon_element-border ttm-icon_element-color-white ttm-icon_element-size-md">
-                                                            <i class="flaticon flaticon-data"></i>
-                                                        </div>
-                                                    </div>
-                                                    <div class="featured-content">
-                                                        <div class="featured-title"><!-- featured title -->
-
-                                                      </div>
-                                                      <div class="featured-desc"><!-- featured desc -->
-                                                          <p><br>	 ارائه تجهيزات و قطعات با کیفیت همراه با تضمين های لازم •
-                                                          <br>	 رعایت و پياده سازی استانداردهای تاسیسات ساختمان •
- </p>
-                                                      </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
