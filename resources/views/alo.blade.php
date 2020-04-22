@@ -466,7 +466,7 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href=""></a>ترکیدگی لوله</h5>
+                                                   <h5><a href="">ترکیدگی لوله</a></h5>
                                                </div>
 
                                            </div>
@@ -481,7 +481,7 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href=""></a>کولر گازی و اسپلیت و داکت اسپلیت</h5>
+                                                   <h5><a href="">کولر گازی و اسپلیت و داکت اسپلیت</a></h5>
                                                </div>
 
                                            </div>
@@ -496,8 +496,7 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href=""></a>نصب روشنایی
-چراغ دیواری</h5>
+                                                   <h5><a href="">نصب روشنایی چراغ دیواری</a></h5>
                                                </div>
 
 
@@ -513,7 +512,7 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href=""></a>پکیج و آبگرمکن</h5>
+                                                   <h5><a href="">پکیج و آبگرمکن</a></h5>
                                                </div>
                                            </div>
                                        </div>
@@ -527,7 +526,7 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href=""></a>سیم کشی و تابلو برق</h5>
+                                                   <h5><a href="">سیم کشی و تابلو برق</a></h5>
                                                </div>
 
                                            </div>
@@ -800,7 +799,7 @@ div.product ul.tabs li a:before {
                            <!-- section title -->
                            <div class="section-title text-center with-desc clearfix">
                                <div class="title-header">
-                                   <h2 class="title"> الو تسیس <span> چطور کار می کند؟ </span></h2>
+                                   <h2 class="title"> الو تسیس <span> چگونه کار می کند؟ </span></h2>
                                </div>
                            </div><!-- section title end -->
                        </div>
@@ -817,8 +816,8 @@ div.product ul.tabs li a:before {
                                        </div>
                                    </div>
                                    <div class="featured-content">
-                                         <div class="featured-title"><h5>تماس با </h5><h4 class="tasis-byekan">2470</h4></div>
-                                       <div class="ttm-box-description">مشکل خود را بازگو کنید و یکی از سرویس هارا انتخاب نمایید.</div>
+                                         <div class="featured-title"><h5 class="tasis-byekan">تماس با  2470</h5><h4 class="tasis-byekan"></h4></div>
+                                       <div class="ttm-box-description">جهت ثبت درخواست و دریافت اطلاعات تماس توسط الوتسیس </div>
                                    </div>
                                </div>
                                <div class="ttm-processbox text-center">
@@ -829,8 +828,8 @@ div.product ul.tabs li a:before {
                                        </div>
                                    </div>
                                    <div class="featured-content">
-                                       <div class="featured-title"><h5>تعیین تکنسین</h5></div>
-                                       <div class="ttm-box-description">درخواست برای رفع مشکل توسط شما و پیگیری تیم تسیس.</div>
+                                       <div class="featured-title"><h5>تعیین و اعزام تکنسین</h5></div>
+                                       <div class="ttm-box-description">الوتسیس، نزدیک ترین تکنسین خودرا به سمت شما اعزام میکند.</div>
                                    </div>
                                </div>
                                <div class="ttm-processbox text-center">
@@ -841,8 +840,8 @@ div.product ul.tabs li a:before {
                                        </div>
                                    </div>
                                    <div class="featured-content">
-                                       <div class="featured-title"><h5>اعزام تکنسین</h5></div>
-                                       <div class="ttm-box-description">یکی از تکنسین های ما برای خدمت رسانی به شما اعزام میشود.</div>
+                                       <div class="featured-title"><h5>انجام کار</h5></div>
+                                       <div class="ttm-box-description"> تکنسین هر گونه خرابی را تشخیص و در زمان کوتاه رفع میکند.</div>
                                    </div>
                                </div>
                                <div class="ttm-processbox text-center">
@@ -854,7 +853,7 @@ div.product ul.tabs li a:before {
                                    </div>
                                    <div class="featured-content">
                                        <div class="featured-title"><h5>کار تمام شد</h5></div>
-                                       <div class="ttm-box-description">مشکل شما توسط تکنسین مربوطه درحال رفع و رجوع میباشد.</div>
+                                       <div class="ttm-box-description">از سایر خدمات الوتسیس لذت ببرید.</div>
                                    </div>
                                </div>
                            </div>
