@@ -19,249 +19,40 @@
     </style>
 
     <!-- START homeclassicmain REVOLUTION SLIDER 6.0.1 -->
-    <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery">
-        <rs-module id="rev_slider_1_1" style="" data-version="6.0.1" class="rev_slider_1_1_height">
-            <rs-slides>
-                <!-- rs-slide -->
-                <rs-slide class="tasis-ltr" data-key="rs-3" data-title="Slide" data-thumb="images/slides/bg.jpeg"
-                          data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                    <img src="images/slides/bg.jpeg" title="slider-mainbg-003" width="1920" height="790"
-                         class="rev-slidebg" data-no-retina>
 
+    <link rel="stylesheet" href="/indexSlider/css/my-slider.css"/>
+    <script src="/indexSlider/js/ism-2.2.min.js"></script>
 
-                    <rs-layer class="tasis-rezvan"
-                              id="slider-2-slide-1-layer-1"
-                              data-type="text"
-                              data-color="#263045"
-                              data-rsp_ch="on"
-                              data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:150px,233px,124px,59px;"
-                              data-text="w:normal;s:40,52,45,37;l:70,60,50,60;fw:600;"
-                              data-frame_0="x:-50,-50,-31,-19;"
-                              data-frame_1="e:Linear.easeNone;st:260;sp:800;sR:260;"
-                              data-frame_999="o:0;st:w;sR:7940;"
-                    >شرکت سهامی
-                    </rs-layer>
-
-                    <rs-layer class="tasis-rezvan"
-                              id="slider-2-slide-1-layer-2"
-                              data-type="text"
-                              data-color="#263045"
-                              data-rsp_ch="on"
-                              data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:210px,294px,173px,104px;"
-                              data-text="w:normal;s:40,52,45,37;l:75,65,60,60;fw:600;"
-                              data-frame_0="x:-50,-50,-31,-19;"
-                              data-frame_1="st:410;sp:800;sR:410;"
-                              data-frame_999="o:0;st:w;sR:7790;"
-                    >تأسیسات ساختمان ایران
-                    </rs-layer>
-
-
-                    <rs-layer
-                            id="slider-2-slide-1-layer-3"
-                            data-type="text"
-                            data-color="#263045"
-                            data-rsp_ch="on"
-                            data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:280px,294px,173px,104px;"
-                            data-text="w:normal;s:40,52,45,37;l:75,65,60,60;fw:600;"
-                            data-frame_0="x:-50,-50,-31,-19;"
-                            data-frame_1="st:410;sp:800;sR:410;"
-                            data-frame_999="o:0;st:w;sR:7790;"
-                    ><strong class="ttm-textcolor-skincolor"> "تسیس" </strong>
-                    </rs-layer>
-
-
-                    <rs-layer class="tasis-byekan"
-                              id="slider-2-slide-1-layer-4"
-                              data-type="text"
-                              data-color="#2d4a8a"
-                              data-rsp_ch="on"
-                              data-xy="xo:50px,50px,40px,-164px;yo:400px,196px,94px,61px;"
-                              data-text="w:normal;s:18,18,15,10;l:25,25,15,9;fw:500;"
-                              data-vbility="t,t,t,f"
-                              data-frame_0="x:-50,-50,-31,-19;"
-                              data-frame_1="e:Linear.easeNone;st:120;sp:400;sR:120;"
-                              data-frame_999="o:0;st:w;sR:8480;"
-                    >"متولد سال "1347
-                    </rs-layer>
-
-
-                    <a
-                            id="slider-2-slide-1-layer-5"
-                            class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor"
-                            href="/about" target="_self" rel="nofollow"
-                            data-type="text"
-                            data-rsp_ch="on"
-                            data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:608px,468px,309px,180px;"
-                            data-text="w:normal;s:15,15,12,11;l:27,27,25,30;fw:600;a:center;"
-                            data-padding="t:12,12,8,5;r:35,35,22,14;b:15,15,9,6;l:35,35,22,14;"
-                            data-frame_0="y:50,50,31,19;"
-                            data-frame_1="st:720;sp:500;sR:720;"
-                            data-frame_999="o:0;st:w;sR:7780;"
-                    >درباره تسیس
-                    </a>
-
-
-                    <rs-layer
-                            id="slider-2-slide-1-layer-8"
-                            class="ttm-bgcolor-darkgrey"
-                            data-type="shape"
-                            data-rsp_ch="on"
-                            data-xy="x:r;xo:65px,65px,-165px,-101px;yo:670px,540px,301px,185px;"
-                            data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
-                            data-dim="w:26px,26px,15px,9px;h:26px,26px,15px,9px;"
-                            data-vbility="t,t,f,f"
-                            data-border="bor:50px,50px,50px,50px;"
-                            data-frame_0="y:bottom;"
-                            data-frame_1="st:200;sp:1000;sR:200;"
-                            data-frame_999="o:1;st:w;sp:1200;sR:7800;"
-                            data-frame_999_chars="e:Power4.easeInOut;d:10;x:-105%;o:0;rZ:-90deg;"
-                            data-frame_999_mask="u:t;"
-                    >
-                    </rs-layer>
-
-                    <rs-layerz
-                            id="slider-2-slide-1-layer-10"
-                            data-type="text"
-                            data-color="#40444e"
-                            data-rsp_ch="on"
-                            data-xy="x:l,l,l,c;xo:50px,50px,40px,-409px;yo:519px,380px,237px,132px;"
-                            data-text="w:normal;s:16,16,12,7;l:27,27,23,14;fw:400,400,500,500;"
-                            data-vbility="t,t,t,f"
-                            data-frame_0="y:50,50,31,19;"
-                            data-frame_1="e:Linear.easeNone;st:630;sp:500;sR:630;"
-                            data-frame_999="o:0;st:w;sR:7870;"
-                    >شرکت تاسیسات ساختمان ایران"تسیس"در سال 1347 تاسیس شده است <br> واینک با قدمت بیش از نیم قرن با
-                        سابقه ترین وبزرگترین شرکت تخصصی تاسیسات کشور می باشد
-                        </rs-layer>
-
-                </rs-slide>
-                <!-- rs-slide -->
-
-
-
-                <rs-slide class="tasis-ltr" data-key="rs-3" data-title="Slide" data-thumb="images/slides/2.jpeg"
-                          data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                    <img src="images/slides/2.jpeg" title="slider-mainbg-003" width="1920" height="790"
-                         class="rev-slidebg" data-no-retina>
-
-
-                    <rs-layer class="tasis-rezvan"
-                              id="slider-2-slide-1-layer-1"
-                              data-type="text"
-                              data-color="#263045"
-                              data-rsp_ch="on"
-                              data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:150px,233px,124px,59px;"
-                              data-text="w:normal;s:40,52,45,37;l:70,60,50,60;fw:600;"
-                              data-frame_0="x:-50,-50,-31,-19;"
-                              data-frame_1="e:Linear.easeNone;st:260;sp:800;sR:260;"
-                              data-frame_999="o:0;st:w;sR:7940;"
-                    >شرکت سهامی
-                    </rs-layer>
-
-                    <rs-layer class="tasis-rezvan"
-                              id="slider-2-slide-1-layer-2"
-                              data-type="text"
-                              data-color="#263045"
-                              data-rsp_ch="on"
-                              data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:210px,294px,173px,104px;"
-                              data-text="w:normal;s:40,52,45,37;l:75,65,60,60;fw:600;"
-                              data-frame_0="x:-50,-50,-31,-19;"
-                              data-frame_1="st:410;sp:800;sR:410;"
-                              data-frame_999="o:0;st:w;sR:7790;"
-                    >تأسیسات ساختمان ایران
-                    </rs-layer>
-
-
-                    <rs-layer
-                            id="slider-2-slide-1-layer-3"
-                            data-type="text"
-                            data-color="#263045"
-                            data-rsp_ch="on"
-                            data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:280px,294px,173px,104px;"
-                            data-text="w:normal;s:40,52,45,37;l:75,65,60,60;fw:600;"
-                            data-frame_0="x:-50,-50,-31,-19;"
-                            data-frame_1="st:410;sp:800;sR:410;"
-                            data-frame_999="o:0;st:w;sR:7790;"
-                    ><strong class="ttm-textcolor-skincolor"> "تسیس" </strong>
-                    </rs-layer>
-
-
-                    <rs-layer class="tasis-byekan"
-                              id="slider-2-slide-1-layer-4"
-                              data-type="text"
-                              data-color="#2d4a8a"
-                              data-rsp_ch="on"
-                              data-xy="xo:50px,50px,40px,-164px;yo:400px,196px,94px,61px;"
-                              data-text="w:normal;s:18,18,15,10;l:25,25,15,9;fw:500;"
-                              data-vbility="t,t,t,f"
-                              data-frame_0="x:-50,-50,-31,-19;"
-                              data-frame_1="e:Linear.easeNone;st:120;sp:400;sR:120;"
-                              data-frame_999="o:0;st:w;sR:8480;"
-                    >"متولد سال "1347
-                    </rs-layer>
-
-
-                    <a
-                            id="slider-2-slide-1-layer-5"
-                            class="rs-layer ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor"
-                            href="/about" target="_self" rel="nofollow"
-                            data-type="text"
-                            data-rsp_ch="on"
-                            data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:608px,468px,309px,180px;"
-                            data-text="w:normal;s:15,15,12,11;l:27,27,25,30;fw:600;a:center;"
-                            data-padding="t:12,12,8,5;r:35,35,22,14;b:15,15,9,6;l:35,35,22,14;"
-                            data-frame_0="y:50,50,31,19;"
-                            data-frame_1="st:720;sp:500;sR:720;"
-                            data-frame_999="o:0;st:w;sR:7780;"
-                    >درباره تسیس
-                    </a>
-
-
-                    <rs-layer
-                            id="slider-2-slide-1-layer-8"
-                            class="ttm-bgcolor-darkgrey"
-                            data-type="shape"
-                            data-rsp_ch="on"
-                            data-xy="x:r;xo:65px,65px,-165px,-101px;yo:670px,540px,301px,185px;"
-                            data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
-                            data-dim="w:26px,26px,15px,9px;h:26px,26px,15px,9px;"
-                            data-vbility="t,t,f,f"
-                            data-border="bor:50px,50px,50px,50px;"
-                            data-frame_0="y:bottom;"
-                            data-frame_1="st:200;sp:1000;sR:200;"
-                            data-frame_999="o:1;st:w;sp:1200;sR:7800;"
-                            data-frame_999_chars="e:Power4.easeInOut;d:10;x:-105%;o:0;rZ:-90deg;"
-                            data-frame_999_mask="u:t;"
-                    >
-                    </rs-layer>
-
-                    <rs-layerz
-                            id="slider-2-slide-1-layer-10"
-                            data-type="text"
-                            data-color="#40444e"
-                            data-rsp_ch="on"
-                            data-xy="x:l,l,l,c;xo:50px,50px,40px,-409px;yo:519px,380px,237px,132px;"
-                            data-text="w:normal;s:16,16,12,7;l:27,27,23,14;fw:400,400,500,500;"
-                            data-vbility="t,t,t,f"
-                            data-frame_0="y:50,50,31,19;"
-                            data-frame_1="e:Linear.easeNone;st:630;sp:500;sR:630;"
-                            data-frame_999="o:0;st:w;sR:7870;"
-                    >شرکت تاسیسات ساختمان ایران"تسیس"در سال 1347 تاسیس شده است <br> واینک با قدمت بیش از نیم قرن با
-                        سابقه ترین وبزرگترین شرکت تخصصی تاسیسات کشور می باشد
-                        </rs-layer>
-
-                </rs-slide>
-
-
-
-
-                <!-- rs-slide -->
-
-                <!-- rs-slide -->
-            </rs-slides>
-        </rs-module><!-- rs-module -->
-    </rs-module-wrap>
     <!-- END REVOLUTION SLIDER -->
+    <div style="direction: ltr; height: 550px" data-play_type="loop" data-interval="4000" data-image_fx="zoomrotate"   class="ism-slider" id="my-slider">
+        <ol>
+            <li>
+                <img src="/indexSlider/image/slides/_u/1587570288245_941214.jpeg">
+                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-1" data-delay='300'>شرکت سهامی تاسیسات ساختمان ایران</div>
+                <div style="font-family: Rezvan!important;" class="ism-caption ism-caption-2" data-delay='500'> "تسیس" <br> متولد سال 1347</div>
+            </li>
+            <li>
+                <img src="/indexSlider/image/slides/_u/1587570289798_447315.jpeg">
+                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-1" data-delay='300'>شرکت سهامی تاسیسات ساختمان ایران</div>
+                <div style="font-family: Rezvan!important;" class="ism-caption ism-caption-2" data-delay='500'> "تسیس" <br> متولد سال 1347</div>
+            </li>
+            <li>
+                <img src="/indexSlider/image/slides/_u/1587570288645_237387.jpeg">
+                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-1" data-delay='300'>شرکت سهامی تاسیسات ساختمان ایران</div>
+                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-2" data-delay='500'> "تسیس" <br> متولد سال 1347</div>
+            </li>
+            <li>
+                <img src="/indexSlider/image/slides/_u/1587570287207_6977.jpeg">
+                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-1" data-delay='300'>شرکت سهامی تاسیسات ساختمان ایران</div>
+                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-2" data-delay='500'> "تسیس" <br> متولد سال 1347</div>
+            </li>
+            <li>
+                <img src="/indexSlider/image/slides/_u/1587570286681_525353.jpeg">
+                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-1" data-delay='300'>شرکت سهامی تاسیسات ساختمان ایران</div>
+                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-2" data-delay='500'> "تسیس" <br> متولد سال 1347</div>
+            </li>
+        </ol>
+    </div>
 
     <!-- service-section -->
     <section style="    padding: 20px 0!important;" id="services"
