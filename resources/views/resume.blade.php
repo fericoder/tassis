@@ -35,7 +35,14 @@
                 <div class="container">
                     <!-- row -->
 
-                    <div class="row">
+
+                    <iframe style="margin: auto" frameBorder="0" width="100%" height="900"  src="/slider/frame/demo/index.html" frameborder="0"></iframe>
+
+                    <center>
+                        <a class="ttm-btn ttm-btn-size-xl ttm-btn-style-border ttm-icon-btn-center ttm-btn-color-primary" target="_blank" href="/tassis.pdf" title=""><span class="tasis-byekan">دریافت فایل رزومه تسیس</span></a>
+                    </center>
+
+                    <div style="display: none" class="row">
                         <ul id="imageGallery">
                             <li data-thumb="/slider/img/1.jpeg" data-src="/slider/img/1.jpeg"><img src="/slider/img/1.jpeg" /></li>
                             <li data-thumb="/slider/img/2.jpeg" data-src="/slider/img/2.jpeg"><img src="/slider/img/2.jpeg" /></li>
