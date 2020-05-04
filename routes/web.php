@@ -38,3 +38,6 @@ Route::get('blogs.show', function () {
 Route::get('blogs.index', function () {
     return view('blogs.index');
 });
+Route::get('single-blog', function () {
+    return view('single-blog');
+});

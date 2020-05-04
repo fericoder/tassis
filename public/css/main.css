@@ -1913,7 +1913,7 @@ article.ttm-blog-classic .ttm-post-entry-header{
     height: 100%;
     width: 1px;
     top: 0;
-    right: 10px;
+    margin-right: 20px;
     display: block;
     background-color: rgba(0,0,0,0.2);
 }
@@ -1960,7 +1960,7 @@ article.ttm-blog-classic .ttm-post-entry-header{
     font-style: normal;
     line-height: 70px;
     top: auto;
-    bottom: -30px;
+    top: -20px;
     right: 35px;
     width: 70px;
     height: 70px;
