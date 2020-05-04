@@ -102,9 +102,6 @@ body.rtl .tp-mask-wrap {
                                            </li>
                                        </ul>
                                    </div>
-                                   <div class="header-btn">
-                                       <a style="background-color: #c61313;" class="ttm-btn ttm-btn-size-md  ttm-btn-bgcolor-skincolor" href="/alo">ورود به الو تسیس</a>
-                                   </div>
                                </div>
                            </div>
                        </div>
@@ -135,13 +132,12 @@ body.rtl .tp-mask-wrap {
                                    <nav id="menu" class="menu">
                                        <ul class="dropdown">
                                            <li class="{{  request()->is('*/') ? 'active' : '' }}" ><a href="/">صفحه اصلی</a>
-                                           <li class="{{  request()->is('*services*') ? 'active' : '' }}" class="has-submenu"><a href="/#services">خدمات تسیس</a>
+                                           <li class="{{  request()->is('*services*') ? 'active' : '' }}" class="has-submenu"><a href="/#services">خدمات</a>
                                                <ul style="width: 350px" class="sub-menu">
                                                    <li style="direction: rtl; text-align: right"><a href="/#services">مدیریت راه اندازی و خدمات تاسیسات و تجهیزات</a></li>
                                                    <li style="direction: rtl; text-align: right"><a href="/#services">خدمات فناوری های نوین و انرژی پاک</a></li>
                                                    <li style="direction: rtl; text-align: right"><a href="/#services">خدمات محیط زیست</a></li>
                                                    <li style="direction: rtl; text-align: right"><a href="/#services">خدمات عمومی</a></li>
-                                                   <li style="direction: rtl; text-align: right"><a href="/#services">آکادمی</a></li>
                                                    <li style="direction: rtl; text-align: right"><a href="/alo">الوتسیس</a></li>
                                                </ul>
                                            </li>
@@ -152,7 +148,7 @@ body.rtl .tp-mask-wrap {
                                            <li class="{{  request()->is('*resume') ? 'active' : '' }}"><a href="/resume">رزومه</a></li>
                                            <li class="{{  request()->is('*partners') ? 'active' : '' }}"><a href="/partners">شرکا و سرمایه گزاران</a></li>
                                            <li class="{{  request()->is('*contact*') ? 'active' : '' }}"><a href="/contact">تماس باما</a></li>
-                                           <li class="{{  request()->is('*alo') ? 'active' : '' }}"><a style="color: red" href="/alo">الو تسیس</a></li>
+                                           <li class="{{  request()->is('*alo') ? 'active' : '' }}"><a style="color: red" href="/alo">الو تسیس (اورژانس تاسیسات)</a></li>
 
                                        </ul>
                                    </nav>

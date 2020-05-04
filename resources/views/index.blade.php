@@ -174,27 +174,6 @@
                     </div><!--  featured-icon-box END -->
                 </div>
 
-                <div class="col-md-6 col-lg-4">
-                    <!--  featured-icon-box -->
-                    <div style="height: 88%!important;" class="featured-icon-box style6">
-                        <div class="featured-content"><!--  featured-content -->
-                            <div class="featured-title"><!--  featured-title -->
-                                <h5 class="mb-10 tasis-center">آکادمی تسیس</h5>
-                            </div>
-                            <div class="featured-desc"><!--  featured-desc -->
-                                <p class="mb-1">• آکادمی تسیس
-                                    <br>•آکادمی تسیس
-                                    <br>• آکادمی تسیس
-                                    <br>• آکادمی تسیس
-                                </p>
-                            </div>
-                        </div>
-
-                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#">
-                            مشاهده بیشتر </a>
-                    </div><!--  featured-icon-box END -->
-                </div>
-
             </div>
             <!-- row end -->
         </div>
