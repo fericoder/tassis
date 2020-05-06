@@ -38,6 +38,15 @@ Route::get('blogs.show', function () {
 Route::get('blogs.index', function () {
     return view('blogs.index');
 });
-Route::get('single-blog', function () {
-    return view('single-blog');
+Route::get('SettingUp', function () {
+    return view('SettingUp');
+});
+Route::get('Technology', function () {
+    return view('Technology');
+});
+Route::get('Live', function () {
+    return view('Live');
+});
+Route::get('General', function () {
+    return view('General');
 });
