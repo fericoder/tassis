@@ -134,10 +134,10 @@ body.rtl .tp-mask-wrap {
                                            <li class="{{  request()->is('*/') ? 'active' : '' }}" ><a href="/">صفحه اصلی</a>
                                            <li class="{{  request()->is('*services*') ? 'active' : '' }}" class="has-submenu"><a href="/#services">خدمات</a>
                                                <ul style="width: 350px" class="sub-menu">
-                                                   <li style="direction: rtl; text-align: right"><a href="/#services">مدیریت راه اندازی و خدمات تاسیسات و تجهیزات</a></li>
-                                                   <li style="direction: rtl; text-align: right"><a href="/#services">خدمات فناوری های نوین و انرژی پاک</a></li>
-                                                   <li style="direction: rtl; text-align: right"><a href="/#services">خدمات محیط زیست</a></li>
-                                                   <li style="direction: rtl; text-align: right"><a href="/#services">خدمات عمومی</a></li>
+                                                   <li style="direction: rtl; text-align: right"><a href="/SettingUp">مدیریت راه اندازی و خدمات تاسیسات و تجهیزات</a></li>
+                                                   <li style="direction: rtl; text-align: right"><a href="/Technology">خدمات فناوری های نوین و انرژی پاک</a></li>
+                                                   <li style="direction: rtl; text-align: right"><a href="/Live">خدمات محیط زیست</a></li>
+                                                   <li style="direction: rtl; text-align: right"><a href="/General">خدمات عمومی</a></li>
                                                    <li style="direction: rtl; text-align: right"><a href="/alo">الوتسیس</a></li>
                                                </ul>
                                            </li>
