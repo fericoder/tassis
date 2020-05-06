@@ -96,6 +96,7 @@
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
                     <div style="height: 88%!important;" class="featured-icon-box style6">
+                      <a href="/SettingUp">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
                                 <h5 class="mb-10 tasis-center">راه‌اندازی،تاسیسات،تجهیزات</h5>
@@ -109,7 +110,7 @@
                                 </p>
                             </div>
                         </div>
-
+</a>
                         <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#">مشاهده
                             بیشتر</a>
                     </div><!--  featured-icon-box END -->
@@ -117,6 +118,7 @@
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
                     <div style="height: 88%!important;" class="featured-icon-box style6">
+                        <a href="/Technology">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
                                 <h5 class="mb-10 tasis-center">فناوری‌های نوین و انرژی پاک</h5>
@@ -128,7 +130,7 @@
                                 </p>
                             </div>
                         </div>
-
+</a>
                         <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#">
                             مشاهده بیشتر </a>
                     </div><!--  featured-icon-box END -->
@@ -136,6 +138,7 @@
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
                     <div style="height: 88%!important;" class="featured-icon-box style6">
+                        <a href="/Live">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
                                 <h5 class="mb-10 tasis-center">خدمات محیط زیست</h5>
@@ -148,7 +151,7 @@
                                 </p>
                             </div>
                         </div>
-
+</a>
                         <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#">
                             مشاهده بیشتر </a>
                     </div><!--  featured-icon-box END -->
@@ -156,6 +159,7 @@
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
                     <div style="height: 88%!important;" class="featured-icon-box style6">
+                        <a href="/General">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
                                 <h5 class="mb-10 tasis-center">خدمات عمومی</h5>
@@ -168,7 +172,7 @@
                                 </p>
                             </div>
                         </div>
-
+</a>
                         <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#">
                             مشاهده بیشتر </a>
                     </div><!--  featured-icon-box END -->
