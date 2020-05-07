@@ -684,7 +684,7 @@ textarea:focus {
 .tooltip-top:before, .tooltip:before, [data-tooltip]:before,
 .section-title.with-desc .title-header:before,
 #site-header-menu #site-navigation .menu > ul{
-    border-top-color: #2d4a8a !important;
+    border-top-color: #fff !important;
 }
 .ttm-search-overlay .w-search-form-row:before,
 .tooltip-bottom:before,

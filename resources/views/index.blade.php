@@ -24,35 +24,33 @@
     <script src="/indexSlider/js/ism-2.2.min.js"></script>
 
     <!-- END REVOLUTION SLIDER -->
-    <div style="direction: ltr; height: 550px" data-play_type="loop" data-interval="4000" data-image_fx="zoomrotate"   class="ism-slider" id="my-slider">
-        <ol>
-            <li>
-                <img src="/indexSlider/image/slides/_u/1587570288245_941214.jpeg">
-                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-1" data-delay='300'>شرکت سهامی تاسیسات ساختمان ایران</div>
-                <div style="font-family: Rezvan!important;" class="ism-caption ism-caption-2" data-delay='500'> "تسیس" <br> متولد سال 1347</div>
-            </li>
-            <li>
-                <img src="/indexSlider/image/slides/_u/1587570289798_447315.jpeg">
-                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-1" data-delay='300'>شرکت سهامی تاسیسات ساختمان ایران</div>
-                <div style="font-family: Rezvan!important;" class="ism-caption ism-caption-2" data-delay='500'> "تسیس" <br> متولد سال 1347</div>
-            </li>
-            <li>
-                <img src="/indexSlider/image/slides/_u/1587570288645_237387.jpeg">
-                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-1" data-delay='300'>شرکت سهامی تاسیسات ساختمان ایران</div>
-                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-2" data-delay='500'> "تسیس" <br> متولد سال 1347</div>
-            </li>
-            <li>
-                <img src="/indexSlider/image/slides/_u/1587570287207_6977.jpeg">
-                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-1" data-delay='300'>شرکت سهامی تاسیسات ساختمان ایران</div>
-                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-2" data-delay='500'> "تسیس" <br> متولد سال 1347</div>
-            </li>
-            <li>
-                <img src="/indexSlider/image/slides/_u/1587570286681_525353.jpeg">
-                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-1" data-delay='300'>شرکت سهامی تاسیسات ساختمان ایران</div>
-                <div style="font-family: BYekan!important;" class="ism-caption ism-caption-2" data-delay='500'> "تسیس" <br> متولد سال 1347</div>
-            </li>
-        </ol>
+
+
+    <div class="row">
+        <div class="col-md-12">
+                <div style="direction: ltr; height: 550px" data-play_type="loop" data-interval="4000" data-image_fx="zoomrotate"   class="ism-slider" id="my-slider">
+                    <ol>
+                        <li>
+                            <img src="/indexSlider/image/slides/_u/1.jpeg">
+                        </li>
+                        <li>
+                            <img src="/indexSlider/image/slides/_u/2.jpeg">
+                        </li>
+                        <li>
+                            <img src="/indexSlider/image/slides/_u/3.jpeg">
+                        </li>
+                        <li>
+                            <img src="/indexSlider/image/slides/_u/4.jpeg">
+                        </li>
+                        <li>
+                            <img src="/indexSlider/image/slides/_u/5.jpeg">
+                        </li>
+                    </ol>
+
+                </div>
+        </div>
     </div>
+
 
     <!-- service-section -->
     <section style="    padding: 20px 0!important;" id="services"
@@ -61,7 +59,7 @@
             <div class="row"><!-- row -->
                 <div class="col-lg-12">
                     <!-- section title -->
-                    <div style="    margin-top: 50px;" class="section-title with-desc text-center clearfix">
+                    <div style="    margin-top: 80px;" class="section-title with-desc text-center clearfix">
                         <div class="title-header">
 
                             <h2 class="title"> خدمات <span> تسیس </span></h2>
@@ -74,20 +72,20 @@
 
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
-                    <div style="height: 88%!important;" class="featured-icon-box style6">
+                    <div style="height: 88%!important; background-color: #c7443a!important" class="featured-icon-box style6">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
-                                <h5 class="mb-10 tasis-center">الو تسیس</h5>
+                                <h5 class="mb-10 tasis-center text-white">الو تسیس</h5>
                             </div>
                             <div class="featured-desc"><!--  featured-desc -->
-                                <p class="mb-1">• بکار گیری نیروهای متخصص
+                                <p class="mb-1 text-white">• بکار گیری نیروهای متخصص
                                     <br>•خدمت رسانی در کمترین زمان
                                     <br>• ارایه خدمات بصورت  شبانه روزی
                                 </p>
                             </div>
                         </div>
 
-                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="/alo">
+                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15 text-white" href="/alo">
                             مشاهده بیشتر </a>
                     </div><!--  featured-icon-box END -->
                 </div>
@@ -95,14 +93,14 @@
 
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
-                    <div style="height: 88%!important;" class="featured-icon-box style6">
+                    <div style="height: 88%!important; background-color: #3f3e79!important" class="featured-icon-box style6">
                       <a href="/SettingUp">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
-                                <h5 class="mb-10 tasis-center">راه‌اندازی،تاسیسات،تجهیزات</h5>
+                                <h5 class="mb-10 tasis-center text-white">راه‌اندازی،تاسیسات،تجهیزات</h5>
                             </div>
                             <div class="featured-desc"><!--  featured-desc -->
-                                <p class="mb-1">• تعمیر و نگهداری سیستم MEP
+                                <p class="mb-1 text-white">• تعمیر و نگهداری سیستم MEP
                                     <br>• آسانسور
                                     <br>
                                     • نصب و نگهداری سیستم اطفاء و اعلام حریق،سونا، استخر و جکوزی
@@ -111,40 +109,40 @@
                             </div>
                         </div>
 </a>
-                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#">مشاهده
+                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15 text-white" href="#">مشاهده
                             بیشتر</a>
                     </div><!--  featured-icon-box END -->
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
-                    <div style="height: 88%!important;" class="featured-icon-box style6">
+                    <div style="height: 88%!important; background-color: #00305A!important" class="featured-icon-box style6">
                         <a href="/Technology">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
-                                <h5 class="mb-10 tasis-center">فناوری‌های نوین و انرژی پاک</h5>
+                                <h5 class="mb-10 tasis-center text-white">فناوری‌های نوین و انرژی پاک</h5>
                             </div>
                             <div class="featured-desc"><!--  featured-desc -->
-                                <p class="mb-1">• ممیزی مصرف انرژی
+                                <p class="mb-1 text-white">• ممیزی مصرف انرژی
                                     <br>• هوشمندسازی
                                     <br>• خدمات هشدارهای امنیتی
                                 </p>
                             </div>
                         </div>
 </a>
-                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#">
+                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15 text-white" href="#">
                             مشاهده بیشتر </a>
                     </div><!--  featured-icon-box END -->
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
-                    <div style="height: 88%!important;" class="featured-icon-box style6">
+                    <div style="height: 88%!important; background-color: #3d8a55!important" class="featured-icon-box style6">
                         <a href="/Live">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
-                                <h5 class="mb-10 tasis-center">خدمات محیط زیست</h5>
+                                <h5 class="mb-10 tasis-center text-white">خدمات محیط زیست</h5>
                             </div>
                             <div class="featured-desc"><!--  featured-desc -->
-                                <p class="mb-1">• طراحی نظام فضای سبز
+                                <p class="mb-1 text-white">• طراحی نظام فضای سبز
                                     <br>• بررسی منابع آب مصرفی
                                     <br>• خدمات ضدعفونی
                                     <br>• تصفیه فاضلاب
@@ -152,20 +150,20 @@
                             </div>
                         </div>
 </a>
-                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#">
+                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15 text-white" href="#">
                             مشاهده بیشتر </a>
                     </div><!--  featured-icon-box END -->
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
-                    <div style="height: 88%!important;" class="featured-icon-box style6">
+                    <div style="height: 88%!important; background-color: #2C3E50!important" class="featured-icon-box style6">
                         <a href="/General">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
-                                <h5 class="mb-10 tasis-center">خدمات عمومی</h5>
+                                <h5 class="mb-10 tasis-center text-white">خدمات عمومی</h5>
                             </div>
                             <div class="featured-desc"><!--  featured-desc -->
-                                <p class="mb-1">• خدمات پارکینگ ها
+                                <p class="mb-1 text-white">• خدمات پارکینگ ها
                                     <br>•خدمات خودرویی
                                     <br>• خدمات ورزشی
                                     <br>• خدمات بسته بندی، حمل و نقل
@@ -173,7 +171,7 @@
                             </div>
                         </div>
 </a>
-                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15" href="#">
+                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline style2 mt-15 text-white" href="#">
                             مشاهده بیشتر </a>
                     </div><!--  featured-icon-box END -->
                 </div>
@@ -188,12 +186,30 @@
     <section class="ttm-row aboutus-section clearfix tasis-ltr">
         <div class="container">
             <div class="row"><!-- row -->
+
+                <div class="col-lg-6">
+                    <div class="position-relative res-991-mt-30">
+                        <!-- ttm_single_image-wrapper -->
+                        <div class="ttm_single_image-wrapper">
+                            <img style="margin-right: 55px; width: 90%" class="img-fluid lazyload" data-src="images/about.jpg" title="single-img-one"
+                                 alt="single-img-one">
+                        </div><!-- ttm_single_image-wrapper end -->
+                        <!--featured-icon-box-->
+
+                        <!-- featured-icon-box end-->
+                    </div>
+                </div>
+
                 <div class="col-lg-6">
                     <!-- section title -->
                     <div class="section-title with-desc clearfix">
                         <div class="title-header">
-                            <h2 class="title">درباره <span> شرکت سهامی تاسیسات ساختمان ایران </span><span
-                                        class="text-danger">تسیس</span>
+                            <h2 style="text-align: center; font-family: Rezvan!important;" class="title"> <span style=" font-family: Rezvan!important;"> درباره شرکت سهامی تاسیسات ساختمان ایران </span><span  font-family: Rezvan!important;
+                                                                                                                                                                                                               class="text-danger">
+<br>
+                                    "  تسیس
+
+                                    "</span>
                         </div>
                         </h2>
                         <div class="title-desc">
@@ -228,18 +244,6 @@
                     </div>
                     <!-- separator -->
 
-                </div>
-                <div class="col-lg-6">
-                    <div class="position-relative res-991-mt-30">
-                        <!-- ttm_single_image-wrapper -->
-                        <div class="ttm_single_image-wrapper">
-                            <img style="margin-left: 40px; width: 90%" class="img-fluid lazyload" data-src="images/about.jpg" title="single-img-one"
-                                 alt="single-img-one">
-                        </div><!-- ttm_single_image-wrapper end -->
-                        <!--featured-icon-box-->
-
-                        <!-- featured-icon-box end-->
-                    </div>
                 </div>
             </div>
             <!-- row end -->
@@ -480,7 +484,7 @@
 
 
     <!-- blog-section end -->
-    <section class="ttm-row blog-section clearfix">
+    <section style="display: none" class="ttm-row blog-section clearfix">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">

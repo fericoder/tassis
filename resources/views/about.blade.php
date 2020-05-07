@@ -35,15 +35,8 @@
             <section class="ttm-row aboutus-section-style3 clearfix tasis-rtl">
                 <div class="container">
                     <div class="row"><!-- row -->
-                        <div class="col-lg-6">
-                            <div class="position-relative">
-                                <!-- ttm_single_image-wrapper -->
-                                <div class="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
-                                    <img class="img-fluid" src="images/3.jpg" title="single-img-nine" alt="single-img-nine">
-                                </div><!-- ttm_single_image-wrapper end -->
 
-                            </div>
-                        </div>
+
                         <div class="col-lg-6">
                             <div class="res-991-mt-30">
                                 <!-- section title -->
@@ -75,6 +68,17 @@
 
                             </div>
                         </div>
+
+                        <div class="col-lg-6">
+                            <div class="position-relative">
+                                <!-- ttm_single_image-wrapper -->
+                                <div class="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
+                                    <img class="img-fluid" src="images/3.jpg" title="single-img-nine" alt="single-img-nine">
+                                </div><!-- ttm_single_image-wrapper end -->
+
+                            </div>
+                        </div>
+
                     </div>
                     <!-- row end -->
                 </div>

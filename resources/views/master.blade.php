@@ -144,15 +144,16 @@ body.rtl .tp-mask-wrap {
 
 
                                            <li class="{{  request()->is('*about*') ? 'active' : '' }}"><a href="/about">درباره ما</a> </li>
-                                           <li class="{{  request()->is('') ? 'active' : '' }}"><a href="#">همکاری باما</a></li>
+                                           <li style="display: none" class="{{  request()->is('') ? 'active' : '' }}"><a href="#">همکاری باما</a></li>
                                            <li class="{{  request()->is('*resume') ? 'active' : '' }}"><a href="/resume">رزومه</a></li>
                                            <li class="{{  request()->is('*partners') ? 'active' : '' }}"><a href="/partners">شرکا و سرمایه گزاران</a></li>
                                            <li class="{{  request()->is('*contact*') ? 'active' : '' }}"><a href="/contact">تماس باما</a></li>
-                                           <li class="{{  request()->is('*alo') ? 'active' : '' }}"><a style="color: red" href="/alo">الو تسیس (اورژانس تاسیسات)</a></li>
+                                           <li class="{{  request()->is('*alo') ? 'active' : '' }}"><a style="color: red" href="/alo">الو تسیس (اورژانس تاسیسات)
+                                                   <img style="    width: 60px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzGylcSVNWKCikX_5MaK_5b_wcQdDSn1lC7ZgO0bqV7Dd7OEXb&usqp=CAU" alt="">
+                                               </a></li>
 
                                        </ul>
-                                   </nav>
-                               </div><!-- site-navigation end-->
+                                   </n                                   </div><!-- site-navigation end-->
                            </div>
                        </div>
                    </div>
@@ -185,7 +186,7 @@ body.rtl .tp-mask-wrap {
                                    </div>
                                    <div class="featured-content"><!--  featured-content -->
                                        <div class="featured-desc tasis-ltr">
-                                           <p>تهران، ملاصدرا، ابتدای شیراز ، نبش بن بست کاج</p>
+                                           <p>تهران، ملاصدرا، ابتدای شیراز ، نبش بن بست کاج، </p>
                                        </div>
                                    </div>
                                </div><!--  featured-icon-box END -->

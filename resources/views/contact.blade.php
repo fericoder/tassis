@@ -92,7 +92,7 @@
                                       <div class="featured-title">
                                           <h5>ایمیل</h5><!-- featured-title -->
                                       </div>
-                                      <div class="featured-desc"><!-- featured-description -->
+                                      <div class="featured-desc"><!-- featured-description --><br><br>
                                           <p>
                                               <a href="mailto:Info@Tassis.Ir">Info@Tassis.Ir</a><br>
                                           </p>
@@ -110,11 +110,11 @@
                                   </div><!-- featured-icon -->
                                   <div class="featured-content"><!-- featured-content -->
                                       <div class="featured-title">
-                                          <h5>نشانی</h5><!-- featured-title -->
+                                          <h5>نشانی</h5><!-- featured-title --><br>
                                       </div>
                                       <div class="featured-desc"><!-- featured-description -->
                                           <p>
-                                              آدرس: تهران، ملاصدرا، ابتدای شیراز ، نبش بن بست کاج
+                                              آدرس: تهران، ملاصدرا، ابتدای شیراز ، نبش بن بست کاج، پلاک ۴ طبقه دوم
                                           </p>
                                       </div>
                                   </div><!-- featured-content END-->
@@ -133,8 +133,11 @@
                                           <h5>شماره تماس</h5><!-- featured-title -->
                                       </div>
                                       <div class="featured-desc"><!-- featured-description -->
-                                          <p>
-                                               88030042/88060324
+                                          <br>
+                                          <p style="font-family: BYekan!important; font-size: 19px">
+                                              88030042
+                                              <br>
+                                              88060324
                                           </p>
                                       </div>
                                   </div><!-- featured-content END-->
