@@ -34,8 +34,7 @@
                               <!-- section-title -->
                               <div class="section-title with-desc text-center clearfix">
                                   <div class="title-header">
-                                      <h5>باما در تماس باشید</h5>
-                                      <h2 class="title">فرم تماس</h2>
+                                      <h2 class="title" style="font-family:Rezvan!important; text-align: right;">ارتباط باما</h2>
                                   </div>
                               </div><!-- section-title end -->
                           </div>

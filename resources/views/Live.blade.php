@@ -56,11 +56,11 @@
                   <div class="sep-line mt-15 mb-25"></div>
                 </div>
                 <!-- separator -->
-                <h2>خدمات محیط زیست</h2>
-                <h5 class="text-secondary">
+                <h2 style="font-family:Rezvan!important;">خدمات محیط زیست</h2>
+                <p class="text-secondary"  style="font-size: 16px!important;">
                   در جوامع صنعتی بشری ایجاد فضایی سبز با فطرت ذاتی بشر بوده و باعث افزایش آرامش و رضایت از فضای مسکونی و یا کار افراد می‌گردد. شرکت تسیس در این راستا خدمات ذیل را ارائه می‌نماید.
  (Complex) اقدام می‌نماید.
-                </h5>
+</p>
                 <div class="row" style="margin-top:40px;">
                   <div class="col-md-6">
                     <div class="mb-20">
@@ -106,26 +106,6 @@
               <li><a href="#">فن آوری های نوین</a></li>
               <li><a href="#">راه اندازی، تاسیسات، تجهیزات</a></li>
 
-            </ul>
-          </aside>
-          <aside class="widget post-widget">
-            <h3 class="widget-title">آخرین خبرها</h3>
-            <ul class="widget-post ttm-recent-post-list">
-              <li>
-                <a href="single-blog.html"><img src="images/blog/gazi.jpg" alt="post-img"></a>
-                <a href="single-blog.html">کولر گازی و اسپلیت و داکت اسپلیت</a>
-                <span class="post-date tasis-byekan"><i class="fa fa-calendar"></i>24 بهمن 1398</span>
-              </li>
-              <li>
-                <a href="single-blog.html"><img src="images/blog/cheraq.jpg" alt="post-img"></a>
-                <a href="single-blog.html">نصب روشنایی چراغ دیواری</a>
-                <span class="post-date tasis-byekan"><i class="fa fa-calendar"></i>30 بهمن 1398</span>
-              </li>
-              <li>
-                <a href="single-blog.html"><img src="images/blog/barq.jpg" alt="post-img"></a>
-                <a href="single-blog.html">لوازم برقی ، تابلو برق</a>
-                <span class="post-date tasis-byekan"><i class="fa fa-calendar"></i>2 اسفند 1398</span>
-              </li>
             </ul>
           </aside>
 

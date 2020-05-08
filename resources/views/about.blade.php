@@ -43,7 +43,7 @@
                                 <div class="section-title with-desc clearfix">
                                     <div class="title-header">
 
-                                        <h2 class="title"> شرکت سهامی تأسیسات <br> ساختمان ایران <span> تسیس </span></h2>
+                                        <h2 class="title" style="font-family:Rezvan!important;"> شرکت سهامی تأسیسات <br> ساختمان ایران <span> تسیس </span></h2>
                                     </div>
                                     <div class="title-desc">
                                         <p style="direction: rtl; text-align: justify">
@@ -110,7 +110,7 @@
                                         <div class="section-title with-desc clearfix">
                                             <div class="title-header">
                                                 <h5>چرا تسیس؟</h5>
-                                                <h2 class="title"> شرکت سهامی تأسیسات ساختمان ایران <span>تسیس</span></h2>
+                                                <h2 class="title" style="font-family:Rezvan!important;"> شرکت سهامی تأسیسات ساختمان ایران <span>تسیس</span></h2>
                                             </div>
                                             <div class="title-desc">
                                                 <p style="direction: rtl; font-family: BYekan; ">
@@ -146,7 +146,7 @@
                             <!-- section-title -->
                             <div class="section-title style2 clearfix">
                                 <div class="title-header">
-                                    <h2 class="title">هیئت امنا و هیئت مدیره</h2>
+                                    <h2 class="title" style="font-family:Rezvan!important;">هیئت امنا و هیئت مدیره</h2>
                                 </div>
                             </div><!-- section-title end -->
                         </div>

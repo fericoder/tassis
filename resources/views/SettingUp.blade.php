@@ -56,15 +56,15 @@
                   <div class="sep-line mt-15 mb-25"></div>
                 </div>
                 <!-- separator -->
-                <h2>راه‌اندازی،تاسیسات،تجهیزات</h2>
-                <h5 class="text-secondary">
+                <h2 style="font-family:Rezvan!important;">راه‌اندازی،تاسیسات،تجهیزات</h2>
+                <p class="text-secondary"  style="font-size: 16px!important;">
                   شرکت تسیس با بهره گیری از آخرین دانش‌ها و روش‌های بومی شده شرکا اصلی خود بعنوان پیشتاز در ارائه خدمات حرفه‌ای PPM(Professional Property Management) خصوصا مدیریت جامع امکانات موجود (Facility Management)
 
                   با پشتوانه نیم قرن تجربه در سیستم تاسیسات  در کلاس جهانی فعالیت میکند.
-                </h5>
-                <h5 class="text-secondary">
+                </p>
+                <p class="text-secondary"  style="font-size: 16px!important;">
                   شرکت تسیس با همسو نمودن منافع تمامی عوامل مرتبط با موضوع (Stakeholder) و نگاه شریک به کارفرما خود بجای مشتری نسیت به پیاده سازی خدمات جامع و جاری برای انواع ساختمان های کوتاه، میان و بلند مرتبه، برج ها و مجتمع ها با کاربری‌های مسکونی، اداری، تجاری، آموزشی، فرهنگی، خدماتی، مذهبی، هتل ها و مارکز بهداشتی و درمانی، صنعتی یا مختلط (Complex) اقدام می‌نماید.
-                </h5>
+                </p>
                 <div class="row">
                   <div class="col-md-6">
                     <div class="mb-20">
@@ -77,11 +77,11 @@
                     </div>
                   </div>
                 </div>
-                <h5 class="text-secondary"> مدیریت یکپارچه خدمات فنی و تجهیزات با بهره گیری از تخصص و دانش‌های به روز و بومی شده توسط شریک  اصلی خود در مورد آموزش تکمیلی نیروهای متخصص و استانداردهای بین المللی، هچنین با بهره گیری از تجربه  دیرین خود در پروژه های مشابه طراحی و تبیین شده اند.
-                </h5>
-                <h5 class="text-secondary">
+                <p class="text-secondary"  style="font-size: 16px!important;"> مدیریت یکپارچه خدمات فنی و تجهیزات با بهره گیری از تخصص و دانش‌های به روز و بومی شده توسط شریک  اصلی خود در مورد آموزش تکمیلی نیروهای متخصص و استانداردهای بین المللی، هچنین با بهره گیری از تجربه  دیرین خود در پروژه های مشابه طراحی و تبیین شده اند.
+                </p>
+                <p class="text-secondary"  style="font-size: 16px!important;">
                   این شرکت بعنوان شرکت ارائه دهنده خدمات نگهداری امکانات (تجهیزات) بر اساس آخرین سناریوهای علم تعمیر و نگهداری باعث بالابردن بازدهی و سطح استاندارد و بهینه شدن هزینه های نگهداری و به حداقل رسانیدن میزان استهلاک پروژه های کارفرمایان خود می‌گردد.
-                </h5>
+                </p>
 
                 <blockquote>
                   <br>o	 بهینه سازی و به روزرسانی، تعمیر و نگهداری موتورخانه و تهویه مطبوع بر اساس سناریوهای مختلف
@@ -101,9 +101,9 @@
                   <img class="img-fluid" src="images/blog/3438.jpg" alt="post-06">
                 </div>
 
-                                <h5 class="text-secondary">
+                                <p class="text-secondary"  style="font-size: 16px!important;">
                                   همچنین با تکیه بر تجربیات مهندسین خود نسبت به تهیه و ارائه پیشنهاد بهینه سازی و یا جایگزینی و جابجایی تجهیزات در موتورخانه بر اساس تکنولوژی های نوین به کارفرما، باعث راه اندازی و افزایش عمر تجهیزات فرسوده و بالابردن راندمان ساختمان میگردد.
-                                </h5>
+                                </p>
                 <!-- separator -->
                 <div class="separator">
                   <div class="sep-line mt-25 mb-25"></div>
@@ -126,26 +126,7 @@
 
             </ul>
           </aside>
-          <aside class="widget post-widget">
-            <h3 class="widget-title">آخرین خبرها</h3>
-            <ul class="widget-post ttm-recent-post-list">
-              <li>
-                <a href="single-blog.html"><img src="images/blog/gazi.jpg" alt="post-img"></a>
-                <a href="single-blog.html">کولر گازی و اسپلیت و داکت اسپلیت</a>
-                <span class="post-date tasis-byekan"><i class="fa fa-calendar"></i>24 بهمن 1398</span>
-              </li>
-              <li>
-                <a href="single-blog.html"><img src="images/blog/cheraq.jpg" alt="post-img"></a>
-                <a href="single-blog.html">نصب روشنایی چراغ دیواری</a>
-                <span class="post-date tasis-byekan"><i class="fa fa-calendar"></i>30 بهمن 1398</span>
-              </li>
-              <li>
-                <a href="single-blog.html"><img src="images/blog/barq.jpg" alt="post-img"></a>
-                <a href="single-blog.html">لوازم برقی ، تابلو برق</a>
-                <span class="post-date tasis-byekan"><i class="fa fa-calendar"></i>2 اسفند 1398</span>
-              </li>
-            </ul>
-          </aside>
+
 
         </div>
       </div><!-- row end -->

@@ -315,7 +315,7 @@ div.product ul.tabs li a:before {
                            <!-- section title -->
                            <div class="section-title with-desc clearfix">
                                <div class="title-header">
-                                   <h2 class="title">درباره <span>الوتسیس</span></h2>
+                                   <h2 class="title" style="font-family:Rezvan!important;">درباره <span style="font-family:Rezvan!important;">الوتسیس</span></h2>
                                </div>
                                <div style="direction: rtl" class="title-desc">
                                    <b class="title">اورژانس تاسیسات :</b>
@@ -366,7 +366,7 @@ div.product ul.tabs li a:before {
                                        <!-- section-title -->
                                        <div class="section-title with-desc text-center clearfix">
                                            <div class="title-header">
-                                               <h2 class="title"> خدمات  <span>الو تسیس</span></h2>
+                                               <h2 class="title" style="font-family:Rezvan!important;"> خدمات  <span style="font-family:Rezvan!important;">الو تسیس</span></h2>
                                            </div>
                                        </div><!-- section-title end -->
                                    </div>
@@ -762,7 +762,7 @@ div.product ul.tabs li a:before {
                            <!-- section title -->
                            <div class="section-title text-center with-desc clearfix">
                                <div class="title-header">
-                                   <h2 class="title"> الو تسیس <span> چگونه کار می کند؟ </span></h2>
+                                   <h2 class="title" style="font-family:Rezvan!important;"> الو تسیس <span style="font-family:Rezvan!important;"> چگونه کار می کند؟ </span></h2>
                                </div>
                            </div><!-- section title end -->
                        </div>

@@ -95,27 +95,7 @@
 
             </ul>
           </aside>
-          <aside class="widget post-widget">
-            <h3 class="widget-title">آخرین خبرها</h3>
-            <ul class="widget-post ttm-recent-post-list">
-              <li>
-                <a href="single-blog.html"><img src="images/blog/gazi.jpg" alt="post-img"></a>
-                <a href="single-blog.html">کولر گازی و اسپلیت و داکت اسپلیت</a>
-                <span class="post-date tasis-byekan"><i class="fa fa-calendar"></i>24 بهمن 1398</span>
-              </li>
-              <li>
-                <a href="single-blog.html"><img src="images/blog/cheraq.jpg" alt="post-img"></a>
-                <a href="single-blog.html">نصب روشنایی چراغ دیواری</a>
-                <span class="post-date tasis-byekan"><i class="fa fa-calendar"></i>30 بهمن 1398</span>
-              </li>
-              <li>
-                <a href="single-blog.html"><img src="images/blog/barq.jpg" alt="post-img"></a>
-                <a href="single-blog.html">لوازم برقی ، تابلو برق</a>
-                <span class="post-date tasis-byekan"><i class="fa fa-calendar"></i>2 اسفند 1398</span>
-              </li>
-            </ul>
-          </aside>
-
+        
         </div>
       </div><!-- row end -->
     </div>

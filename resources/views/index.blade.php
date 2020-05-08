@@ -62,7 +62,7 @@
                     <div style="    margin-top: 80px;" class="section-title with-desc text-center clearfix">
                         <div class="title-header">
 
-                            <h2 class="title"> خدمات <span> تسیس </span></h2>
+                            <h2 class="title" style="font-family:Rezvan!important;"> خدمات <span style="font-family:Rezvan!important;"> تسیس </span></h2>
                         </div>
                     </div><!-- section title end -->
                 </div>
@@ -72,7 +72,7 @@
 
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
-                    <div style="height: 88%!important; background-color: #c7443a!important" class="featured-icon-box style6">
+                    <div style="height: 88%!important; background-color: #D62828!important" class="featured-icon-box style6">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
                                 <h5 class="mb-10 tasis-center text-white">الو تسیس</h5>
@@ -93,7 +93,7 @@
 
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
-                    <div style="height: 88%!important; background-color: #3f3e79!important" class="featured-icon-box style6">
+                    <div style="height: 88%!important; background-color: #003049!important" class="featured-icon-box style6">
                       <a href="/SettingUp">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
@@ -115,7 +115,7 @@
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <!--  featured-icon-box -->
-                    <div style="height: 88%!important; background-color: #00305A!important" class="featured-icon-box style6">
+                    <div style="height: 88%!important; background-color: #FEC601!important" class="featured-icon-box style6">
                         <a href="/Technology">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
@@ -133,9 +133,9 @@
                             مشاهده بیشتر </a>
                     </div><!--  featured-icon-box END -->
                 </div>
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-6">
                     <!--  featured-icon-box -->
-                    <div style="height: 88%!important; background-color: #3d8a55!important" class="featured-icon-box style6">
+                    <div style="height: 88%!important; background-color: #245501!important" class="featured-icon-box style6">
                         <a href="/Live">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
@@ -154,9 +154,9 @@
                             مشاهده بیشتر </a>
                     </div><!--  featured-icon-box END -->
                 </div>
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-6">
                     <!--  featured-icon-box -->
-                    <div style="height: 88%!important; background-color: #2C3E50!important" class="featured-icon-box style6">
+                    <div style="height: 88%!important; background-color: #177E89!important" class="featured-icon-box style6">
                         <a href="/General">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
