@@ -98,9 +98,9 @@
           <aside class="widget widget-categories">
             <h3 class="widget-title">خدمات دیگر</h3>
             <ul>
-              <li><a href="#">خدمات عمومی</a></li>
-              <li><a href="#">فن آوری های نوین</a></li>
-              <li><a href="#">راه اندازی، تاسیسات، تجهیزات</a></li>
+              <li><a href="/General">خدمات عمومی</a></li>
+              <li><a href="/Technology">فن آوری های نوین</a></li>
+              <li><a href="/SettingUp">راه اندازی، تاسیسات، تجهیزات</a></li>
 
             </ul>
           </aside>

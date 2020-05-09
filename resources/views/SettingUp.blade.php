@@ -120,9 +120,9 @@
           <aside class="widget widget-categories">
             <h3 class="widget-title">خدمات دیگر</h3>
             <ul>
-              <li><a href="#">خدمات عمومی</a></li>
-              <li><a href="#">فن آوری های نوین</a></li>
-              <li><a href="#">خدمات محیط زیست</a></li>
+              <li><a href="/General">خدمات عمومی</a></li>
+              <li><a href="/Technology">فن آوری های نوین</a></li>
+              <li><a href="/Live">خدمات محیط زیست</a></li>
 
             </ul>
           </aside>
