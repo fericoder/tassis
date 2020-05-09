@@ -36,11 +36,7 @@
           <!-- ttm-service-single-content-are -->
           <article class="post ttm-blog-single clearfix">
             <!-- post-featured-wrapper -->
-            <div class="ttm-post-featured-wrapper">
-              <div class="ttm-post-featured">
-                <img class="img-fluid" src="images/blog/3122.jpg" alt="post-01">
-              </div>
-            </div><!-- post-featured-wrapper end -->
+
             <!-- ttm-blog-classic-content -->
             <div class="ttm-blog-single-content">
               <div class="entry-content">
@@ -64,12 +60,12 @@
                 <div class="row" style="margin-top:40px;">
                   <div class="col-md-6">
                     <div class="mb-20">
-                      <img src="images/blog/3459689.jpg" class="img-fluid" alt="blog">
+                      <img src="/newpics/services/garden/2.jpg" class="img-fluid" alt="blog">
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="mb-20">
-                      <img src="images/blog/3443534.jpg" class="img-fluid" alt="blog">
+                      <img src="/newpics/services/garden/1.jpg" class="img-fluid" alt="blog">
                     </div>
                   </div>
                 </div>

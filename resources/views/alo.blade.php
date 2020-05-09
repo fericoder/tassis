@@ -382,7 +382,9 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href="">کولر آبی</a></h5>
+                                                   <h5><a href="">
+                                                           <span style="font-size: 14px">تعمیر</span>
+                                                           کولر آبی</a></h5>
                                                </div>
 
                                            </div>
@@ -397,7 +399,10 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href="">مشعل گازی و گازوئیلی</a></h5>
+                                                   <h5><a href="">
+                                                           <span style="font-size: 14px">تعمیر</span>
+                                                           مشعل گازی و گازوئیلی
+                                                       </a></h5>
                                                </div>
 
                                            </div>
@@ -412,7 +417,10 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href="">بوستر پمپ آبرسانی</a></h5>
+                                                   <h5><a href="">
+                                                       <span style="font-size: 14px">تعمیر</span>
+                                                           بوستر پمپ آبرسانی
+                                                       </a></h5>
                                                </div>
 
                                            </div>
@@ -427,7 +435,9 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href="">پمپ های سیرکوله</a></h5>
+                                                   <h5><a href="">
+                                                           <span style="font-size: 14px">تعمیر</span>
+                                                           پمپ های سیرکوله</a></h5>
                                                </div>
 
                                            </div>
@@ -438,11 +448,12 @@ div.product ul.tabs li a:before {
                                        <!-- featured-imagebox-services -->
                                        <div class="featured-imagebox featured-imagebox-services style1 mb-30">
                                            <div class="featured-thumbnail box-shadow"><!-- featured-thumbnail -->
-                                               <img class="img-fluid tasis-w" src="images/services/folad.jpg" alt="image">
+                                               <img class="img-fluid tasis-w" src="images/services/folad.jpeg" alt="image">
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h6><a href="">دیگ های چدنی و فولادی کوچک</a></h6>
+                                                   <h6><a href=""><span style="font-size: 14px">تعمیر</span>
+                                                           دیگ های چدنی و فولادی کوچک</a></h6>
                                                </div>
 
                                            </div>
@@ -457,7 +468,9 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h6><a href="">شیر آلات و
+                                                   <h6><a href="">
+                                                           <span style="font-size: 14px">تعمیر</span>
+                                                           شیر آلات و
 سرویس بهداشتی</a></h6>
                                                </div>
                                            </div>
@@ -472,7 +485,9 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href="">انواع رادیاتور</a></h5>
+                                                   <h5><a href="">
+                                                           <span style="font-size: 14px">تعمیر</span>
+                                                           انواع رادیاتور</a></h5>
                                                </div>
 
                                            </div>
@@ -487,7 +502,9 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href="">ترکیدگی لوله</a></h5>
+                                                   <h5><a href="">
+                                                           <span style="font-size: 14px">تعمیر</span>
+                                                           ترکیدگی لوله</a></h5>
                                                </div>
 
                                            </div>
@@ -502,7 +519,8 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h6><a href="">کولر گازی و اسپلیت و داکت اسپلیت</a></h6>
+                                                   <h6><a href="">
+                                                           کولر گازی و اسپلیت و داکت اسپلیت</a></h6>
                                                </div>
 
                                            </div>
@@ -517,7 +535,8 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href="">نصب روشنایی چراغ دیواری</a></h5>
+                                                   <h5><a href="">
+                                                           نصب روشنایی چراغ دیواری</a></h5>
                                                </div>
 
 
@@ -533,7 +552,9 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href="">پکیج و آبگرمکن</a></h5>
+                                                   <h5><a href="">
+                                                           <span style="font-size: 14px">تعمیر</span>
+                                                           پکیج و آبگرمکن</a></h5>
                                                </div>
                                            </div>
                                        </div>
@@ -547,7 +568,8 @@ div.product ul.tabs li a:before {
                                            </div>
                                            <div class="featured-content box-shadow">
                                                <div class="featured-title"><!-- featured-title -->
-                                                   <h5><a href="">سیم کشی و تابلو برق</a></h5>
+                                                   <h5><a href="">
+                                                           سیم کشی و تابلو برق</a></h5>
                                                </div>
 
                                            </div>

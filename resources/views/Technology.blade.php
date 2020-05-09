@@ -36,11 +36,7 @@
           <!-- ttm-service-single-content-are -->
           <article class="post ttm-blog-single clearfix">
             <!-- post-featured-wrapper -->
-            <div class="ttm-post-featured-wrapper">
-              <div class="ttm-post-featured">
-                <img class="img-fluid" src="images/blog/18191.jpg" alt="post-01">
-              </div>
-            </div><!-- post-featured-wrapper end -->
+
             <!-- ttm-blog-classic-content -->
             <div class="ttm-blog-single-content">
               <div class="entry-content">
@@ -63,12 +59,12 @@
                 <div class="row">
                   <div class="col-md-6">
                     <div class="mb-20">
-                      <img src="images/blog/10124.jpg" class="img-fluid" alt="blog" style="height:220px;">
+                      <img src="/newpics/services/energyNovin/1.jpg" class="img-fluid" alt="blog" style="height:220px;">
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="mb-20">
-                      <img src="images/blog/10144.jpg" class="img-fluid" alt="blog" style="height:220px;">
+                      <img src="/newpics/services/energyNovin/2.jpg" class="img-fluid" alt="blog" style="height:220px;">
                     </div>
                   </div>
                 </div>
@@ -91,7 +87,7 @@
                 </blockquote>
 
                 <div class="ttm-post-featured mb-25">
-                  <img class="img-fluid" src="images/blog/15600.jpg" alt="post-06">
+                  <img class="img-fluid" src="/newpics/services/energyNovin/5.jpg" alt="post-06">
                 </div>
 
                 <!-- separator -->

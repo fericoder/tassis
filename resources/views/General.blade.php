@@ -36,11 +36,7 @@
           <!-- ttm-service-single-content-are -->
           <article class="post ttm-blog-single clearfix">
             <!-- post-featured-wrapper -->
-            <div class="ttm-post-featured-wrapper">
-              <div class="ttm-post-featured">
-                <img class="img-fluid" src="images/blog/261824.jpg" alt="post-01">
-              </div>
-            </div><!-- post-featured-wrapper end -->
+
             <!-- ttm-blog-classic-content -->
             <div class="ttm-blog-single-content">
               <div class="entry-content">
@@ -68,6 +64,19 @@
                   <br>o	خدمات فروش مایتحاح روزانه
                   <br>o	 خدمات VIP، رستوران‌های سیار(Portable) ، صبحانه در لابی یا محل کار
                 </blockquote>
+
+                <div class="row" style="margin-top:40px;">
+                  <div class="col-md-6">
+                    <div class="mb-20">
+                      <img src="/newpics/services/general/2.jpg" class="img-fluid" alt="blog">
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="mb-20">
+                      <img src="/newpics/services/general/1.jpg" class="img-fluid" alt="blog">
+                    </div>
+                  </div>
+                </div>
 
                 <div class="ttm-post-featured mb-25">
                   <img class="img-fluid" src="images/blog/car-wash.jpg" alt="post-06">
