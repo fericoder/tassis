@@ -130,8 +130,8 @@ div.product ul.tabs li a:before {
                   <rs-module id="rev_slider_1_1" style="" data-version="6.0.1" class="rev_slider_1_1_height">
                       <rs-slides>
                           <!-- rs-slide -->
-                          <rs-slide class="tasis-ltr" data-key="rs-3" data-title="Slide" data-thumb="images/slides/11.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                              <img src="images/slides/12.jpg" title="tassis21" width="1920" height="790" class="rev-slidebg" data-no-retina>
+                          <rs-slide class="tasis-ltr" data-key="rs-3" data-title="Slide" data-thumb="images/slides/aloslode.jpeg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                              <img src="images/slides/aloslode.jpeg" title="tassis21" width="1920" height="790" class="rev-slidebg" data-no-retina>
                               <rs-layer
                                   id="slider-2-slide-1-layer-0"
                                   data-type="text"

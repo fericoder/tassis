@@ -19,7 +19,7 @@
                                     <span>درباره ما</span>
                                 </span>
                                 <span class="ttm-bread-sep">&nbsp;/ &nbsp;</span>
-                                <a title="Homepage" href="index.html"><i class="ti ti-home ml-1"></i>صفحه اصلی</a>
+                                <a title="Homepage" href="/"><i class="ti ti-home ml-1"></i>صفحه اصلی</a>
 
                             </div>
                         </div>
@@ -72,9 +72,16 @@
                         <div class="col-lg-6">
                             <div class="position-relative">
                                 <!-- ttm_single_image-wrapper -->
-                                <div class="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
-                                    <img class="img-fluid" src="images/3.jpg" title="single-img-nine" alt="single-img-nine">
+
+                                <div class="ttm_single_image-wrapper text-sm-center mt-4 mr-35 res-991-m-0">
+                                    <img class="img-fluid" src="/images/plumer.jpg" title="single-img-nine" alt="single-img-nine">
                                 </div><!-- ttm_single_image-wrapper end -->
+
+
+                                <div class="ttm_single_image-wrapper mt-4 text-sm-center mr-35 res-991-m-0">
+                                    <img class="img-fluid" src="/newpics/services/garden/2.jpg" title="single-img-nine" alt="single-img-nine">
+                                </div><!-- ttm_single_image-wrapper end -->
+
 
                             </div>
                         </div>

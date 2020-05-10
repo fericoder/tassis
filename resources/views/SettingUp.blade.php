@@ -36,11 +36,7 @@
           <!-- ttm-service-single-content-are -->
           <article class="post ttm-blog-single clearfix">
             <!-- post-featured-wrapper -->
-            <div class="ttm-post-featured-wrapper">
-              <div class="ttm-post-featured">
-                <img class="img-fluid" src="images/blog/146.jpg" alt="post-01">
-              </div>
-            </div><!-- post-featured-wrapper end -->
+
             <!-- ttm-blog-classic-content -->
             <div class="ttm-blog-single-content">
               <div class="entry-content">
@@ -68,12 +64,12 @@
                 <div class="row">
                   <div class="col-md-6">
                     <div class="mb-20">
-                      <img src="images/blog/3434.jpg" class="img-fluid" alt="blog" style="height:220px;">
+                      <img src="/newpics/services/main/1.jpg" class="img-fluid" alt="blog" style="height:220px;">
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="mb-20">
-                      <img src="images/blog/3435.jpg" class="img-fluid" alt="blog" style="height:220px;">
+                      <img src="/newpics/services/main/2.jpg" class="img-fluid" alt="blog" style="height:220px;">
                     </div>
                   </div>
                 </div>
@@ -96,10 +92,6 @@
                   <br>o	 خدمات کنترل و نظارت تخصصی
 
                 </blockquote>
-
-                <div class="ttm-post-featured mb-25">
-                  <img class="img-fluid" src="images/blog/3438.jpg" alt="post-06">
-                </div>
 
                                 <p class="text-secondary"  style="font-size: 16px!important;">
                                   همچنین با تکیه بر تجربیات مهندسین خود نسبت به تهیه و ارائه پیشنهاد بهینه سازی و یا جایگزینی و جابجایی تجهیزات در موتورخانه بر اساس تکنولوژی های نوین به کارفرما، باعث راه اندازی و افزایش عمر تجهیزات فرسوده و بالابردن راندمان ساختمان میگردد.

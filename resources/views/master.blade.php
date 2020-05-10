@@ -162,6 +162,8 @@ body.rtl .tp-mask-wrap {
 
        </header><!--header end-->
 
+
+
 @yield('content')
 
        <!--footer start-->
