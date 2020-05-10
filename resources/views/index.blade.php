@@ -62,7 +62,7 @@
                     <div style="    margin-top: 80px;" class="section-title with-desc text-center clearfix">
                         <div class="title-header">
 
-                            <h2 class="title" style="font-family:Rezvan!important;"> خدمات <span style="font-family:Rezvan!important;"> تسیس </span></h2>
+                            <h2 class="title" style="font-family:Rezvan!important;"> خدمات <span style="font-family:Rezvan!important; font-size:40px;" class="text-danger">" تسیس " </span></h2>
                         </div>
                     </div><!-- section title end -->
                 </div>

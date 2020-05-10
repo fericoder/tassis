@@ -186,7 +186,7 @@ body.rtl .tp-mask-wrap {
                                    </div>
                                    <div class="featured-content"><!--  featured-content -->
                                        <div class="featured-desc tasis-ltr">
-                                           <p>تهران، ملاصدرا، ابتدای شیراز ، نبش بن بست کاج، </p>
+                                           <p class="tasis-byekan">تهران، ملاصدرا، ابتدای شیراز ، نبش بن بست کاج، پلاک 4 طبقه دوم</p>
                                        </div>
                                    </div>
                                </div><!--  featured-icon-box END -->
