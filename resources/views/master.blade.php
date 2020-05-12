@@ -88,7 +88,7 @@ body.rtl .tp-mask-wrap {
                                </ul>
                                <div class="topbar-right text-right">
                                    <ul class="top-contact">
-                                       <li class="tasis-byekan"><i class="fa fa-phone"></i> 2470 </li>
+                                       <li class="tasis-byekan"><i class="fa fa-phone"></i><a href="tel:2470"> 2470 </a> </li>
                                    </ul>
                                    <div class="ttm-social-links-wrapper list-inline">
                                        <ul class="social-icons">
@@ -111,8 +111,8 @@ body.rtl .tp-mask-wrap {
                            <div  class="container">
                                <!-- site-branding -->
                                <div class="site-branding">
-                                   <a class="home-link" href="/" title="Tassis" rel="home">
-                                       <img id="logo-img" class="img-center lazyload" data-src="images/logo.png" alt="logo">
+                                   <a class="home-link" href="/" title="شرکت تأسیسات ساختمان ایران(تسیس)" rel="home">
+                                       <img id="logo-img" class="img-center lazyload" data-src="images/logo.png" alt="شرکت تأسیسات ساختمان ایران(تسیس)">
                                    </a>
                                </div><!-- site-branding end -->
                                <!--site-navigation -->
@@ -144,10 +144,10 @@ body.rtl .tp-mask-wrap {
 
 
                                            <li class="{{  request()->is('*about*') ? 'active' : '' }}"><a href="/about">درباره ما</a> </li>
-                                           <li style="display: none" class="{{  request()->is('') ? 'active' : '' }}"><a href="#">همکاری باما</a></li>
+                                           <li style="display: none" class="{{  request()->is('') ? 'active' : '' }}"><a href="#">همکاری با ما</a></li>
                                            <li class="{{  request()->is('*resume') ? 'active' : '' }}"><a href="/resume">رزومه</a></li>
                                            <li class="{{  request()->is('*partners') ? 'active' : '' }}"><a href="/partners">شرکا و سرمایه گذاران</a></li>
-                                           <li class="{{  request()->is('*contact*') ? 'active' : '' }}"><a href="/contact">تماس باما</a></li>
+                                           <li class="{{  request()->is('*contact*') ? 'active' : '' }}"><a href="/contact">تماس با ما</a></li>
                                            <li class="{{  request()->is('*alo') ? 'active' : '' }}"><a style="color: red" href="/alo">الو تسیس (اورژانس تاسیسات)
                                                    <img style="    width: 60px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzGylcSVNWKCikX_5MaK_5b_wcQdDSn1lC7ZgO0bqV7Dd7OEXb&usqp=CAU" alt="">
                                                </a></li>
@@ -196,7 +196,7 @@ body.rtl .tp-mask-wrap {
                        </div>
                        <div class="col-lg-4 col-md-4 col-sm-6 order-md-3">
                            <div class="text-sm-right">
-                               <a class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-white" href="phone" title=""><i class="fa fa-phone"></i><span class="tasis-byekan">تماس با اورژانس تاسیسات: ۲۴۷۰
+                               <a  class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-icon-btn-left ttm-btn-color-white" href="tel:2470" title=""><i class="fa fa-phone"></i><span class="tasis-byekan">تماس با اورژانس تاسیسات: ۲۴۷۰
 
 </span></a>
                            </div>
@@ -225,7 +225,7 @@ body.rtl .tp-mask-wrap {
                                                <p>تماس بگیرید!</p>
                                            </div>
                                            <div class="featured-title"><!--  featured-title -->
-                                               <h5 class="tasis-byekan">2470</h5>
+                                               <h5 class="tasis-byekan"><a href="tel:2470"> 2470 </a></h5>
                                            </div>
                                        </div>
                                    </div><!--  featured-icon-box END -->
@@ -239,7 +239,7 @@ body.rtl .tp-mask-wrap {
                                    <li><a href="#">تسیس</a></li>
                                    <li><a href="#">الو تسیس</a></li>
                                    <li><a href="#">سرویس ها</a></li>
-                                   <li><a href="#">تماس باما</a></li>
+                                   <li><a href="#">تماس با ما</a></li>
                                    <li><a href="#">مقالات</a></li>
                                </ul>
                            </div>
@@ -269,7 +269,7 @@ body.rtl .tp-mask-wrap {
                    <div class="row copyright">
                        <div class="col-md-6">
                            <div class="">
-                               <span>© تمامی حقوق محفوظ است |   <a href="" target="_blank"> دپارتمان طراحی و توسعه یوتاب  </a></span>
+                               <span>©️ تمامی حقوق این سایت برای شرکت تسیس محفوظ است |   <a href="" target="_blank"> دپارتمان طراحی و توسعه یوتاب  </a></span>
                            </div>
                        </div>
 

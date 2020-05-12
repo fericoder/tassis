@@ -49,7 +49,7 @@
                             <img src="/indexSlider/image/slides/_u/2.jpeg">
                         </li>
                         <li>
-                            <img src="/indexSlider/image/slides/_u/3.jpeg">
+                            <img src="/indexSlider/image/slides/_u/3738.jpg">
                         </li>
                         <li>
                             <img src="/indexSlider/image/slides/_u/1487053937_banner.png">
@@ -113,13 +113,13 @@
                       <a href="/SettingUp">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
-                                <h5 class="mb-10 tasis-center text-white">راه‌اندازی،تاسیسات،تجهیزات</h5>
+                                <h5 class="mb-10 tasis-center text-white">راه‌اندازی، تاسیسات، تجهیزات</h5>
                             </div>
                             <div class="featured-desc"><!--  featured-desc -->
                                 <p class="mb-1 text-white">• تعمیر و نگهداری سیستم MEP
                                     <br>• آسانسور
                                     <br>
-                                    • نصب و نگهداری سیستم اطفاء و اعلام حریق،سونا، استخر و جکوزی
+                                    • نصب و نگهداری سیستم اطفاء و اعلام حریق، سونا، استخر و جکوزی
 
                                 </p>
                             </div>
