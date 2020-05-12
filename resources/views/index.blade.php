@@ -26,6 +26,18 @@
     <!-- END REVOLUTION SLIDER -->
 
 
+    <div style="margin-top: 150px; margin-bottom: 20px" class="row">
+        <div class="col-md-12">
+            <p style="margin: auto; font-family: Rezvan!important; font-size:29px; text-align: center" class="m-auto">شرکت سهامی تاسیسات ساختمان ایران
+              <span style="margin: auto; font-family: Rezvan!important; font-size:29px; text-align: center; color: red">" تسیس "</span>
+              <span style="margin: auto; font-family: BYekan!important; font-size:18px; text-align: center;margin-right: 30px ">تاسیس ۱۳۴۷</span>
+
+
+            </p>
+        </div>
+    </div>
+
+
     <div class="row">
         <div class="col-md-12">
                 <div style="direction: ltr; height: 550px" data-play_type="loop" data-interval="4000" data-image_fx="zoomrotate"   class="ism-slider" id="my-slider">
@@ -37,10 +49,10 @@
                             <img src="/indexSlider/image/slides/_u/2.jpeg">
                         </li>
                         <li>
-                            <img src="/indexSlider/image/slides/_u/3.jpeg">
+                            <img src="/indexSlider/image/slides/_u/3738.jpg">
                         </li>
                         <li>
-                            <img src="/indexSlider/image/slides/_u/4.jpeg">
+                            <img src="/indexSlider/image/slides/_u/1487053937_banner.png">
                         </li>
                         <li>
                             <img src="/indexSlider/image/slides/_u/5.jpeg">
@@ -52,9 +64,13 @@
     </div>
 
 
+
+
+
     <!-- service-section -->
     <section style="    padding: 20px 0!important;" id="services"
              class="ttm-row service-section-style2 ttm-bgcolor-grey clearfix ">
+
         <div class="container">
             <div class="row"><!-- row -->
                 <div class="col-lg-12">
@@ -97,13 +113,13 @@
                       <a href="/SettingUp">
                         <div class="featured-content"><!--  featured-content -->
                             <div class="featured-title"><!--  featured-title -->
-                                <h5 class="mb-10 tasis-center text-white">راه‌اندازی،تاسیسات،تجهیزات</h5>
+                                <h5 class="mb-10 tasis-center text-white">راه‌اندازی، تاسیسات، تجهیزات</h5>
                             </div>
                             <div class="featured-desc"><!--  featured-desc -->
                                 <p class="mb-1 text-white">• تعمیر و نگهداری سیستم MEP
                                     <br>• آسانسور
                                     <br>
-                                    • نصب و نگهداری سیستم اطفاء و اعلام حریق،سونا، استخر و جکوزی
+                                    • نصب و نگهداری سیستم اطفاء و اعلام حریق، سونا، استخر و جکوزی
 
                                 </p>
                             </div>

@@ -134,9 +134,9 @@
                                       <div class="featured-desc"><!-- featured-description -->
                                           <br>
                                           <p style="font-family: BYekan!important; font-size: 19px">
-                                              88030042
+                                              <a href="tel:88030042">88030042</a>
                                               <br>
-                                              88060324
+                                              <a href="tel:88060324">88060324</a>
                                           </p>
                                       </div>
                                   </div><!-- featured-content END-->
