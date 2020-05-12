@@ -213,7 +213,7 @@
                         </div>
                         </h2>
                         <div class="title-desc">
-                            <p style="direction: rtl; text-align: justify">
+                            <p class="tasis-byekan" style="direction: rtl; text-align: justify">
                                 شرکت تاسیسات ساختمان ایران "تسیس"در سال 1347 تاسیس شده است واینک با قدمت بیش از نیم قرن
                                 با سابقه ترین وبزرگترین شرکت تخصصی تاسیسات کشور می باشد.
                                 عمده اهداف شرکت تسیس عبارت است از :<br>

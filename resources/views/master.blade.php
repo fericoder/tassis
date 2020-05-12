@@ -208,7 +208,7 @@ body.rtl .tp-mask-wrap {
                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 widget-area">
                            <div class="widget widget_text  clearfix">
                                <h3 class="widget-title">درباره تسیس</h3>
-                               <div class="textwidget widget-text">
+                               <div class="textwidget widget-text tasis-byekan">
                                    شرکت تاسیسات ساختمان ایران "تسیس"در سال 1347 تاسیس شده است واینک با قدمت بیش از نیم قرن با سابقه ترین وبزرگترین شرکت تخصصی تاسیسات کشور می باشد                               </div>
                                <div class="quicklink-box">
                                    <!--  featured-icon-box -->
